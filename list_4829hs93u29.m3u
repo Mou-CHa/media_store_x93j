@@ -55,3 +55,64 @@ http://185.178.185.253:9981/stream/channelid/1320848149?ticket=D383BEE7334804310
 http://185.178.185.253:9981/stream/channelid/1934175862?ticket=44609F245A8F0EDAB76EE38FA5ACB76A4A0FF09A&profile=pass
 #EXTINF:0,TVO Kids
 https://fastly.live.brightcove.com/6369851620112/us-east-1/15364602001/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJob3N0IjoicGZncmlmLmVncmVzcy50N2M3emwiLCJhY2NvdW50X2lkIjoiMTUzNjQ2MDIwMDEiLCJlaG4iOiJmYXN0bHkubGl2ZS5icmlnaHRjb3ZlLmNvbSIsImlzcyI6ImJsaXZlLXBsYXliYWNrLXNvdXJjZS1hcGkiLCJzdWIiOiJwYXRobWFwdG9rZW4iLCJhdWQiOlsiMTUzNjQ2MDIwMDEiXSwianRpIjoiNjM2OTg1MTYyMDExMiJ9.zRE6fD9JwdbNLUIK5zgvlTAvXCQ3HeeE5p0yH0Pd3-Q/chunklist.m3u8
+#EXTINF:0, Zoomoo amagi
+https://zoomoo-samsungau.amagi.tv/playlist1080p.m3u8
+#EXTINF:0, KIDS su
+http://livestream.biznetvideo.net/biznet_kids/smil:kids.smil/index.m3u8
+#EXTINF:0,Cartoonito
+http://112.72.4.72/live/disk1/Boomerang/HLSv3-FTA/Boomerang.m3u8
+#EXTINF:0, Cbeebies
+http://112.72.4.72/live/disk1/Cbeebies/HLSv3-FTA/Cbeebies.m3u8
+#EXTINF:0, Catroon Network
+http://112.72.4.72/live/disk1/Cartoon_Network/HLSv3-FTA/Cartoon_Network.m3u8
+#EXTINF:0, pbs kids
+https://livestream.pbskids.org/out/v1/14507d931bbe48a69287e4850e53443c/est.m3u8
+#EXTINF:-1, TIVI MONDE FR
+https://ott.tv5monde.com/Content/HLS/Live/channel(tivi5)/variant.m3u8
+#EXTINF:0, kidspangtv
+https://newidco-kidspangtv-1-us.roku.wurl.tv/playlist.m3u8
+#EXTINF:0, roya-kids
+https://playlist.fasttvcdn.com/pl/ptllxjd03j6g9oxxjdfapg/roya-kids/playlist.m3u8
+#EXTINF:1, roya-kids-originals
+https://playlist.fasttvcdn.com/pl/ptllxjd03j6g9oxxjdfapg/roya-kids-originals/playlist.m3u8
+#EXTINF:-1, ENGLISH CLUB HD 2
+http://cdn1.live-tv.od.ua:8081/mobileenglishclub/eclub-abr/eclub/720-p/playlist.m3u8
+#EXTINF:-1, NATURE TIME US
+https://bamusa-naturetime-emea-eng-rakuten.amagi.tv/playlist.m3u8
+#EXTINF:-1, NATURE TIME FR
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00090-blueantmedia-naturetime-samsungfr/playlist.m3u8
+#EXTINF:-1,USA_NETWORK
+http://143.244.60.30/USA_NETWORK/index.m3u8
+#EXTINF:-1,ABC HD
+http://143.244.60.30/ABC/index.m3u8
+#EXTINF:-1,C-SPAN
+http://143.244.60.30/C-SPAN/index.m3u8
+#EXTINF:-1, Love Nature 1
+http://143.244.60.30/LOVE_NATURE/index.m3u8
+#EXTINF:-1,SMITHSONIAN_CHANNEL
+http://143.244.60.30/SMITHSONIAN_CHANNEL/index.m3u8
+#EXTINF:-1,HALLMARK_CHANNEL
+http://143.244.60.30/HALLMARK_CHANNEL/index.m3u8
+#EXTINF:-1,HALLMARK_DRAMA
+http://143.244.60.30/HALLMARK_DRAMA/index.m3u8
+#EXTINF:-1,HALLMARK_MOVIES_MYSTERIES
+http://143.244.60.30/HALLMARK_MOVIES_MYSTERIES/index.m3u8
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
