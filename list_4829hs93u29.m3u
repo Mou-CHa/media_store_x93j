@@ -51,8 +51,6 @@ http://185.178.185.253:9981/stream/channelid/1277138353?ticket=4D72A98D2D32F0B15
 http://185.178.185.253:9981/stream/channelid/700044446?ticket=C24D6B6F69B694374541D6D3C99797AB94142578&profile=pass
 #EXTINF:0,franceinfo:
 http://185.178.185.253:9981/stream/channelid/1320848149?ticket=D383BEE7334804310CCCC7C090B24D6D01060941&profile=pass
-#EXTINF:0,Arte.Tv
-http://185.178.185.253:9981/stream/channelid/1934175862?ticket=44609F245A8F0EDAB76EE38FA5ACB76A4A0FF09A&profile=pass
 #EXTINF:0,TVO Kids
 https://fastly.live.brightcove.com/6369851620112/us-east-1/15364602001/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJob3N0IjoicGZncmlmLmVncmVzcy50N2M3emwiLCJhY2NvdW50X2lkIjoiMTUzNjQ2MDIwMDEiLCJlaG4iOiJmYXN0bHkubGl2ZS5icmlnaHRjb3ZlLmNvbSIsImlzcyI6ImJsaXZlLXBsYXliYWNrLXNvdXJjZS1hcGkiLCJzdWIiOiJwYXRobWFwdG9rZW4iLCJhdWQiOlsiMTUzNjQ2MDIwMDEiXSwianRpIjoiNjM2OTg1MTYyMDExMiJ9.zRE6fD9JwdbNLUIK5zgvlTAvXCQ3HeeE5p0yH0Pd3-Q/chunklist.m3u8
 #EXTINF:0, Zoomoo amagi
@@ -77,6 +75,8 @@ https://playlist.fasttvcdn.com/pl/ptllxjd03j6g9oxxjdfapg/roya-kids/playlist.m3u8
 https://playlist.fasttvcdn.com/pl/ptllxjd03j6g9oxxjdfapg/roya-kids-originals/playlist.m3u8
 #EXTINF:-1, ENGLISH CLUB HD 2
 http://cdn1.live-tv.od.ua:8081/mobileenglishclub/eclub-abr/eclub/720-p/playlist.m3u8
+#EXTINF:-1, Love Nature 1
+http://143.244.60.30/LOVE_NATURE/index.m3u8
 #EXTINF:-1, NATURE TIME US
 https://bamusa-naturetime-emea-eng-rakuten.amagi.tv/playlist.m3u8
 #EXTINF:-1, NATURE TIME FR
@@ -87,8 +87,6 @@ http://143.244.60.30/USA_NETWORK/index.m3u8
 http://143.244.60.30/ABC/index.m3u8
 #EXTINF:-1,C-SPAN
 http://143.244.60.30/C-SPAN/index.m3u8
-#EXTINF:-1, Love Nature 1
-http://143.244.60.30/LOVE_NATURE/index.m3u8
 #EXTINF:-1,SMITHSONIAN_CHANNEL
 http://143.244.60.30/SMITHSONIAN_CHANNEL/index.m3u8
 #EXTINF:-1,HALLMARK_CHANNEL
