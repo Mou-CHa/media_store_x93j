@@ -95,7 +95,403 @@ http://143.244.60.30/HALLMARK_CHANNEL/index.m3u8
 http://143.244.60.30/HALLMARK_DRAMA/index.m3u8
 #EXTINF:-1,HALLMARK_MOVIES_MYSTERIES
 http://143.244.60.30/HALLMARK_MOVIES_MYSTERIES/index.m3u8
+#EXTINF:-1,TV7 ELMAARIFA
+http://185.234.111.64:8000/play/a02m
+#EXTINF:-1,Thikrayat HD
+http://185.234.111.64:8000/play/a09b
 
+http://41.205.93.154/RTL9/mpegts
+http://41.205.93.154/LA-UNE/mpegts
+http://41.205.93.154/LA-DEUX/mpegts
+http://41.205.93.154/USHUAIA/mpegts
+#EXTINF:-0.Planete+
+http://151.80.18.177:86/Planete+_HD/index.m3u8
+#EXTINF:-1,Teletoon+ HD
+http://151.80.18.177:86/Teletoon+_HD/index.m3u8
+#EXTINF:-1,Piwi+
+http://151.80.18.177:86/Piwi+_HD/index.m3u8
+#EXTINF:-1,Tiji HD
+http://151.80.18.177:86/Tiji_HD/index.m3u8
+#EXTINF:-1,Canal J
+http://151.80.18.177:86/Canal_J_HD/index.m3u8
+#EXTINF:0,PLANETE+ HD @50fps
+#EXTVLCOPT:network-caching=1000
+http://45.90.106.7:8779/play/WnyE85m3@Rq4K/index.m3u8
+#EXTINF:0,MANGAS HD
+#EXTVLCOPT:network-caching=1000
+http://45.90.106.7:9790/play/TbZ4097U5@F5L
+#EXTINF:-1 ,RTS 1
+http://213.3.8.156:4022/udp/224.100.4.1:1234
+#EXTINF:-1 ,RTS 2
+http://213.3.8.156:4022/udp/224.100.4.2:1234
+#EXTINF:-1 group-title="CH",SRF 1
+http://213.3.8.156:4022/udp/224.100.5.1:1234
+#EXTINF:-1 group-title="CH",SRF 2
+http://213.3.8.156:4022/udp/224.100.5.2:1234
+#EXTINF:-1 group-title="IT",Rete 4
+http://213.3.8.156:4022/udp/224.100.2.1:1234
+#EXTINF:-1 group-title="IT",Canale 5
+http://213.3.8.156:4022/udp/224.100.2.2:1234
+#EXTINF:-1 group-title="IT",Italia 1
+http://213.3.8.156:4022/udp/224.100.2.3:1234
+#EXTINF:-1 ,TREEHOUSE
+http://vocotv.pro/live/mmckandes1/P2022ssword/3636.ts
+#EXTINF:-1,AFN Family/Pulse
+http://lunar.pm:8080/RandyJ2/randy/118462
+#EXTINF:-1,  AFN Movie
+http://lunar.pm:8080/RandyJ2/randy/118463
+#EXTINF:-1, AFN News
+http://lunar.pm:8080/RandyJ2/randy/118464
+#EXTINF:-1, AFN Prime Atlantic
+http://lunar.pm:8080/RandyJ2/randy/118465
+#EXTINF:-1, AFN Prime Pacific
+http://lunar.pm:8080/RandyJ2/randy/118466
+#EXTINF:-1, AFN Spectrum
+http://lunar.pm:8080/RandyJ2/randy/118466
+#EXTINF:-1, AFN Sports
+http://lunar.pm:8080/RandyJ2/randy/118468
+#EXTINF:-1,AFN Sports 2
+http://lunar.pm:8080/RandyJ2/randy/118469
+#EXTINF:-1, TVO ME
+http://lunar.pm:8080/live/RandyJ2/randy/94952.ts
+#EXTINF:-1, CTB Movies
+https://movies.ctbperth.net.au/hls/stream.m3u8
+#EXTINF:-1, CTB
+https://live.ctbperth.net.au/hls/0/stream.m3u8
+#EXTINF:-1,Love the Planet
+https://amg01821-lovetvchannels-lovetheplanetfrsamsung-samsungfr-hfam1.amagi.tv/playlist/amg01821-lovetvchannels-lovetheplanetfrsamsung-samsungfr/playlist.m3u8
+#EXTINF:-1,RTS 1 HD
+http://213.3.8.156:4022/udp/224.100.4.1:1234
+#EXTINF:-1,RTS 2 HD
+http://213.3.8.156:4022/udp/224.100.4.2:1234
+#EXTINF:-1,SRF 1 HD
+http://213.3.8.156:4022/udp/224.100.5.1:1234
+#EXTINF:-1,SRF zwei HD
+http://213.3.8.156:4022/udp/224.100.5.2:1234
+#EXTINF:-1,Swiss Jazz
+http://213.3.8.156:4022/udp/224.100.5.9:1234
+#EXTINF:-1,Swiss Pop
+http://213.3.8.156:4022/udp/224.100.5.10:1234
+#EXTINF:-1,Hala London
+https://halalondon-live.ercdn.net/halalondon/halalondon_1080p.m3u8
+#EXTINF:-1,EL MANAR
+http://edge.fastpublish.me/live/index.m3u8
+#EXTINF:-1,Asharq Discovery
+http://svs.itworkscdn.net/asharqdiscoverylive/asharqd.smil/playlist_dvr.m3u8
+#EXTINF:-1, Fujairah
+https://live.kwikmotion.com/fujairahlive/fujairah.smil/playlist.m3u8
+#EXTINF:-1, FIFA+
+https://b746536d.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/TEctYmVfRklGQVBsdXNGcmVuY2hfSExT/playlist.m3u8
+####################### FR #############################
+#EXTINF:-1 group-title="FR" tvg-id="" tvg-logo="",Canal 9
+http://78.155.24.242/live/eds/canal9/browser-dash/canal9.mpd
+#EXTINF:-1 group-title="FR" tvg-id="" tvg-logo="",W9
+http://78.155.24.242/live/eds/w9/browser-dash/w9.mpd
+#EXTINF:-1 group-title="FR" tvg-id="" tvg-logo="",TVM3
+http://78.155.24.242/live/eds/tvm3/browser-dash/tvm3.mpd
+#EXTINF:-1 group-title="FR" tvg-id="" tvg-logo="",Max TV
+http://78.155.24.242/live/eds/maxtv/browser-dash/maxtv.mpd
+#EXTINF:-1 group-title="FR" tvg-id="" tvg-logo="",NRTV
+http://78.155.24.242/live/eds/nrtv/browser-dash/nrtv.mpd
+#EXTINF:-1 group-title="FR" tvg-id="" tvg-logo="",France 24
+http://78.155.24.242/live/eds/france24/browser-dash/france24.mpd
+#EXTINF:-1 group-title="FR" tvg-id="" tvg-logo="",RTL9
+http://78.155.24.242/live/eds/rtl9/browser-dash/rtl9.mpd
+#EXTINF:-1 group-title="FR" tvg-id="" tvg-logo="",TMC
+http://78.155.24.242/live/eds/tmc/browser-dash/tmc.mpd
+#EXTINF:-1 group-title="FR" tvg-id="" tvg-logo="",T18
+http://78.155.24.242/live/eds/t18/browser-dash/t18.mpd
+#EXTINF:-1 group-title="FR" tvg-id="" tvg-logo="",RTS1 HD
+http://78.155.24.242/live/eds/rts1hd/browser-dash/rts1hd.mpd
+#EXTINF:-1 group-title="FR" tvg-id="" tvg-logo="",RTS2 HD
+http://78.155.24.242/live/eds/rts2hd/browser-dash/rts2hd.mpd
+#EXTINF:-1 group-title="FR" tvg-id="" tvg-logo="",6TER
+http://78.155.24.242/live/eds/6ter/browser-dash/6ter.mpd
+#EXTINF:-1 group-title="FR" tvg-id="" tvg-logo="",VALTV
+http://78.155.24.242/live/eds/valtv/browser-dash/valtv.mpd
+#EXTINF:-1 group-title="FR" tvg-id="" tvg-logo="",HD1
+http://78.155.24.242/live/eds/hd1/browser-dash/hd1.mpd
+#EXTINF:-1 group-title="FR" tvg-id="" tvg-logo="",TF1 HD
+http://78.155.24.242/live/eds/tf1hd/browser-dash/tf1hd.mpd
+#EXTINF:-1 group-title="FR" tvg-id="" tvg-logo="",France 2 HD
+http://78.155.24.242/live/eds/france2hd/browser-dash/france2hd.mpd
+#EXTINF:-1 group-title="FR" tvg-id="" tvg-logo="",France 3 HD
+http://78.155.24.242/live/eds/france3hd/browser-dash/france3hd.mpd
+#EXTINF:-1 group-title="FR" tvg-id="" tvg-logo="",France 4 HD
+http://78.155.24.242/live/eds/france4hd/browser-dash/france4hd.mpd
+#EXTINF:-1 group-title="FR" tvg-id="" tvg-logo="",France 5 HD
+http://78.155.24.242/live/eds/france5hd/browser-dash/france5hd.mpd
+#EXTINF:-1 group-title="FR" tvg-id="" tvg-logo="",M6 HD
+http://78.155.24.242/live/eds/m6hd/browser-dash/m6hd.mpd
+#EXTINF:-1 group-title="FR" tvg-id="" tvg-logo="",Canal Alpha NE
+http://78.155.24.242/live/eds/canalalphane/browser-dash/canalalphane.mpd
+#EXTINF:-1 group-title="FR" tvg-id="" tvg-logo="",TMC
+http://78.155.24.242/live/eds/tmc/browser-dash/tmc.mpd
+#EXTINF:-1 group-title="FR" tvg-id="" tvg-logo="",NT1
+http://78.155.24.242/live/eds/nt1/browser-dash/nt1.mpd
+#EXTINF:-1 group-title="FR" tvg-id="" tvg-logo="",Numero 23
+http://78.155.24.242/live/eds/numero23/browser-dash/numero23.mpd
+#EXTINF:-1 group-title="FR" tvg-id="" tvg-logo="",Blue Zoom FR
+http://78.155.24.242/live/eds/bluezoomfr/browser-dash/bluezoomfr.mpd
+#EXTINF:-1 group-title="FR" tvg-id="" tvg-logo="",L'Equipe 21
+http://78.155.24.242/live/eds/lequipe21/browser-dash/lequipe21.mpd
+#EXTINF:-1 group-title="FR" tvg-id="" tvg-logo="",Gulli
+http://78.155.24.242/live/eds/gulli/browser-dash/gulli.mpd
+#EXTINF:-1 group-title="FR" tvg-id="" tvg-logo="",RMC Decouverte
+http://78.155.24.242/live/eds/rmcdecouverte/browser-dash/rmcdecouverte.mpd
+#EXTINF:-1 group-title="FR" tvg-id="" tvg-logo="",BFM TV
+http://78.155.24.242/live/eds/bfmtv/browser-dash/bfmtv.mpd
+#EXTINF:-1 group-title="FR" tvg-id="" tvg-logo="",France 24
+http://78.155.24.242/live/eds/france24/browser-dash/france24.mpd
+#EXTINF:-1 group-title="FR" tvg-id="" tvg-logo="",EuroNews
+http://78.155.24.242/live/eds/euronews/browser-dash/euronews.mpd
+#EXTINF:-1 group-title="FR" tvg-id="" tvg-logo="",TV5 Monde FBS
+http://78.155.24.242/live/eds/tv5mondefbs/browser-dash/tv5mondefbs.mpd
+#EXTINF:-1 group-title="FR" tvg-id="" tvg-logo="",I-Tele
+http://78.155.24.242/live/eds/itele/browser-dash/itele.mpd
+#EXTINF:-1 group-title="FR" tvg-id="" tvg-logo="",LCI
+http://78.155.24.242/live/eds/lci/browser-dash/lci.mpd
+#EXTINF:-1 group-title="FR" tvg-id="" tvg-logo="",BFM Business
+http://78.155.24.242/live/eds/bfmbusiness/browser-dash/bfmbusiness.mpd
+#EXTINF:-1 group-title="FR" tvg-id="" tvg-logo="",LCP
+http://78.155.24.242/live/eds/lcp/browser-dash/lcp.mpd
+#EXTINF:-1 group-title="FR" tvg-id="" tvg-logo="",France Info
+http://78.155.24.242/live/eds/franceinfo/browser-dash/franceinfo.mpd
+#EXTINF:-1 group-title="FR" tvg-id="" tvg-logo="",One TV
+http://78.155.24.242/live/eds/onetv/browser-dash/onetv.mpd
+#EXTINF:-1 group-title="FR" tvg-id="" tvg-logo="",LFM TV
+http://78.155.24.242/live/eds/lfmtv/browser-dash/lfmtv.mpd
+#EXTINF:-1 group-title="FR" tvg-id="" tvg-logo="",KTO
+http://78.155.24.242/live/eds/kto/browser-dash/kto.mpd
+#EXTINF:-1 group-title="FR" tvg-id="" tvg-logo="",TV Suisse Plus
+http://78.155.24.242/live/eds/tvsuisseplus/browser-dash/tvsuisseplus.mpd
+#EXTINF:-1 group-title="FR" tvg-id="" tvg-logo="",Teleswizz
+http://78.155.24.242/live/eds/teleswizz/browser-dash/teleswizz.mpd
+#EXTINF:-1 group-title="FR" tvg-id="" tvg-logo="",Rouge TV
+http://78.155.24.242/live/eds/rougetv/browser-dash/rougetv.mpd
+#EXTINF:-1 group-title="FR" tvg-id="" tvg-logo="",NRTV
+http://78.155.24.242/live/eds/nrtv/browser-dash/nrtv.mpd
+#EXTINF:-1 group-title="FR" tvg-id="" tvg-logo="",Max TV
+http://78.155.24.242/live/eds/maxtv/browser-dash/maxtv.mpd
+#EXTINF:-1 group-title="FR" tvg-id="" tvg-logo="",TVM3
+http://78.155.24.242/live/eds/tvm3/browser-dash/tvm3.mpd
+#EXTINF:-1 group-title="FR" tvg-id="" tvg-logo="",Deluxe Music
+http://78.155.24.242/live/eds/deluxemusic/browser-dash/deluxemusic.mpd
+#EXTINF:-1 group-title="FR" tvg-id="" tvg-logo="",D17
+http://78.155.24.242/live/eds/d17/browser-dash/d17.mpd
+#EXTINF:-1 group-title="FR" tvg-id="" tvg-logo="",TV8 Mont-Blanc
+http://78.155.24.242/live/eds/tv8montblanc/browser-dash/tv8montblanc.mpd
+#EXTINF:-1 group-title="FR" tvg-id="" tvg-logo="",BVN
+http://78.155.24.242/live/eds/bvn/browser-dash/bvn.mpd
+####################### IT #############################
+#EXTINF:-1 group-title="IT" tvg-id="" tvg-logo="",Rai Gulp
+http://78.155.24.242/live/eds/raigulp/browser-dash/raigulp.mpd
+#EXTINF:-1 group-title="IT" tvg-id="" tvg-logo="",Rai News
+http://78.155.24.242/live/eds/rainews/browser-dash/rainews.mpd
+#EXTINF:-1 group-title="IT" tvg-id="" tvg-logo="",Rai 1
+http://78.155.24.242/live/eds/rai1/browser-dash/rai1.mpd
+#EXTINF:-1 group-title="IT" tvg-id="" tvg-logo="",Rai 2
+http://78.155.24.242/live/eds/rai2/browser-dash/rai2.mpd
+#EXTINF:-1 group-title="IT" tvg-id="" tvg-logo="",Rai 3
+http://78.155.24.242/live/eds/rai3/browser-dash/rai3.mpd
+#EXTINF:-1 group-title="IT" tvg-id="" tvg-logo="",Canale 5
+http://78.155.24.242/live/eds/canale5/browser-dash/canale5.mpd
+#EXTINF:-1 group-title="IT" tvg-id="" tvg-logo="",Channel 4
+http://78.155.24.242/live/eds/channel4/browser-dash/channel4.mpd
+#EXTINF:-1 group-title="IT" tvg-id="" tvg-logo="",Rai Scuola
+http://78.155.24.242/live/eds/raiscuola/browser-dash/raiscuola.mpd
+#EXTINF:-1 group-title="IT" tvg-id="" tvg-logo="",Rai Storia
+http://78.155.24.242/live/eds/raistoria/browser-dash/raistoria.mpd
+#EXTINF:-1 group-title="IT" tvg-id="" tvg-logo="",Rete 4
+http://78.155.24.242/live/eds/rete4/browser-dash/rete4.mpd
+#EXTINF:-1 group-title="IT" tvg-id="" tvg-logo="",Italia 1
+http://78.155.24.242/live/eds/italia1/browser-dash/italia1.mpd
+#EXTINF:-1 group-title="IT" tvg-id="" tvg-logo="",LA7D
+http://78.155.24.242/live/eds/la7d/browser-dash/la7d.mpd
+#EXTINF:-1 group-title="IT" tvg-id="" tvg-logo="",Nove
+http://78.155.24.242/live/eds/nove/browser-dash/nove.mpd
+#EXTINF:-1 group-title="IT" tvg-id="" tvg-logo="",Video Italia
+http://78.155.24.242/live/eds/videoitalia/browser-dash/videoitalia.mpd
+#EXTINF:-1 group-title="IT" tvg-id="" tvg-logo="",DMAX Italia
+http://78.155.24.242/live/eds/dmaxitalia/browser-dash/dmaxitalia.mpd
+#EXTINF:-1 group-title="IT" tvg-id="" tvg-logo="",LA7
+http://78.155.24.242/live/eds/la7/browser-dash/la7.mpd
+####################### EN #############################
+#EXTINF:-1 group-title="EN" tvg-id="" tvg-logo="",Film4
+http://78.155.24.242/live/eds/film4/browser-dash/film4.mpd
+#EXTINF:-1 group-title="EN" tvg-id="" tvg-logo="",More4
+http://78.155.24.242/live/eds/more4/browser-dash/more4.mpd
+#EXTINF:-1 group-title="EN" tvg-id="" tvg-logo="",Channel 5
+http://78.155.24.242/live/eds/channel5/browser-dash/channel5.mpd
+#EXTINF:-1 group-title="EN" tvg-id="" tvg-logo="",Paramount
+http://78.155.24.242/live/eds/paramount/browser-dash/paramount.mpd
+#EXTINF:-1 group-title="EN" tvg-id="" tvg-logo="",Food Network
+http://78.155.24.242/live/eds/foodnetwork/browser-dash/foodnetwork.mpd
+#EXTINF:-1 group-title="EN" tvg-id="" tvg-logo="",Bloomberg
+http://78.155.24.242/live/eds/bloomberg/browser-dash/bloomberg.mpd
+#EXTINF:-1 group-title="EN" tvg-id="" tvg-logo="",Fashion TV
+http://78.155.24.242/live/eds/fashiontv/browser-dash/fashiontv.mpd
+#EXTINF:-1 group-title="EN" tvg-id="" tvg-logo="",CNBC
+http://78.155.24.242/live/eds/cnbc/browser-dash/cnbc.mpd
+#EXTINF:-1 group-title="EN" tvg-id="" tvg-logo="",Al Jazeera
+http://78.155.24.242/live/eds/aljazeera/browser-dash/aljazeera.mpd
+#EXTINF:-1 group-title="EN" tvg-id="" tvg-logo="",CNN
+http://78.155.24.242/live/eds/cnn/browser-dash/cnn.mpd
+#EXTINF:-1 group-title="EN" tvg-id="" tvg-logo="",Sky News
+http://78.155.24.242/live/eds/skynews/browser-dash/skynews.mpd
+#EXTINF:-1 group-title="EN" tvg-id="" tvg-logo="",ITV4
+http://78.155.24.242/live/eds/itv4/browser-dash/itv4.mpd
+#EXTINF:-1 group-title="EN" tvg-id="" tvg-logo="",ITV3
+http://78.155.24.242/live/eds/itv3/browser-dash/itv3.mpd
+#EXTINF:-1 group-title="EN" tvg-id="" tvg-logo="",ITV2
+http://78.155.24.242/live/eds/itv2/browser-dash/itv2.mpd
+#EXTINF:-1 group-title="EN" tvg-id="" tvg-logo="",ITV1
+http://78.155.24.242/live/eds/itv1/browser-dash/itv1.mpd
+#EXTINF:-1 group-title="EN" tvg-id="" tvg-logo="",BBC2
+http://78.155.24.242/live/eds/bbc2/browser-dash/bbc2.mpd
+#EXTINF:-1 group-title="EN" tvg-id="" tvg-logo="",BBC3 CBBC
+http://78.155.24.242/live/eds/bbc3cbbc/browser-dash/bbc3cbbc.mpd
+####################### DE #############################
+#EXTINF:-1 group-title="DE AT CH" tvg-id="" tvg-logo="",RTL2
+http://78.155.24.242/live/eds/rtl2/browser-dash/rtl2.mpd
+#EXTINF:-1 group-title="DE AT CH" tvg-id="" tvg-logo="",Super RTL
+http://78.155.24.242/live/eds/superrtl/browser-dash/superrtl.mpd
+#EXTINF:-1 group-title="DE AT CH" tvg-id="" tvg-logo="",RTL
+http://78.155.24.242/live/eds/rtl/browser-dash/rtl.mpd
+#EXTINF:-1 group-title="DE AT CH" tvg-id="" tvg-logo="",Sport1
+http://78.155.24.242/live/eds/sport1/browser-dash/sport1.mpd
+#EXTINF:-1 group-title="DE AT CH" tvg-id="" tvg-logo="",VOX
+http://78.155.24.242/live/eds/vox/browser-dash/vox.mpd
+#EXTINF:-1 group-title="DE AT CH" tvg-id="" tvg-logo="",ORF1
+http://78.155.24.242/live/eds/orf1/browser-dash/orf1.mpd
+#EXTINF:-1 group-title="DE AT CH" tvg-id="" tvg-logo="",ORF2
+http://78.155.24.242/live/eds/orf2/browser-dash/orf2.mpd
+#EXTINF:-1 group-title="DE AT CH" tvg-id="" tvg-logo="",Tele 5
+http://78.155.24.242/live/eds/tele5/browser-dash/tele5.mpd
+#EXTINF:-1 group-title="DE AT CH" tvg-id="" tvg-logo="",ATV
+http://78.155.24.242/live/eds/atv/browser-dash/atv.mpd
+#EXTINF:-1 group-title="DE AT CH" tvg-id="" tvg-logo="",SRF Info
+http://78.155.24.242/live/eds/srfinfo/browser-HLS8/srfinfo.m3u8
+#EXTINF:-1 group-title="DE AT CH" tvg-id="" tvg-logo="",SRF2 HD
+http://78.155.24.242/live/eds/srf2hd/browser-dash/srf2hd.mpd
+#EXTINF:-1 group-title="DE AT CH" tvg-id="" tvg-logo="",SRF1 HD
+http://78.155.24.242/live/eds/srf1hd/browser-dash/srf1hd.mpd
+#EXTINF:-1 group-title="DE AT CH" tvg-id="" tvg-logo="",Star TV
+http://78.155.24.242/live/eds/startv/browser-dash/startv.mpd
+#EXTINF:-1 group-title="DE AT CH" tvg-id="" tvg-logo="",RBB
+http://78.155.24.242/live/eds/rbb/browser-dash/rbb.mpd
+#EXTINF:-1 group-title="DE AT CH" tvg-id="" tvg-logo="",BR Alpha
+http://78.155.24.242/live/eds/bralpha/browser-dash/bralpha.mpd
+#EXTINF:-1 group-title="DE AT CH" tvg-id="" tvg-logo="",Anixe
+http://78.155.24.242/live/eds/anixe/browser-dash/anixe.mpd
+#EXTINF:-1 group-title="DE AT CH" tvg-id="" tvg-logo="",DMAX
+http://78.155.24.242/live/eds/dmax/browser-dash/dmax.mpd
+#EXTINF:-1 group-title="DE AT CH" tvg-id="" tvg-logo="",RIC
+http://78.155.24.242/live/eds/ric/browser-dash/ric.mpd
+#EXTINF:-1 group-title="DE AT CH" tvg-id="" tvg-logo="",Disney Channel DE
+http://78.155.24.242/live/eds/disneychannelde/browser-dash/disneychannelde.mpd
+#EXTINF:-1 group-title="DE AT CH" tvg-id="" tvg-logo="",Eurosport DE
+http://78.155.24.242/live/eds/eurosportde/browser-dash/eurosportde.mpd
+#EXTINF:-1 group-title="DE AT CH" tvg-id="" tvg-logo="",ZDFneo HD
+http://78.155.24.242/live/eds/zdfneohd/browser-dash/zdfneohd.mpd
+#EXTINF:-1 group-title="DE AT CH" tvg-id="" tvg-logo="",ZDFinfo HD
+http://78.155.24.242/live/eds/zdfinfohd/browser-dash/zdfinfohd.mpd
+#EXTINF:-1 group-title="DE AT CH" tvg-id="" tvg-logo="",RTL Nitro
+http://78.155.24.242/live/eds/rtlnitro/browser-dash/rtlnitro.mpd
+#EXTINF:-1 group-title="DE AT CH" tvg-id="" tvg-logo="",Comedy Central Nick
+http://78.155.24.242/live/eds/comedycentralnick/browser-dash/comedycentralnick.mpd
+#EXTINF:-1 group-title="DE AT CH" tvg-id="" tvg-logo="",ZDF HD
+http://78.155.24.242/live/eds/zdfhd/browser-dash/zdfhd.mpd
+#EXTINF:-1 group-title="DE AT CH" tvg-id="" tvg-logo="",Das Erste HD
+http://78.155.24.242/live/eds/daserstehd/browser-dash/daserstehd.mpd
+#EXTINF:-1 group-title="DE AT CH" tvg-id="" tvg-logo="",Phoenix HD
+http://78.155.24.242/live/eds/phoenixhd/browser-dash/phoenixhd.mpd
+#EXTINF:-1 group-title="DE AT CH" tvg-id="" tvg-logo="",N-tv
+http://78.155.24.242/live/eds/ntv/browser-dash/ntv.mpd
+#EXTINF:-1 group-title="DE AT CH" tvg-id="" tvg-logo="",N24
+http://78.155.24.242/live/eds/n24/browser-dash/n24.mpd
+#EXTINF:-1 group-title="DE AT CH" tvg-id="" tvg-logo="",ARTE HD
+http://78.155.24.242/live/eds/artehd/browser-dash/artehd.mpd
+#EXTINF:-1 group-title="DE AT CH" tvg-id="" tvg-logo="",Pro7
+http://78.155.24.242/live/eds/pro7/browser-dash/pro7.mpd
+#EXTINF:-1 group-title="DE AT CH" tvg-id="" tvg-logo="",SAT1
+http://78.155.24.242/live/eds/sat1/browser-dash/sat1.mpd
+#EXTINF:-1 group-title="DE AT CH" tvg-id="" tvg-logo="",Kabel1
+http://78.155.24.242/live/eds/kabel1/browser-dash/kabel1.mpd
+#EXTINF:-1 group-title="DE AT CH" tvg-id="" tvg-logo="",3sat HD
+http://78.155.24.242/live/eds/3sathd/browser-dash/3sathd.mpd
+#EXTINF:-1 group-title="DE AT CH" tvg-id="" tvg-logo="",SWR BW
+http://78.155.24.242/live/eds/swrbw/browser-dash/swrbw.mpd
+#EXTINF:-1 group-title="DE AT CH" tvg-id="" tvg-logo="",KiKA HD
+http://78.155.24.242/live/eds/kikahd/browser-dash/kikahd.mpd
+#EXTINF:-1 group-title="DE AT CH" tvg-id="" tvg-logo="",Sport1
+http://78.155.24.242/live/eds/sport1/browser-dash/sport1.mpd
+#EXTINF:-1 group-title="DE AT CH" tvg-id="" tvg-logo="",Kanal 9
+http://78.155.24.242/live/eds/kanal9/browser-dash/kanal9.mpd
+#EXTINF:-1 group-title="DE AT CH" tvg-id="" tvg-logo="",Telebaern
+http://78.155.24.242/live/eds/telebaern/browser-dash/telebaern.mpd
+#EXTINF:-1 group-title="DE AT CH" tvg-id="" tvg-logo="",TV24
+http://78.155.24.242/live/eds/tv24/browser-dash/tv24.mpd
+#EXTINF:-1 group-title="DE AT CH" tvg-id="" tvg-logo="",Blue Zoom DE
+http://78.155.24.242/live/eds/bluezoomde/browser-dash/bluezoomde.mpd
+#EXTINF:-1 group-title="DE AT CH" tvg-id="" tvg-logo="",Tele Bielingue
+http://78.155.24.242/live/eds/telebielingue/browser-dash/telebielingue.mpd
+#EXTINF:-1 group-title="DE AT CH" tvg-id="" tvg-logo="",SIXX
+http://78.155.24.242/live/eds/sixx/browser-dash/sixx.mpd
+#EXTINF:-1 group-title="DE AT CH" tvg-id="" tvg-logo="",BR HD Sud
+http://78.155.24.242/live/eds/brhdsud/browser-dash/brhdsud.mpd
+#EXTINF:-1 group-title="DE AT CH" tvg-id="" tvg-logo="",WDR HD
+http://78.155.24.242/live/eds/wdrhd/browser-dash/wdrhd.mpd
+#EXTINF:-1 group-title="DE AT CH" tvg-id="" tvg-logo="",NDR
+http://78.155.24.242/live/eds/ndr/browser-dash/ndr.mpd
+#EXTINF:-1 group-title="DE AT CH" tvg-id="" tvg-logo="",HR
+http://78.155.24.242/live/eds/hr/browser-dash/hr.mpd
+#EXTINF:-1 group-title="DE AT CH" tvg-id="" tvg-logo="",MDR
+http://78.155.24.242/live/eds/mdr/browser-dash/mdr.mpd
+#EXTINF:-1 group-title="DE AT CH" tvg-id="" tvg-logo="",SAT1 Gold
+http://78.155.24.242/live/eds/sat1gold/browser-dash/sat1gold.mpd
+#EXTINF:-1 group-title="DE AT CH" tvg-id="" tvg-logo="",Kabel Eins Docu
+http://78.155.24.242/live/eds/kabeleinsdocu/browser-dash/kabeleinsdocu.mpd
+####################### PT #############################
+#EXTINF:-1 group-title="PT" tvg-id="" tvg-logo="",TV Galicia
+http://78.155.24.242/live/eds/tvgalicia/browser-dash/tvgalicia.mpd
+#EXTINF:-1 group-title="PT" tvg-id="" tvg-logo="",RTPi
+http://78.155.24.242/live/eds/rtpi/browser-dash/rtpi.mpd
+#EXTINF:-1 group-title="PT" tvg-id="" tvg-logo="",Record News
+http://78.155.24.242/live/eds/recordnews/browser-dash/recordnews.mpd
+#EXTINF:-1 group-title="PT" tvg-id="" tvg-logo="",Rede Record Internacional
+http://78.155.24.242/live/eds/rederecordinternacional/browser-dash/rederecordinternacional.mpd
+####################### PL #############################
+#EXTINF:-1 group-title="PL" tvg-id="" tvg-logo="",TV Polonia
+http://78.155.24.242/live/eds/tvpolonia/browser-dash/tvpolonia.mpd
+####################### ES #############################
+#EXTINF:-1 group-title="ES" tvg-id="" tvg-logo="",Canal 24 Horas
+http://78.155.24.242/live/eds/canal24horas/browser-dash/canal24horas.mpd
+#EXTINF:-1 group-title="ES" tvg-id="" tvg-logo="",TVE Internacional
+http://78.155.24.242/live/eds/tveinternacional/browser-dash/tveinternacional.mpd
+####################### CH #############################
+#EXTINF:-1 group-title="Ch" tvg-id="" tvg-logo="",CCTV4
+http://78.155.24.242/live/eds/cctv4/browser-dash/cctv4.mpd
+#EXTINF:-1 group-title="Ch" tvg-id="" tvg-logo="",NHK
+http://78.155.24.242/live/eds/nhk/browser-dash/nhk.mpd
+####################### AR #############################
+#EXTINF:-1 group-title="AR" tvg-id="" tvg-logo="",Al Maghribia
+http://78.155.24.242/live/eds/almaghribia/browser-dash/almaghribia.mpd
+#EXTINF:-1 group-title="AR" tvg-id="" tvg-logo="",Al Arabiya
+http://78.155.24.242/live/eds/alarabiya/browser-dash/alarabiya.mpd
+#EXTINF:-1 group-title="AR" tvg-id="" tvg-logo="",Canal Algerie
+http://78.155.24.242/live/eds/canalalgerie/browser-dash/canalalgerie.mpd
+#EXTINF:-1 group-title="AR" tvg-id="" tvg-logo="",Tunisie Nationale
+http://78.155.24.242/live/eds/tunisienationale/browser-dash/tunisienationale.mpd
+#EXTINF:-1 group-title="AR" tvg-id="" tvg-logo="",2M Maroc
+http://78.155.24.242/live/eds/2mmaroc/browser-dash/2mmaroc.mpd
+####################### TR #############################
+#EXTINF:-1 group-title="TR" tvg-id="" tvg-logo="",Euro D
+http://78.155.24.242/live/eds/eurod/browser-dash/eurod.mpd
+#EXTINF:-1 group-title="TR" tvg-id="" tvg-logo="",TRT Turk
+http://78.155.24.242/live/eds/trtturk/browser-dash/trtturk.mpd
+#EXTINF:-1 group-title="TR" tvg-id="" tvg-logo="",Show Turk
+http://78.155.24.242/live/eds/showturk/browser-dash/showturk.mpd
 
 
 
