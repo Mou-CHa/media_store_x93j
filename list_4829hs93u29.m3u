@@ -114,7 +114,13 @@ https://playlist.fasttvcdn.com/pl/ptllxjd03j6g9oxxjdfapg/roya-kids/playlist.m3u8
 #EXTINF:-1 group-title="KIDS CHANNELS" tvg-logo="",Roya Kids Originals
 https://playlist.fasttvcdn.com/pl/ptllxjd03j6g9oxxjdfapg/roya-kids-originals/playlist.m3u8
 
-#EXTINF:-1 group-title="ENGLISH CHANNELS" tvg-logo="",ENGLISH CLUB HD
+#EXTINF:-1 group-title="KIDS CHANNELS" tvg-logo="",ROTANA KIDS
+https://cdn1.iptvcdn.tv/mcnc/ROTANA_KIDS/chunks.m3u8?&token=demo
+
+#EXTINF:-1 group-title="KIDS CHANNELS" tvg-logo="",ROYA KIDS STORY
+https://playlist.fasttvcdn.com/pl/ptllxjd03j6g9oxxjdfapg/roya-kids-stories/playlist.m3u8
+
+#EXTINF:-1 group-title="LEARN ENGLISH CHANNELS" tvg-logo="",ENGLISH CLUB HD
 http://cdn1.live-tv.od.ua:8081/mobileenglishclub/eclub-abr/eclub/720-p/playlist.m3u8
 
 #EXTINF:-1 group-title="DOCUMENTARY" tvg-logo="",Love Nature
@@ -125,6 +131,16 @@ https://bamusa-naturetime-emea-eng-rakuten.amagi.tv/playlist.m3u8
 
 #EXTINF:-1 group-title="DOCUMENTARY" tvg-logo="",NATURE TIME FR
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00090-blueantmedia-naturetime-samsungfr/playlist.m3u8
+
+#EXTINF:-1 group-title="DOCUMENTARY" tvg-logo="",ROYA DOCU
+https://playlist.fasttvcdn.com/pl/toa2uuhhygheuly7xtuqrg/documentaries/playlist.m3u8
+
+#EXTINF:-1 group-title="DOCUMENTARY" tvg-logo="", ASHARQ DOCU
+https://svs.itworkscdn.net/asharqdocumentarylive/asharqdocumentary.smil/asharqdocumentarypublish/asharqdocumentary_source/chunks.m3u8
+
+#EXTINF:-1 group-title="DOCUMENTARY" tvg-logo="",ASHARQ DISCOVERY 
+https://svs.itworkscdn.net/asharqdiscoverylive/asharqd.smil/asharqdiscoverypublish/asharqd_source/chunks.m3u8
+
 
 #EXTINF:-1 group-title="US CHANNELS" tvg-logo="",USA NETWORK
 http://143.244.60.30/USA_NETWORK/index.m3u8
