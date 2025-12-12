@@ -77,56 +77,164 @@ http://185.178.185.253:9981/stream/channelid/700044446?ticket=C24D6B6F69B6943745
 
 #EXTINF:-1 group-title="FRENCH CHANNELS" tvg-logo="",franceinfo:
 http://185.178.185.253:9981/stream/channelid/1320848149?ticket=D383BEE7334804310CCCC7C090B24D6D01060941&profile=pass
+#EXTINF:-1 group-title="FRENCH CHANNELS" tvg-id="" tvg-logo="",Canal 9
+http://78.155.24.242/live/eds/canal9/browser-dash/canal9.mpd
+#EXTINF:-1 group-title="FRENCH CHANNELS" tvg-id="" tvg-logo="",W9
+http://78.155.24.242/live/eds/w9/browser-dash/w9.mpd
+#EXTINF:-1 group-title="FRENCH CHANNELS" tvg-id="" tvg-logo="",TVM3
+http://78.155.24.242/live/eds/tvm3/browser-dash/tvm3.mpd
+#EXTINF:-1 group-title="FRENCH CHANNELS" tvg-id="" tvg-logo="",Max TV
+http://78.155.24.242/live/eds/maxtv/browser-dash/maxtv.mpd
+#EXTINF:-1 group-title="FRENCH CHANNELS" tvg-id="" tvg-logo="",NRTV
+http://78.155.24.242/live/eds/nrtv/browser-dash/nrtv.mpd
+#EXTINF:-1 group-title="FRENCH CHANNELS" tvg-id="" tvg-logo="",France 24
+http://78.155.24.242/live/eds/france24/browser-dash/france24.mpd
+#EXTINF:-1 group-title="FRENCH CHANNELS" tvg-id="" tvg-logo="",RTL9
+http://78.155.24.242/live/eds/rtl9/browser-dash/rtl9.mpd
+#EXTINF:-1 group-title="FRENCH CHANNELS" tvg-id="" tvg-logo="",TMC
+http://78.155.24.242/live/eds/tmc/browser-dash/tmc.mpd
+#EXTINF:-1 group-title="FRENCH CHANNELS" tvg-id="" tvg-logo="",T18
+http://78.155.24.242/live/eds/t18/browser-dash/t18.mpd
+#EXTINF:-1 group-title="FRENCH CHANNELS" tvg-id="" tvg-logo="",RTS1 HD
+http://78.155.24.242/live/eds/rts1hd/browser-dash/rts1hd.mpd
+#EXTINF:-1 group-title="FRENCH CHANNELS" tvg-id="" tvg-logo="",RTS2 HD
+http://78.155.24.242/live/eds/rts2hd/browser-dash/rts2hd.mpd
+#EXTINF:-1 group-title="FRENCH CHANNELS" tvg-id="" tvg-logo="",6TER
+http://78.155.24.242/live/eds/6ter/browser-dash/6ter.mpd
+#EXTINF:-1 group-title="FRENCH CHANNELS" tvg-id="" tvg-logo="",VALTV
+http://78.155.24.242/live/eds/valtv/browser-dash/valtv.mpd
+#EXTINF:-1 group-title="FRENCH CHANNELS" tvg-id="" tvg-logo="",HD1
+http://78.155.24.242/live/eds/hd1/browser-dash/hd1.mpd
+#EXTINF:-1 group-title="FRENCH CHANNELS" tvg-id="" tvg-logo="",TF1 HD
+http://78.155.24.242/live/eds/tf1hd/browser-dash/tf1hd.mpd
+#EXTINF:-1 group-title="FRENCH CHANNELS" tvg-id="" tvg-logo="",France 2 HD
+http://78.155.24.242/live/eds/france2hd/browser-dash/france2hd.mpd
+#EXTINF:-1 group-title="FRENCH CHANNELS" tvg-id="" tvg-logo="",France 3 HD
+http://78.155.24.242/live/eds/france3hd/browser-dash/france3hd.mpd
+#EXTINF:-1 group-title="FRENCH CHANNELS" tvg-id="" tvg-logo="",France 4 HD
+http://78.155.24.242/live/eds/france4hd/browser-dash/france4hd.mpd
+#EXTINF:-1 group-title="FRENCH CHANNELS" tvg-id="" tvg-logo="",France 5 HD
+http://78.155.24.242/live/eds/france5hd/browser-dash/france5hd.mpd
+#EXTINF:-1 group-title="FRENCH CHANNELS" tvg-id="" tvg-logo="",M6 HD
+http://78.155.24.242/live/eds/m6hd/browser-dash/m6hd.mpd
+#EXTINF:-1 group-title="FRENCH CHANNELS" tvg-id="" tvg-logo="",Canal Alpha NE
+http://78.155.24.242/live/eds/canalalphane/browser-dash/canalalphane.mpd
+#EXTINF:-1 group-title="FRENCH CHANNELS" tvg-id="" tvg-logo="",TMC
+http://78.155.24.242/live/eds/tmc/browser-dash/tmc.mpd
+#EXTINF:-1 group-title="FRENCH CHANNELS" tvg-id="" tvg-logo="",NT1
+http://78.155.24.242/live/eds/nt1/browser-dash/nt1.mpd
+#EXTINF:-1 group-title="FRENCH CHANNELS" tvg-id="" tvg-logo="",Numero 23
+http://78.155.24.242/live/eds/numero23/browser-dash/numero23.mpd
+#EXTINF:-1 group-title="FRENCH CHANNELS" tvg-id="" tvg-logo="",Blue Zoom FR
+http://78.155.24.242/live/eds/bluezoomfr/browser-dash/bluezoomfr.mpd
+#EXTINF:-1 group-title="FRENCH CHANNELS" tvg-id="" tvg-logo="",L'Equipe 21
+http://78.155.24.242/live/eds/lequipe21/browser-dash/lequipe21.mpd
+#EXTINF:-1 group-title="FRENCH CHANNELS" tvg-id="" tvg-logo="",Gulli
+http://78.155.24.242/live/eds/gulli/browser-dash/gulli.mpd
+#EXTINF:-1 group-title="FRENCH CHANNELS" tvg-id="" tvg-logo="",RMC Decouverte
+http://78.155.24.242/live/eds/rmcdecouverte/browser-dash/rmcdecouverte.mpd
+#EXTINF:-1 group-title="FRENCH CHANNELS" tvg-id="" tvg-logo="",BFM TV
+http://78.155.24.242/live/eds/bfmtv/browser-dash/bfmtv.mpd
+#EXTINF:-1 group-title="FRENCH CHANNELS" tvg-id="" tvg-logo="",France 24
+http://78.155.24.242/live/eds/france24/browser-dash/france24.mpd
+#EXTINF:-1 group-title="FRENCH CHANNELS" tvg-id="" tvg-logo="",EuroNews
+http://78.155.24.242/live/eds/euronews/browser-dash/euronews.mpd
+#EXTINF:-1 group-title="FRENCH CHANNELS" tvg-id="" tvg-logo="",TV5 Monde FBS
+http://78.155.24.242/live/eds/tv5mondefbs/browser-dash/tv5mondefbs.mpd
+#EXTINF:-1 group-title="FRENCH CHANNELS" tvg-id="" tvg-logo="",I-Tele
+http://78.155.24.242/live/eds/itele/browser-dash/itele.mpd
+#EXTINF:-1 group-title="FRENCH CHANNELS" tvg-id="" tvg-logo="",LCI
+http://78.155.24.242/live/eds/lci/browser-dash/lci.mpd
+#EXTINF:-1 group-title="FRENCH CHANNELS" tvg-id="" tvg-logo="",BFM Business
+http://78.155.24.242/live/eds/bfmbusiness/browser-dash/bfmbusiness.mpd
+#EXTINF:-1 group-title="FRENCH CHANNELS" tvg-id="" tvg-logo="",LCP
+http://78.155.24.242/live/eds/lcp/browser-dash/lcp.mpd
+#EXTINF:-1 group-title=""FRENCH CHANNELS"" tvg-id="" tvg-logo="",France Info
+http://78.155.24.242/live/eds/franceinfo/browser-dash/franceinfo.mpd
+#EXTINF:-1 group-title=""FRENCH CHANNELS"" tvg-id="" tvg-logo="",One TV
+http://78.155.24.242/live/eds/onetv/browser-dash/onetv.mpd
+#EXTINF:-1 group-title=""FRENCH CHANNELS"" tvg-id="" tvg-logo="",LFM TV
+http://78.155.24.242/live/eds/lfmtv/browser-dash/lfmtv.mpd
+#EXTINF:-1 group-title="FRENCH CHANNELS" tvg-id="" tvg-logo="",KTO
+http://78.155.24.242/live/eds/kto/browser-dash/kto.mpd
+#EXTINF:-1 group-title="FRENCH CHANNELS" tvg-id="" tvg-logo="",TV Suisse Plus
+http://78.155.24.242/live/eds/tvsuisseplus/browser-dash/tvsuisseplus.mpd
+#EXTINF:-1 group-title="FRENCH CHANNELS" tvg-id="" tvg-logo="",Teleswizz
+http://78.155.24.242/live/eds/teleswizz/browser-dash/teleswizz.mpd
+#EXTINF:-1 group-title="FRENCH CHANNELS" tvg-id="" tvg-logo="",Rouge TV
+http://78.155.24.242/live/eds/rougetv/browser-dash/rougetv.mpd
+#EXTINF:-1 group-title="FRENCH CHANNELS" tvg-id="" tvg-logo="",NRTV
+http://78.155.24.242/live/eds/nrtv/browser-dash/nrtv.mpd
+#EXTINF:-1 group-title="FRENCH CHANNELS" tvg-id="" tvg-logo="",Max TV
+http://78.155.24.242/live/eds/maxtv/browser-dash/maxtv.mpd
+#EXTINF:-1 group-title="FRENCH CHANNELS" tvg-id="" tvg-logo="",TVM3
+http://78.155.24.242/live/eds/tvm3/browser-dash/tvm3.mpd
+#EXTINF:-1 group-title="FRENCH CHANNELS" tvg-id="" tvg-logo="",Deluxe Music
+http://78.155.24.242/live/eds/deluxemusic/browser-dash/deluxemusic.mpd
+#EXTINF:-1 group-title="FRENCH CHANNELS" tvg-id="" tvg-logo="",D17
+http://78.155.24.242/live/eds/d17/browser-dash/d17.mpd
+#EXTINF:-1 group-title="FRENCH CHANNELS" tvg-id="" tvg-logo="",TV8 Mont-Blanc
+http://78.155.24.242/live/eds/tv8montblanc/browser-dash/tv8montblanc.mpd
+#EXTINF:-1 group-title="FRENCH CHANNELS" tvg-id="" tvg-logo="",BVN
+http://78.155.24.242/live/eds/bvn/browser-dash/bvn.mpd
+#EXTINF:-1 group-title="FRENCH CHANNELS" tvg-logo="",RTL9
+http://41.205.93.154/RTL9/mpegts
+#EXTINF:-1 group-title="FRENCH CHANNELS" tvg-logo="",LA UNE
+http://41.205.93.154/LA-UNE/mpegts
+#EXTINF:-1 group-title="FRENCH CHANNELS" tvg-logo="",LA DEUX
+http://41.205.93.154/LA-DEUX/mpegts
 
+#################################### KIDS CHANNELS ####################################
 #EXTINF:-1 group-title="KIDS CHANNELS" tvg-logo="",TVO Kids
 https://fastly.live.brightcove.com/6369851620112/us-east-1/15364602001/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJob3N0IjoicGZncmlmLmVncmVzcy50N2M3emwiLCJhY2NvdW50X2lkIjoiMTUzNjQ2MDIwMDEiLCJlaG4iOiJmYXN0bHkubGl2ZS5icmlnaHRjb3ZlLmNvbSIsImlzcyI6ImJsaXZlLXBsYXliYWNrLXNvdXJjZS1hcGkiLCJzdWIiOiJwYXRobWFwdG9rZW4iLCJhdWQiOlsiMTUzNjQ2MDIwMDEiXSwianRpIjoiNjM2OTg1MTYyMDExMiJ9.zRE6fD9JwdbNLUIK5zgvlTAvXCQ3HeeE5p0yH0Pd3-Q/chunklist.m3u8
-
 #EXTINF:-1 group-title="KIDS CHANNELS" tvg-logo="",TVO ME
 http://vocotv.pro/live/mmckandes1/P2022ssword/3625.ts
-
 #EXTINF:-1 group-title="KIDS CHANNELS" tvg-logo="",Zoomoo
 https://zoomoo-samsungau.amagi.tv/playlist1080p.m3u8
-
 #EXTINF:-1 group-title="KIDS CHANNELS" tvg-logo="",KIDS SU
 http://livestream.biznetvideo.net/biznet_kids/smil:kids.smil/index.m3u8
-
 #EXTINF:-1 group-title="KIDS CHANNELS" tvg-logo="",Cartoonito
 http://112.72.4.72/live/disk1/Boomerang/HLSv3-FTA/Boomerang.m3u8
-
 #EXTINF:-1 group-title="KIDS CHANNELS" tvg-logo="",CBeebies
 http://112.72.4.72/live/disk1/Cbeebies/HLSv3-FTA/Cbeebies.m3u8
-
 #EXTINF:-1 group-title="KIDS CHANNELS" tvg-logo="",Cartoon Network
 http://112.72.4.72/live/disk1/Cartoon_Network/HLSv3-FTA/Cartoon_Network.m3u8
-
 #EXTINF:-1 group-title="KIDS CHANNELS" tvg-logo="",PBS Kids
 https://livestream.pbskids.org/out/v1/14507d931bbe48a69287e4850e53443c/est.m3u8
-
 #EXTINF:-1 group-title="KIDS CHANNELS" tvg-logo="",TIVI MONDE FR
 https://ott.tv5monde.com/Content/HLS/Live/channel(tivi5)/variant.m3u8
-
 #EXTINF:-1 group-title="KIDS CHANNELS" tvg-logo="",KidsPangTV
 https://newidco-kidspangtv-1-us.roku.wurl.tv/playlist.m3u8
-
 #EXTINF:-1 group-title="KIDS CHANNELS" tvg-logo="",Roya Kids
 https://playlist.fasttvcdn.com/pl/ptllxjd03j6g9oxxjdfapg/roya-kids/playlist.m3u8
-
 #EXTINF:-1 group-title="KIDS CHANNELS" tvg-logo="",Roya Kids Originals
 https://playlist.fasttvcdn.com/pl/ptllxjd03j6g9oxxjdfapg/roya-kids-originals/playlist.m3u8
-
 #EXTINF:-1 group-title="KIDS CHANNELS" tvg-logo="",ROTANA KIDS
 https://cdn1.iptvcdn.tv/mcnc/ROTANA_KIDS/chunks.m3u8?&token=demo
-
 #EXTINF:-1 group-title="KIDS CHANNELS" tvg-logo="",ROYA KIDS STORY
 https://playlist.fasttvcdn.com/pl/ptllxjd03j6g9oxxjdfapg/roya-kids-stories/playlist.m3u8
 #EXTINF:-1 group-title="KIDS CHANNELS" tvg-logo="",ABC KIDS
 https://c.mjh.nz/abc-kids.m3u8
 #EXTINF:-1 group-title="KIDS CHANNELS" tvg-logo="",majid KIDS
 https://admn-live-cdn-lb.starzplayarabia.com/out/v1/admn_tv_enc/majid/majid_hls_nd/index.m3u8
+#EXTINF:-1 group-title="KIDS CHANNELS" tvg-logo="",Teletoon+
+http://151.80.18.177:86/Teletoon+_HD/index.m3u8
+#EXTINF:-1 group-title="KIDS CHANNELS" tvg-logo="",Piwi+
+http://151.80.18.177:86/Piwi+_HD/index.m3u8
+#EXTINF:-1 group-title="KIDS CHANNELS" tvg-logo="",Tiji HD
+http://151.80.18.177:86/Tiji_HD/index.m3u8
+#EXTINF:-1 group-title="KIDS CHANNELS" tvg-logo="",Canal J
+http://151.80.18.177:86/Canal_J_HD/index.m3u8
+#EXTINF:-1 group-title="KIDS CHANNELS" tvg-logo="",TREEHOUSE
+http://vocotv.pro/live/mmckandes1/P2022ssword/3636.ts
+#EXTINF:-1 group-title="ANIME" tvg-logo="",MANGAS HD
+#EXTVLCOPT:network-caching=1000
+http://45.90.106.7:9790/play/TbZ4097U5@F5L
 
 #EXTINF:-1 group-title="LEARN ENGLISH CHANNELS" tvg-logo="",ENGLISH CLUB HD
 http://cdn1.live-tv.od.ua:8081/mobileenglishclub/eclub-abr/eclub/720-p/playlist.m3u8
-########################### DOCUMENTARY ####################################
+
+#################################### DOCUMENTARY ####################################
 #EXTINF:-1 group-title="DOCUMENTARY" tvg-logo="",Love Nature
 http://143.244.60.30/LOVE_NATURE/index.m3u8
 #EXTINF:-1 group-title="DOCUMENTARY" tvg-logo="",NATURE TIME US
@@ -143,72 +251,80 @@ https://svs.itworkscdn.net/asharqdiscoverylive/asharqd.smil/asharqdiscoverypubli
 https://live-hls-web-ajd.getaj.net/AJD/index.m3u8
 #EXTINF:-1 group-title="DOCUMENTARY" tvg-logo="",Love the Planet
 https://amg01821-lovetvchannels-lovetheplanetfrsamsung-samsungfr-hfam1.amagi.tv/playlist/amg01821-lovetvchannels-lovetheplanetfrsamsung-samsungfr/playlist.m3u8
-#EXTINF:-1 group-title="ARABIC CHANNELS" tvg-id="" tvg-logo="",national_geo AR
+#EXTINF:-1 group-title="DOCUMENTARY" tvg-id="" tvg-logo="",national_geo AR
 https://admn-live-cdn-lb.starzplayarabia.com/out/v1/admn_tv_enc/national_geo/national_geo_hls_nd/index.m3u8
-
-
-########################### US CHANNELS ####################################
-#EXTINF:-1 group-title="US CHANNELS" tvg-logo="",USA NETWORK
-http://143.244.60.30/USA_NETWORK/index.m3u8
-
-#EXTINF:-1 group-title="US CHANNELS" tvg-logo="",ABC HD
-http://143.244.60.30/ABC/index.m3u8
-
-#EXTINF:-1 group-title="US CHANNELS" tvg-logo="",C-SPAN
-http://143.244.60.30/C-SPAN/index.m3u8
-
-#EXTINF:-1 group-title="US CHANNELS" tvg-logo="",SMITHSONIAN CHANNEL
-http://143.244.60.30/SMITHSONIAN_CHANNEL/index.m3u8
-
-#EXTINF:-1 group-title="US CHANNELS" tvg-logo="",HALLMARK CHANNEL
-http://143.244.60.30/HALLMARK_CHANNEL/index.m3u8
-
-#EXTINF:-1 group-title="US CHANNELS" tvg-logo="",HALLMARK DRAMA
-http://143.244.60.30/HALLMARK_DRAMA/index.m3u8
-
-#EXTINF:-1 group-title="US CHANNELS" tvg-logo="",HALLMARK MOVIES MYSTERIES
-http://143.244.60.30/HALLMARK_MOVIES_MYSTERIES/index.m3u8
-
-#EXTINF:-1 group-title="ARABIC CHANNELS" tvg-logo="",TV7 ELMAARIFA
-http://185.234.111.64:8000/play/a02m
-
-#EXTINF:-1 group-title="ARABIC CHANNELS" tvg-logo="",Thikrayat HD
-http://185.234.111.64:8000/play/a09b
-
-#EXTINF:-1 group-title="FRENCH CHANNELS" tvg-logo="",RTL9
-http://41.205.93.154/RTL9/mpegts
-
-#EXTINF:-1 group-title="BELGIAN CHANNELS" tvg-logo="",LA UNE
-http://41.205.93.154/LA-UNE/mpegts
-
-#EXTINF:-1 group-title="BELGIAN CHANNELS" tvg-logo="",LA DEUX
-http://41.205.93.154/LA-DEUX/mpegts
-
-#EXTINF:-1 group-title="FRENCH CHANNELS" tvg-logo="",USHUAIA
+#EXTINF:-1 group-title="DOCUMENTARY" tvg-logo="",USHUAIA
 http://41.205.93.154/USHUAIA/mpegts
-
-#EXTINF:-1 group-title="FRENCH CHANNELS" tvg-logo="",Planete+
+#EXTINF:-1 group-title="DOCUMENTARY" tvg-logo="",Planete+
 http://151.80.18.177:86/Planete+_HD/index.m3u8
-
-#EXTINF:-1 group-title="KIDS CHANNELS" tvg-logo="",Teletoon+
-http://151.80.18.177:86/Teletoon+_HD/index.m3u8
-
-#EXTINF:-1 group-title="KIDS CHANNELS" tvg-logo="",Piwi+
-http://151.80.18.177:86/Piwi+_HD/index.m3u8
-
-#EXTINF:-1 group-title="KIDS CHANNELS" tvg-logo="",Tiji HD
-http://151.80.18.177:86/Tiji_HD/index.m3u8
-
-#EXTINF:-1 group-title="KIDS CHANNELS" tvg-logo="",Canal J
-http://151.80.18.177:86/Canal_J_HD/index.m3u8
-
 #EXTINF:-1 group-title="DOCUMENTARY" tvg-logo="",PLANETE+ HD @50fps
 #EXTVLCOPT:network-caching=1000
 http://45.90.106.7:8779/play/WnyE85m3@Rq4K/index.m3u8
+#EXTINF:-1 group-title="DOCUMENTARY" tvg-logo="",SMITHSONIAN CHANNEL
+http://143.244.60.30/SMITHSONIAN_CHANNEL/index.m3u8
 
-#EXTINF:-1 group-title="ANIME" tvg-logo="",MANGAS HD
-#EXTVLCOPT:network-caching=1000
-http://45.90.106.7:9790/play/TbZ4097U5@F5L
+#################################### US CHANNELS ####################################
+#EXTINF:-1 group-title="US CHANNELS" tvg-logo="",USA NETWORK
+http://143.244.60.30/USA_NETWORK/index.m3u8
+#EXTINF:-1 group-title="US CHANNELS" tvg-logo="",ABC HD
+http://143.244.60.30/ABC/index.m3u8
+#EXTINF:-1 group-title="US CHANNELS" tvg-logo="",C-SPAN
+http://143.244.60.30/C-SPAN/index.m3u8
+#EXTINF:-1 group-title="US CHANNELS" tvg-logo="",HALLMARK CHANNEL
+http://143.244.60.30/HALLMARK_CHANNEL/index.m3u8
+#EXTINF:-1 group-title="US CHANNELS" tvg-logo="",HALLMARK DRAMA
+http://143.244.60.30/HALLMARK_DRAMA/index.m3u8
+#EXTINF:-1 group-title="US CHANNELS" tvg-logo="",HALLMARK MOVIES MYSTERIES
+http://143.244.60.30/HALLMARK_MOVIES_MYSTERIES/index.m3u8
+
+
+#################################### ITALIAN CHANNELS ####################################
+#EXTINF:-1 group-title="ITALIAN CHANNELS" tvg-logo="",Rete 4
+http://213.3.8.156:4022/udp/224.100.2.1:1234
+#EXTINF:-1 group-title="ITALIAN CHANNELS" tvg-logo="",Canale 5
+http://213.3.8.156:4022/udp/224.100.2.2:1234
+#EXTINF:-1 group-title="ITALIAN CHANNELS" tvg-logo="",Italia 1
+http://213.3.8.156:4022/udp/224.100.2.3:1234
+#EXTINF:-1 group-title=ITALIAN CHANNELS tvg-id="" tvg-logo="",Rai Gulp
+http://78.155.24.242/live/eds/raigulp/browser-dash/raigulp.mpd
+#EXTINF:-1 group-title=ITALIAN CHANNELS tvg-id="" tvg-logo="",Rai News
+http://78.155.24.242/live/eds/rainews/browser-dash/rainews.mpd
+#EXTINF:-1 group-title=ITALIAN CHANNELS tvg-id="" tvg-logo="",Rai 1
+http://78.155.24.242/live/eds/rai1/browser-dash/rai1.mpd
+#EXTINF:-1 group-title=ITALIAN CHANNELS tvg-id="" tvg-logo="",Rai 2
+http://78.155.24.242/live/eds/rai2/browser-dash/rai2.mpd
+#EXTINF:-1 group-title=ITALIAN CHANNELS tvg-id="" tvg-logo="",Rai 3
+http://78.155.24.242/live/eds/rai3/browser-dash/rai3.mpd
+#EXTINF:-1 group-title=ITALIAN CHANNELS tvg-id="" tvg-logo="",Canale 5
+http://78.155.24.242/live/eds/canale5/browser-dash/canale5.mpd
+#EXTINF:-1 group-title=ITALIAN CHANNELS tvg-id="" tvg-logo="",Channel 4
+http://78.155.24.242/live/eds/channel4/browser-dash/channel4.mpd
+#EXTINF:-1 group-title=ITALIAN CHANNELS tvg-id="" tvg-logo="",Rai Scuola
+http://78.155.24.242/live/eds/raiscuola/browser-dash/raiscuola.mpd
+#EXTINF:-1 group-title=ITALIAN CHANNELS tvg-id="" tvg-logo="",Rai Storia
+http://78.155.24.242/live/eds/raistoria/browser-dash/raistoria.mpd
+#EXTINF:-1 group-title=ITALIAN CHANNELS tvg-id="" tvg-logo="",Rete 4
+http://78.155.24.242/live/eds/rete4/browser-dash/rete4.mpd
+#EXTINF:-1 group-title=ITALIAN CHANNELS tvg-id="" tvg-logo="",Italia 1
+http://78.155.24.242/live/eds/italia1/browser-dash/italia1.mpd
+#EXTINF:-1 group-title=ITALIAN CHANNELS tvg-id="" tvg-logo="",LA7D
+http://78.155.24.242/live/eds/la7d/browser-dash/la7d.mpd
+#EXTINF:-1 group-title=ITALIAN CHANNELS tvg-id="" tvg-logo="",Nove
+http://78.155.24.242/live/eds/nove/browser-dash/nove.mpd
+#EXTINF:-1 group-title=ITALIAN CHANNELS tvg-id="" tvg-logo="",Video Italia
+http://78.155.24.242/live/eds/videoitalia/browser-dash/videoitalia.mpd
+#EXTINF:-1 group-title=ITALIAN CHANNELS tvg-id="" tvg-logo="",DMAX Italia
+http://78.155.24.242/live/eds/dmaxitalia/browser-dash/dmaxitalia.mpd
+#EXTINF:-1 group-title=ITALIAN CHANNELS tvg-id="" tvg-logo="",LA7
+http://78.155.24.242/live/eds/la7/browser-dash/la7.mpd
+
+
+
+
+
+
+
+
 
 #EXTINF:-1 group-title="SWISS CHANNELS" tvg-logo="",RTS 1
 http://213.3.8.156:4022/udp/224.100.4.1:1234
@@ -222,18 +338,8 @@ http://213.3.8.156:4022/udp/224.100.5.1:1234
 #EXTINF:-1 group-title="SWISS CHANNELS" tvg-logo="",SRF 2
 http://213.3.8.156:4022/udp/224.100.5.2:1234
 
-#EXTINF:-1 group-title="ITALIAN CHANNELS" tvg-logo="",Rete 4
-http://213.3.8.156:4022/udp/224.100.2.1:1234
 
-#EXTINF:-1 group-title="ITALIAN CHANNELS" tvg-logo="",Canale 5
-http://213.3.8.156:4022/udp/224.100.2.2:1234
 
-#EXTINF:-1 group-title="ITALIAN CHANNELS" tvg-logo="",Italia 1
-http://213.3.8.156:4022/udp/224.100.2.3:1234
-
-#EXTINF:-1 group-title="KIDS CHANNELS" tvg-logo="",TREEHOUSE
-http://vocotv.pro/live/mmckandes1/P2022ssword/3636.ts
-#EXTM3U
 
 #EXTINF:-1 group-title="US MILITARY" tvg-logo="",AFN Family/Pulse
 http://lunar.pm:8080/RandyJ2/randy/118462
@@ -287,7 +393,7 @@ http://213.3.8.156:4022/udp/224.100.5.9:1234
 #EXTINF:-1 group-title="MUSIC" tvg-logo="",Swiss Pop
 http://213.3.8.156:4022/udp/224.100.5.10:1234
 
-########################### arab channels ##########################
+#################################### ARAB CHANNELS ####################################
 #EXTINF:-1 group-title="ARABIC CHANNELS" tvg-logo="",Hala London
 https://halalondon-live.ercdn.net/halalondon/halalondon_1080p.m3u8
 #EXTINF:-1 group-title="ARABIC CHANNELS" tvg-logo="",Al Manar
@@ -332,142 +438,13 @@ http://edge.fastpublish.me/live/index.m3u8
 https://shd-gcp-live.edgenextcdn.net/live/bitmovin-thaqafeyyah/28c0d2a20dbf1dc049ce15d3973f494b/index.m3u8
 #EXTINF:-1 group-title="ARABIC CHANNELS" tvg-id="" tvg-logo="", Rotana Comedy tv
 http://185.9.2.18/chid_5224/mono.m3u8
+#EXTINF:-1 group-title="ARABIC CHANNELS" tvg-logo="",TV7 ELMAARIFA
+http://185.234.111.64:8000/play/a02m
+#EXTINF:-1 group-title="ARABIC CHANNELS" tvg-logo="",Thikrayat HD
+http://185.234.111.64:8000/play/a09b
 
 
-####################### FR #############################
-#EXTINF:-1 group-title="FR" tvg-id="" tvg-logo="",Canal 9
-http://78.155.24.242/live/eds/canal9/browser-dash/canal9.mpd
-#EXTINF:-1 group-title="FR" tvg-id="" tvg-logo="",W9
-http://78.155.24.242/live/eds/w9/browser-dash/w9.mpd
-#EXTINF:-1 group-title="FR" tvg-id="" tvg-logo="",TVM3
-http://78.155.24.242/live/eds/tvm3/browser-dash/tvm3.mpd
-#EXTINF:-1 group-title="FR" tvg-id="" tvg-logo="",Max TV
-http://78.155.24.242/live/eds/maxtv/browser-dash/maxtv.mpd
-#EXTINF:-1 group-title="FR" tvg-id="" tvg-logo="",NRTV
-http://78.155.24.242/live/eds/nrtv/browser-dash/nrtv.mpd
-#EXTINF:-1 group-title="FR" tvg-id="" tvg-logo="",France 24
-http://78.155.24.242/live/eds/france24/browser-dash/france24.mpd
-#EXTINF:-1 group-title="FR" tvg-id="" tvg-logo="",RTL9
-http://78.155.24.242/live/eds/rtl9/browser-dash/rtl9.mpd
-#EXTINF:-1 group-title="FR" tvg-id="" tvg-logo="",TMC
-http://78.155.24.242/live/eds/tmc/browser-dash/tmc.mpd
-#EXTINF:-1 group-title="FR" tvg-id="" tvg-logo="",T18
-http://78.155.24.242/live/eds/t18/browser-dash/t18.mpd
-#EXTINF:-1 group-title="FR" tvg-id="" tvg-logo="",RTS1 HD
-http://78.155.24.242/live/eds/rts1hd/browser-dash/rts1hd.mpd
-#EXTINF:-1 group-title="FR" tvg-id="" tvg-logo="",RTS2 HD
-http://78.155.24.242/live/eds/rts2hd/browser-dash/rts2hd.mpd
-#EXTINF:-1 group-title="FR" tvg-id="" tvg-logo="",6TER
-http://78.155.24.242/live/eds/6ter/browser-dash/6ter.mpd
-#EXTINF:-1 group-title="FR" tvg-id="" tvg-logo="",VALTV
-http://78.155.24.242/live/eds/valtv/browser-dash/valtv.mpd
-#EXTINF:-1 group-title="FR" tvg-id="" tvg-logo="",HD1
-http://78.155.24.242/live/eds/hd1/browser-dash/hd1.mpd
-#EXTINF:-1 group-title="FR" tvg-id="" tvg-logo="",TF1 HD
-http://78.155.24.242/live/eds/tf1hd/browser-dash/tf1hd.mpd
-#EXTINF:-1 group-title="FR" tvg-id="" tvg-logo="",France 2 HD
-http://78.155.24.242/live/eds/france2hd/browser-dash/france2hd.mpd
-#EXTINF:-1 group-title="FR" tvg-id="" tvg-logo="",France 3 HD
-http://78.155.24.242/live/eds/france3hd/browser-dash/france3hd.mpd
-#EXTINF:-1 group-title="FR" tvg-id="" tvg-logo="",France 4 HD
-http://78.155.24.242/live/eds/france4hd/browser-dash/france4hd.mpd
-#EXTINF:-1 group-title="FR" tvg-id="" tvg-logo="",France 5 HD
-http://78.155.24.242/live/eds/france5hd/browser-dash/france5hd.mpd
-#EXTINF:-1 group-title="FR" tvg-id="" tvg-logo="",M6 HD
-http://78.155.24.242/live/eds/m6hd/browser-dash/m6hd.mpd
-#EXTINF:-1 group-title="FR" tvg-id="" tvg-logo="",Canal Alpha NE
-http://78.155.24.242/live/eds/canalalphane/browser-dash/canalalphane.mpd
-#EXTINF:-1 group-title="FR" tvg-id="" tvg-logo="",TMC
-http://78.155.24.242/live/eds/tmc/browser-dash/tmc.mpd
-#EXTINF:-1 group-title="FR" tvg-id="" tvg-logo="",NT1
-http://78.155.24.242/live/eds/nt1/browser-dash/nt1.mpd
-#EXTINF:-1 group-title="FR" tvg-id="" tvg-logo="",Numero 23
-http://78.155.24.242/live/eds/numero23/browser-dash/numero23.mpd
-#EXTINF:-1 group-title="FR" tvg-id="" tvg-logo="",Blue Zoom FR
-http://78.155.24.242/live/eds/bluezoomfr/browser-dash/bluezoomfr.mpd
-#EXTINF:-1 group-title="FR" tvg-id="" tvg-logo="",L'Equipe 21
-http://78.155.24.242/live/eds/lequipe21/browser-dash/lequipe21.mpd
-#EXTINF:-1 group-title="FR" tvg-id="" tvg-logo="",Gulli
-http://78.155.24.242/live/eds/gulli/browser-dash/gulli.mpd
-#EXTINF:-1 group-title="FR" tvg-id="" tvg-logo="",RMC Decouverte
-http://78.155.24.242/live/eds/rmcdecouverte/browser-dash/rmcdecouverte.mpd
-#EXTINF:-1 group-title="FR" tvg-id="" tvg-logo="",BFM TV
-http://78.155.24.242/live/eds/bfmtv/browser-dash/bfmtv.mpd
-#EXTINF:-1 group-title="FR" tvg-id="" tvg-logo="",France 24
-http://78.155.24.242/live/eds/france24/browser-dash/france24.mpd
-#EXTINF:-1 group-title="FR" tvg-id="" tvg-logo="",EuroNews
-http://78.155.24.242/live/eds/euronews/browser-dash/euronews.mpd
-#EXTINF:-1 group-title="FR" tvg-id="" tvg-logo="",TV5 Monde FBS
-http://78.155.24.242/live/eds/tv5mondefbs/browser-dash/tv5mondefbs.mpd
-#EXTINF:-1 group-title="FR" tvg-id="" tvg-logo="",I-Tele
-http://78.155.24.242/live/eds/itele/browser-dash/itele.mpd
-#EXTINF:-1 group-title="FR" tvg-id="" tvg-logo="",LCI
-http://78.155.24.242/live/eds/lci/browser-dash/lci.mpd
-#EXTINF:-1 group-title="FR" tvg-id="" tvg-logo="",BFM Business
-http://78.155.24.242/live/eds/bfmbusiness/browser-dash/bfmbusiness.mpd
-#EXTINF:-1 group-title="FR" tvg-id="" tvg-logo="",LCP
-http://78.155.24.242/live/eds/lcp/browser-dash/lcp.mpd
-#EXTINF:-1 group-title="FR" tvg-id="" tvg-logo="",France Info
-http://78.155.24.242/live/eds/franceinfo/browser-dash/franceinfo.mpd
-#EXTINF:-1 group-title="FR" tvg-id="" tvg-logo="",One TV
-http://78.155.24.242/live/eds/onetv/browser-dash/onetv.mpd
-#EXTINF:-1 group-title="FR" tvg-id="" tvg-logo="",LFM TV
-http://78.155.24.242/live/eds/lfmtv/browser-dash/lfmtv.mpd
-#EXTINF:-1 group-title="FR" tvg-id="" tvg-logo="",KTO
-http://78.155.24.242/live/eds/kto/browser-dash/kto.mpd
-#EXTINF:-1 group-title="FR" tvg-id="" tvg-logo="",TV Suisse Plus
-http://78.155.24.242/live/eds/tvsuisseplus/browser-dash/tvsuisseplus.mpd
-#EXTINF:-1 group-title="FR" tvg-id="" tvg-logo="",Teleswizz
-http://78.155.24.242/live/eds/teleswizz/browser-dash/teleswizz.mpd
-#EXTINF:-1 group-title="FR" tvg-id="" tvg-logo="",Rouge TV
-http://78.155.24.242/live/eds/rougetv/browser-dash/rougetv.mpd
-#EXTINF:-1 group-title="FR" tvg-id="" tvg-logo="",NRTV
-http://78.155.24.242/live/eds/nrtv/browser-dash/nrtv.mpd
-#EXTINF:-1 group-title="FR" tvg-id="" tvg-logo="",Max TV
-http://78.155.24.242/live/eds/maxtv/browser-dash/maxtv.mpd
-#EXTINF:-1 group-title="FR" tvg-id="" tvg-logo="",TVM3
-http://78.155.24.242/live/eds/tvm3/browser-dash/tvm3.mpd
-#EXTINF:-1 group-title="FR" tvg-id="" tvg-logo="",Deluxe Music
-http://78.155.24.242/live/eds/deluxemusic/browser-dash/deluxemusic.mpd
-#EXTINF:-1 group-title="FR" tvg-id="" tvg-logo="",D17
-http://78.155.24.242/live/eds/d17/browser-dash/d17.mpd
-#EXTINF:-1 group-title="FR" tvg-id="" tvg-logo="",TV8 Mont-Blanc
-http://78.155.24.242/live/eds/tv8montblanc/browser-dash/tv8montblanc.mpd
-#EXTINF:-1 group-title="FR" tvg-id="" tvg-logo="",BVN
-http://78.155.24.242/live/eds/bvn/browser-dash/bvn.mpd
-####################### IT #############################
-#EXTINF:-1 group-title="IT" tvg-id="" tvg-logo="",Rai Gulp
-http://78.155.24.242/live/eds/raigulp/browser-dash/raigulp.mpd
-#EXTINF:-1 group-title="IT" tvg-id="" tvg-logo="",Rai News
-http://78.155.24.242/live/eds/rainews/browser-dash/rainews.mpd
-#EXTINF:-1 group-title="IT" tvg-id="" tvg-logo="",Rai 1
-http://78.155.24.242/live/eds/rai1/browser-dash/rai1.mpd
-#EXTINF:-1 group-title="IT" tvg-id="" tvg-logo="",Rai 2
-http://78.155.24.242/live/eds/rai2/browser-dash/rai2.mpd
-#EXTINF:-1 group-title="IT" tvg-id="" tvg-logo="",Rai 3
-http://78.155.24.242/live/eds/rai3/browser-dash/rai3.mpd
-#EXTINF:-1 group-title="IT" tvg-id="" tvg-logo="",Canale 5
-http://78.155.24.242/live/eds/canale5/browser-dash/canale5.mpd
-#EXTINF:-1 group-title="IT" tvg-id="" tvg-logo="",Channel 4
-http://78.155.24.242/live/eds/channel4/browser-dash/channel4.mpd
-#EXTINF:-1 group-title="IT" tvg-id="" tvg-logo="",Rai Scuola
-http://78.155.24.242/live/eds/raiscuola/browser-dash/raiscuola.mpd
-#EXTINF:-1 group-title="IT" tvg-id="" tvg-logo="",Rai Storia
-http://78.155.24.242/live/eds/raistoria/browser-dash/raistoria.mpd
-#EXTINF:-1 group-title="IT" tvg-id="" tvg-logo="",Rete 4
-http://78.155.24.242/live/eds/rete4/browser-dash/rete4.mpd
-#EXTINF:-1 group-title="IT" tvg-id="" tvg-logo="",Italia 1
-http://78.155.24.242/live/eds/italia1/browser-dash/italia1.mpd
-#EXTINF:-1 group-title="IT" tvg-id="" tvg-logo="",LA7D
-http://78.155.24.242/live/eds/la7d/browser-dash/la7d.mpd
-#EXTINF:-1 group-title="IT" tvg-id="" tvg-logo="",Nove
-http://78.155.24.242/live/eds/nove/browser-dash/nove.mpd
-#EXTINF:-1 group-title="IT" tvg-id="" tvg-logo="",Video Italia
-http://78.155.24.242/live/eds/videoitalia/browser-dash/videoitalia.mpd
-#EXTINF:-1 group-title="IT" tvg-id="" tvg-logo="",DMAX Italia
-http://78.155.24.242/live/eds/dmaxitalia/browser-dash/dmaxitalia.mpd
-#EXTINF:-1 group-title="IT" tvg-id="" tvg-logo="",LA7
-http://78.155.24.242/live/eds/la7/browser-dash/la7.mpd
+
 ####################### EN #############################
 #EXTINF:-1 group-title="EN" tvg-id="" tvg-logo="",Film4
 http://78.155.24.242/live/eds/film4/browser-dash/film4.mpd
@@ -636,42 +613,32 @@ http://78.155.24.242/live/eds/trtturk/browser-dash/trtturk.mpd
 http://78.155.24.242/live/eds/showturk/browser-dash/showturk.mpd
 #EXTINF:-1 group-title="US CHANNEL" tvg-logo="", FMC MOVIE
 http://vocotv.pro/live/mmckandes1/P2022ssword/268837.ts
+
+#################################### SPORTS CHANNELS ####################################
 #EXTINF:-1 group-title="BEIN SPORTS ARABIC" tvg-logo="",BEIN NEWS AR
 https://py.dencreak.com/bn_7_news.m3u8
-
 #EXTINF:-1 group-title="BEIN SPORTS ARABIC" tvg-logo="",BEIN SPORTS HD 1 AR
 https://py.dencreak.com/bn_s_hd1.m3u8?token=
-
 #EXTINF:-1 group-title="BEIN SPORTS ARABIC" tvg-logo="",BEIN SPORTS HD 2 AR
 https://py.dencreak.com/bn_g_hd2.m3u8
-
 #EXTINF:-1 group-title="BEIN SPORTS ARABIC" tvg-logo="",BEIN SPORTS HD 3 AR
 https://py.dencreak.com/bn_g_hd3.m3u8
-
 #EXTINF:-1 group-title="BEIN SPORTS ARABIC" tvg-logo="",BEIN SPORTS HD 4 AR
 https://py.dencreak.com/bn_g_hd4.m3u8
-
 #EXTINF:-1 group-title="BEIN SPORTS ARABIC" tvg-logo="",BEIN SPORTS HD 5 AR
 https://py.dencreak.com/bn_g_hd5.m3u8
-
 #EXTINF:-1 group-title="BEIN SPORTS ARABIC" tvg-logo="",BEIN SPORTS HD 6 AR
 https://py.dencreak.com/bn_g_hd6.m3u8
-
 #EXTINF:-1 group-title="BEIN SPORTS ARABIC" tvg-logo="",BEIN SPORTS HD 7 AR
 https://py.dencreak.com/bn_g_hd7.m3u8
-
 #EXTINF:-1 group-title="BEIN SPORTS ARABIC" tvg-logo="",BEIN SPORTS HD 8 AR
 https://py.dencreak.com/bn_g_hd8.m3u8
-
 #EXTINF:-1 group-title="BEIN SPORTS ARABIC" tvg-logo="",BEIN SPORTS HD 9 AR
 https://py.dencreak.com/bn_g_hd9.m3u8?token=
-
 #EXTINF:-1 group-title="BEIN SPORTS FRENCH" tvg-logo="",BEIN SPORTS HD 1 FR
 https://py.dencreak.com/bn_fr_hd1.m3u8
-
 #EXTINF:-1 group-title="BEIN SPORTS FRENCH" tvg-logo="",BEIN SPORTS HD 2 FR
 https://py.dencreak.com/bn_fr_hd2.m3u8
-
 #EXTINF:-1 group-title="BEIN SPORTS FRENCH" tvg-logo="",BEIN SPORTS HD 3 FR
 https://py.dencreak.com/bn_fr_hd3.m3u8
 #EXTINF:-1 group-title="SPORTS" tvg-logo="",FIFA+
