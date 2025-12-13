@@ -227,7 +227,7 @@ http://151.80.18.177:86/Tiji_HD/index.m3u8
 http://151.80.18.177:86/Canal_J_HD/index.m3u8
 #EXTINF:-1 group-title="KIDS CHANNELS" tvg-logo="",TREEHOUSE
 http://vocotv.pro/live/mmckandes1/P2022ssword/3636.ts
-#EXTINF:-1 group-title="ANIME" tvg-logo="",MANGAS HD
+#EXTINF:-1 group-title=""KIDS CHANNELS" tvg-logo="",MANGAS HD
 #EXTVLCOPT:network-caching=1000
 http://45.90.106.7:9790/play/TbZ4097U5@F5L
 
@@ -285,38 +285,39 @@ http://213.3.8.156:4022/udp/224.100.2.1:1234
 http://213.3.8.156:4022/udp/224.100.2.2:1234
 #EXTINF:-1 group-title="ITALIAN CHANNELS" tvg-logo="",Italia 1
 http://213.3.8.156:4022/udp/224.100.2.3:1234
-#EXTINF:-1 group-title=ITALIAN CHANNELS tvg-id="" tvg-logo="",Rai Gulp
+#EXTINF:-1 group-title=""ITALIAN CHANNELS"" tvg-id="" tvg-logo="",Rai Gulp
 http://78.155.24.242/live/eds/raigulp/browser-dash/raigulp.mpd
-#EXTINF:-1 group-title=ITALIAN CHANNELS tvg-id="" tvg-logo="",Rai News
+#EXTINF:-1 group-title=""ITALIAN CHANNELS"" tvg-id="" tvg-logo="",Rai News
 http://78.155.24.242/live/eds/rainews/browser-dash/rainews.mpd
-#EXTINF:-1 group-title=ITALIAN CHANNELS tvg-id="" tvg-logo="",Rai 1
+#EXTINF:-1 group-title=""ITALIAN CHANNELS"" tvg-id="" tvg-logo="",Rai 1
 http://78.155.24.242/live/eds/rai1/browser-dash/rai1.mpd
-#EXTINF:-1 group-title=ITALIAN CHANNELS tvg-id="" tvg-logo="",Rai 2
+#EXTINF:-1 group-title=""ITALIAN CHANNELS"" tvg-id="" tvg-logo="",Rai 2
 http://78.155.24.242/live/eds/rai2/browser-dash/rai2.mpd
-#EXTINF:-1 group-title=ITALIAN CHANNELS tvg-id="" tvg-logo="",Rai 3
+#EXTINF:-1 group-title="ITALIAN CHANNELS" tvg-id="" tvg-logo="",Rai 3
 http://78.155.24.242/live/eds/rai3/browser-dash/rai3.mpd
-#EXTINF:-1 group-title=ITALIAN CHANNELS tvg-id="" tvg-logo="",Canale 5
+#EXTINF:-1 group-title="ITALIAN CHANNELS" tvg-id="" tvg-logo="",Canale 5
 http://78.155.24.242/live/eds/canale5/browser-dash/canale5.mpd
-#EXTINF:-1 group-title=ITALIAN CHANNELS tvg-id="" tvg-logo="",Channel 4
+#EXTINF:-1 group-title="ITALIAN CHANNELS" tvg-id="" tvg-logo="",Channel 4
 http://78.155.24.242/live/eds/channel4/browser-dash/channel4.mpd
-#EXTINF:-1 group-title=ITALIAN CHANNELS tvg-id="" tvg-logo="",Rai Scuola
+#EXTINF:-1 group-title="ITALIAN CHANNELS" tvg-id="" tvg-logo="",Rai Scuola
 http://78.155.24.242/live/eds/raiscuola/browser-dash/raiscuola.mpd
-#EXTINF:-1 group-title=ITALIAN CHANNELS tvg-id="" tvg-logo="",Rai Storia
+#EXTINF:-1 group-title="ITALIAN CHANNELS" tvg-id="" tvg-logo="",Rai Storia
 http://78.155.24.242/live/eds/raistoria/browser-dash/raistoria.mpd
-#EXTINF:-1 group-title=ITALIAN CHANNELS tvg-id="" tvg-logo="",Rete 4
+#EXTINF:-1 group-title="ITALIAN CHANNELS" tvg-id="" tvg-logo="",Rete 4
 http://78.155.24.242/live/eds/rete4/browser-dash/rete4.mpd
-#EXTINF:-1 group-title=ITALIAN CHANNELS tvg-id="" tvg-logo="",Italia 1
+#EXTINF:-1 group-title="ITALIAN CHANNELS" tvg-id="" tvg-logo="",Italia 1
 http://78.155.24.242/live/eds/italia1/browser-dash/italia1.mpd
-#EXTINF:-1 group-title=ITALIAN CHANNELS tvg-id="" tvg-logo="",LA7D
+#EXTINF:-1 group-title="ITALIAN CHANNELS" tvg-id="" tvg-logo="",LA7D
 http://78.155.24.242/live/eds/la7d/browser-dash/la7d.mpd
-#EXTINF:-1 group-title=ITALIAN CHANNELS tvg-id="" tvg-logo="",Nove
+#EXTINF:-1 group-title="ITALIAN CHANNELS" tvg-id="" tvg-logo="",Nove
 http://78.155.24.242/live/eds/nove/browser-dash/nove.mpd
-#EXTINF:-1 group-title=ITALIAN CHANNELS tvg-id="" tvg-logo="",Video Italia
+#EXTINF:-1 group-title="ITALIAN CHANNELS" tvg-id="" tvg-logo="",Video Italia
 http://78.155.24.242/live/eds/videoitalia/browser-dash/videoitalia.mpd
-#EXTINF:-1 group-title=ITALIAN CHANNELS tvg-id="" tvg-logo="",DMAX Italia
+#EXTINF:-1 group-title="ITALIAN CHANNELS" tvg-id="" tvg-logo="",DMAX Italia
 http://78.155.24.242/live/eds/dmaxitalia/browser-dash/dmaxitalia.mpd
-#EXTINF:-1 group-title=ITALIAN CHANNELS tvg-id="" tvg-logo="",LA7
+#EXTINF:-1 group-title="ITALIAN CHANNELS" tvg-id="" tvg-logo="",LA7
 http://78.155.24.242/live/eds/la7/browser-dash/la7.mpd
+
 
 #################################### SWISS CHANNELS ####################################
 #EXTINF:-1 group-title="SWISS CHANNELS" tvg-logo="",RTS 1
@@ -616,13 +617,20 @@ https://b746536d.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/TEctYm
 https://py.dencreak.com/alwan_sd4.m3u8
 #EXTINF:-1 group-title="SPORTS" tvg-logo="",alawan hd4
 https://py.dencreak.com/alwan_hd4.m3u8?token=
-#EXTINF:-1 group-title="SPORTS" tvg-logo="",alawan d1
+#EXTINF:-1 group-title="SPORTS" tvg-logo="",alawan hd1
 https://py.dencreak.com/alwan_hd1.m3u8
+#EXTINF:-1 group-title="SPORTS" tvg-logo="",alawan hd2
+https://py.dencreak.com/alwan_hd2.m3u8
+#EXTINF:-1 group-title="SPORTS" tvg-logo="",alawan hd3
+https://py.dencreak.com/alwan_hd3.m3u8
 #EXTINF:-1 group-title="SPORTS" tvg-logo="",alkass_1
 https://py.dencreak.com/alkass_1.m3u8
 #EXTINF:-1 group-title="SPORTS" tvg-logo="",alkass_2
 https://py.dencreak.com/alkass_2.m3u8
-
+#EXTINF:-1 group-title="SPORTS" tvg-logo="",alkass_3
+https://py.dencreak.com/alkass_3.m3u8
+#EXTINF:-1 group-title="SPORTS" tvg-logo="",alkass_4
+https://py.dencreak.com/alkass_4.m3u8
 
 
 
