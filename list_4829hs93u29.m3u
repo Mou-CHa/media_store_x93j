@@ -183,6 +183,8 @@ http://41.205.93.154/RTL9/mpegts
 http://41.205.93.154/LA-UNE/mpegts
 #EXTINF:-1 group-title="FRENCH CHANNELS" tvg-logo="",LA DEUX
 http://41.205.93.154/LA-DEUX/mpegts
+#EXTINF:-1 group-title="FRENCH CHANNELS" tvg-logo="",BEL RTL
+https://bel-live-hls.akamaized.net/hls/live/2038650/BEL-Live-HLS/master20241206-HLS_1800.m3u8
 
 #################################### KIDS CHANNELS ####################################
 #EXTINF:-1 group-title="KIDS CHANNELS" tvg-logo="",TVO Kids
@@ -230,6 +232,10 @@ http://vocotv.pro/live/mmckandes1/P2022ssword/3636.ts
 #EXTINF:-1 group-title=""KIDS CHANNELS" tvg-logo="",MANGAS HD
 #EXTVLCOPT:network-caching=1000
 http://45.90.106.7:9790/play/TbZ4097U5@F5L
+#EXTINF:-1 group-title=""KIDS CHANNELS" tvg-logo="",JEEM AR HD
+http://order.servepics.com:8080/live/jFqbplMwLC/ODG2hhNOOy/140.ts
+#EXTINF:-1 group-title=""KIDS CHANNELS" tvg-logo="",ROTANA CLASSIC HD
+http://order.servepics.com:8080/live/jFqbplMwLC/ODG2hhNOOy/387.ts
 
 #EXTINF:-1 group-title="LEARN ENGLISH CHANNELS" tvg-logo="",ENGLISH CLUB HD
 http://cdn1.live-tv.od.ua:8081/mobileenglishclub/eclub-abr/eclub/720-p/playlist.m3u8
@@ -262,6 +268,14 @@ http://151.80.18.177:86/Planete+_HD/index.m3u8
 http://45.90.106.7:8779/play/WnyE85m3@Rq4K/index.m3u8
 #EXTINF:-1 group-title="DOCUMENTARY" tvg-logo="",SMITHSONIAN CHANNEL
 http://143.244.60.30/SMITHSONIAN_CHANNEL/index.m3u8
+#EXTINF:-1 group-title="DOCUMENTARY" tvg-logo="",Nat_Geo_Wild
+http://143.244.60.30/Nat_Geo_Wild/index.m3u8
+#EXTINF:-1 group-title="DOCUMENTARY" tvg-logo="",LOVE NATURE UK
+http://95.67.12.82:9098
+#EXTINF:-1 group-title="DOCUMENTARY" tvg-logo="",LOVE NATURE Amgi
+https://bamus-lovenature-lg.amagi.tv/1080p-cc/index.m3u8
+#EXTINF:-1 group-title="DOCUMENTARY" tvg-logo="",BBC EarthA
+https://amg00793-amg00793c6-xumo-us-2669.playouts.now.amagi.tv/BBCStudios-BBCEarthA-hls/playlist.m3u8
 
 #################################### US CHANNELS ####################################
 #EXTINF:-1 group-title="US CHANNELS" tvg-logo="",USA NETWORK
@@ -276,8 +290,26 @@ http://143.244.60.30/HALLMARK_CHANNEL/index.m3u8
 http://143.244.60.30/HALLMARK_DRAMA/index.m3u8
 #EXTINF:-1 group-title="US CHANNELS" tvg-logo="",HALLMARK MOVIES MYSTERIES
 http://143.244.60.30/HALLMARK_MOVIES_MYSTERIES/index.m3u8
-
-
+#EXTINF:-1 group-title="US CHANNELS" tvg-logo="",by life time
+http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/63335b193583440007c859fb/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c2a02e2-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=c32f13eb-8395-4e23-87b8-0bd6e7d05f16
+#EXTINF:-1 group-title="US CHANNELS" tvg-logo="",moviesphere-amgi
+https://amg00353-lionsgatefilmsi-moviesphereaus-samsungau-7qzhf.amagi.tv/playlist/amg00353-lionsgatefilmsi-moviesphereaus-samsungau/playlist.m3u8
+#EXTINF:-1 group-title="US CHANNELS" tvg-logo="",moviesphere-uk
+https://moviesphereuk-samsunguk.amagi.tv/playlist.m3u8
+#EXTINF:-1 group-title="US CHANNELS" tvg-logo="",movie now
+http://87.255.35.150:18935
+#EXTINF:-1 group-title="US CHANNELS" tvg-logo="",my time movie france
+https://mytimemoviefrance-rakuten.amagi.tv/playlist.m3u8
+#EXTINF:-1 group-title="US CHANNELS" tvg-logo="",my time 
+https://mytime-tcl.amagi.tv/playlist.m3u8
+#EXTINF:-1 group-title="US CHANNELS" tvg-logo="",my time  Au
+ttps://appletree-mytimeau-samsung.amagi.tv/playlist.m3u8
+#EXTINF:-1 group-title="US CHANNELS" tvg-logo="",Ocean tv
+https://5dcabf026b188.streamlock.net/OceansTV/livestream/playlist.m3u8
+#EXTINF:-1 group-title="US CHANNELS" tvg-logo="",BBC America 
+https://bcovlive-a.akamaihd.net/7f5ec16d102f4b5d92e8e27bc95ff424/us-east-1/6240731308001/playlist.m3u8
+#EXTINF:-1 group-title="US CHANNELS" tvg-logo="",Discover Film
+https://discoverfilm-discoverfilm-1-nl.samsung.wurl.tv/playlist.m3u8
 #################################### ITALIAN CHANNELS ####################################
 #EXTINF:-1 group-title="ITALIAN CHANNELS" tvg-logo="",Rete 4
 http://213.3.8.156:4022/udp/224.100.2.1:1234
@@ -414,6 +446,21 @@ http://185.9.2.18/chid_5224/mono.m3u8
 http://185.234.111.64:8000/play/a02m
 #EXTINF:-1 group-title="ARABIC CHANNELS" tvg-logo="",Thikrayat HD
 http://185.234.111.64:8000/play/a09b
+#EXTINF:-1 group-title="ARABIC CHANNELS" tvg-logo="",aflam HD
+https://shls-live-enc.edgenextcdn.net/out/v1/0044dd4b001a466c941ad77b04a574a2/index_10.m3u8
+#EXTINF:-1 group-title="ARABIC CHANNELS" tvg-logo="", Tele Liban
+https://cdn.catiacast.video/abr/ed8f807e2548db4507d2a6f4ba0c4a06/playlist.m3u8
+#EXTINF:-1 group-title="ARABIC CHANNELS" tvg-logo="", Bab hara
+https://shls-live-enc.edgenextcdn.net/out/v1/948c54279b594944adde578c95f1d7d1/index.m3u8
+#EXTINF:-1 group-title="ARABIC CHANNELS" tvg-logo="", Movie Thrillers 
+https://shls-live-enc.edgenextcdn.net/out/v1/f6d718e841f8442f8374de47f18c93a7/index.m3u8
+#EXTINF:-1 group-title="ARABIC CHANNELS" tvg-logo="",Musawa hd
+https://pbc.furrera.ps/musawahd/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="ARABIC CHANNELS" tvg-logo="",Mauritania 2
+https://bit.ly/3Yqp9Yh
+
+
+
 
 #################################### UK CHANNELS ####################################
 #EXTINF:-1 group-title="UK CHANNELS" tvg-id="" tvg-logo="",Film4
@@ -631,8 +678,10 @@ https://py.dencreak.com/alkass_2.m3u8
 https://py.dencreak.com/alkass_3.m3u8
 #EXTINF:-1 group-title="SPORTS" tvg-logo="",alkass_4
 https://py.dencreak.com/alkass_4.m3u8
-
-
+#EXTINF:-1 group-title="SPORTS CHANNELS" tvg-logo="",alkass_4
+https://admn-live-cdn-lb.starzplayarabia.com/out/v1/admn_tv_enc/abudhabi_sports_1/abudhabi_sports_1_hls_nd/index.m3u8
+#EXTINF:-1 group-title="SPORTS CHANNELS" tvg-logo="",alkass_4
+https://admn-live-cdn-lb.starzplayarabia.com/out/v1/admn_tv_enc/abudhabi_sports_2/abudhabi_sports_2_hls_nd/index.m3u8
 
 
 
