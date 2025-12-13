@@ -318,80 +318,51 @@ http://78.155.24.242/live/eds/dmaxitalia/browser-dash/dmaxitalia.mpd
 #EXTINF:-1 group-title=ITALIAN CHANNELS tvg-id="" tvg-logo="",LA7
 http://78.155.24.242/live/eds/la7/browser-dash/la7.mpd
 
-
-
-
-
-
-
-
-
+#################################### SWISS CHANNELS ####################################
 #EXTINF:-1 group-title="SWISS CHANNELS" tvg-logo="",RTS 1
 http://213.3.8.156:4022/udp/224.100.4.1:1234
-
 #EXTINF:-1 group-title="SWISS CHANNELS" tvg-logo="",RTS 2
 http://213.3.8.156:4022/udp/224.100.4.2:1234
-
 #EXTINF:-1 group-title="SWISS CHANNELS" tvg-logo="",SRF 1
 http://213.3.8.156:4022/udp/224.100.5.1:1234
-
 #EXTINF:-1 group-title="SWISS CHANNELS" tvg-logo="",SRF 2
 http://213.3.8.156:4022/udp/224.100.5.2:1234
+#EXTINF:-1 group-title="SWISS CHANNELS" tvg-logo="",RTS 1 HD
+http://213.3.8.156:4022/udp/224.100.4.1:1234
+#EXTINF:-1 group-title="SWISS CHANNELS" tvg-logo="",RTS 2 HD
+http://213.3.8.156:4022/udp/224.100.4.2:1234
+#EXTINF:-1 group-title="SWISS CHANNELS" tvg-logo="",SRF 1 HD
+http://213.3.8.156:4022/udp/224.100.5.1:1234
+#EXTINF:-1 group-title="SWISS CHANNELS" tvg-logo="",SRF Zwei HD
+http://213.3.8.156:4022/udp/224.100.5.2:1234
+#EXTINF:-1 group-title="SWISS CHANNELS" tvg-logo="",Swiss Jazz
+http://213.3.8.156:4022/udp/224.100.5.9:1234
+#EXTINF:-1 group-title="SWISS CHANNELS" tvg-logo="",Swiss Pop
+http://213.3.8.156:4022/udp/224.100.5.10:1234
 
-
-
-
+#################################### US MILITARY ####################################
 #EXTINF:-1 group-title="US MILITARY" tvg-logo="",AFN Family/Pulse
 http://lunar.pm:8080/RandyJ2/randy/118462
-
 #EXTINF:-1 group-title="US MILITARY" tvg-logo="",AFN Movie
 http://lunar.pm:8080/RandyJ2/randy/118463
-
 #EXTINF:-1 group-title="US MILITARY" tvg-logo="",AFN News
 http://lunar.pm:8080/RandyJ2/randy/118464
-
 #EXTINF:-1 group-title="US MILITARY" tvg-logo="",AFN Prime Atlantic
 http://lunar.pm:8080/RandyJ2/randy/118465
-
 #EXTINF:-1 group-title="US MILITARY" tvg-logo="",AFN Prime Pacific
 http://lunar.pm:8080/RandyJ2/randy/118466
-
 #EXTINF:-1 group-title="US MILITARY" tvg-logo="",AFN Spectrum
 http://lunar.pm:8080/RandyJ2/randy/118466
-
 #EXTINF:-1 group-title="US MILITARY" tvg-logo="",AFN Sports
 http://lunar.pm:8080/RandyJ2/randy/118468
-
 #EXTINF:-1 group-title="US MILITARY" tvg-logo="",AFN Sports 2
 http://lunar.pm:8080/RandyJ2/randy/118469
 
-#EXTINF:-1 group-title="CHRISTIAN" tvg-logo="",TVO ME
-http://lunar.pm:8080/live/RandyJ2/randy/94952.ts
-
+#################################### AUSTRALIAN ####################################
 #EXTINF:-1 group-title="AUSTRALIAN" tvg-logo="",CTB Movies
 https://movies.ctbperth.net.au/hls/stream.m3u8
-
 #EXTINF:-1 group-title="AUSTRALIAN" tvg-logo="",CTB Perth
 https://live.ctbperth.net.au/hls/0/stream.m3u8
-
-
-#EXTINF:-1 group-title="SWISS CHANNELS" tvg-logo="",RTS 1 HD
-http://213.3.8.156:4022/udp/224.100.4.1:1234
-
-#EXTINF:-1 group-title="SWISS CHANNELS" tvg-logo="",RTS 2 HD
-http://213.3.8.156:4022/udp/224.100.4.2:1234
-
-#EXTINF:-1 group-title="SWISS CHANNELS" tvg-logo="",SRF 1 HD
-http://213.3.8.156:4022/udp/224.100.5.1:1234
-
-#EXTINF:-1 group-title="SWISS CHANNELS" tvg-logo="",SRF Zwei HD
-http://213.3.8.156:4022/udp/224.100.5.2:1234
-
-#EXTINF:-1 group-title="MUSIC" tvg-logo="",Swiss Jazz
-http://213.3.8.156:4022/udp/224.100.5.9:1234
-
-#EXTINF:-1 group-title="MUSIC" tvg-logo="",Swiss Pop
-http://213.3.8.156:4022/udp/224.100.5.10:1234
 
 #################################### ARAB CHANNELS ####################################
 #EXTINF:-1 group-title="ARABIC CHANNELS" tvg-logo="",Hala London
@@ -443,42 +414,40 @@ http://185.234.111.64:8000/play/a02m
 #EXTINF:-1 group-title="ARABIC CHANNELS" tvg-logo="",Thikrayat HD
 http://185.234.111.64:8000/play/a09b
 
-
-
-####################### EN #############################
-#EXTINF:-1 group-title="EN" tvg-id="" tvg-logo="",Film4
+#################################### UK CHANNELS ####################################
+#EXTINF:-1 group-title="UK CHANNELS" tvg-id="" tvg-logo="",Film4
 http://78.155.24.242/live/eds/film4/browser-dash/film4.mpd
-#EXTINF:-1 group-title="EN" tvg-id="" tvg-logo="",More4
+#EXTINF:-1 group-title="UK CHANNELS" tvg-id="" tvg-logo="",More4
 http://78.155.24.242/live/eds/more4/browser-dash/more4.mpd
-#EXTINF:-1 group-title="EN" tvg-id="" tvg-logo="",Channel 5
+#EXTINF:-1 group-title="UK CHANNELS" tvg-id="" tvg-logo="",Channel 5
 http://78.155.24.242/live/eds/channel5/browser-dash/channel5.mpd
-#EXTINF:-1 group-title="EN" tvg-id="" tvg-logo="",Paramount
+#EXTINF:-1 group-title="UK CHANNELS" tvg-id="" tvg-logo="",Paramount
 http://78.155.24.242/live/eds/paramount/browser-dash/paramount.mpd
-#EXTINF:-1 group-title="EN" tvg-id="" tvg-logo="",Food Network
+#EXTINF:-1 group-title="UK CHANNELS" tvg-id="" tvg-logo="",Food Network
 http://78.155.24.242/live/eds/foodnetwork/browser-dash/foodnetwork.mpd
-#EXTINF:-1 group-title="EN" tvg-id="" tvg-logo="",Bloomberg
+#EXTINF:-1 group-title="UK CHANNELS" tvg-id="" tvg-logo="",Bloomberg
 http://78.155.24.242/live/eds/bloomberg/browser-dash/bloomberg.mpd
-#EXTINF:-1 group-title="EN" tvg-id="" tvg-logo="",Fashion TV
+#EXTINF:-1 group-title="UK CHANNELS" tvg-id="" tvg-logo="",Fashion TV
 http://78.155.24.242/live/eds/fashiontv/browser-dash/fashiontv.mpd
-#EXTINF:-1 group-title="EN" tvg-id="" tvg-logo="",CNBC
+#EXTINF:-1 group-title="UK CHANNELS" tvg-id="" tvg-logo="",CNBC
 http://78.155.24.242/live/eds/cnbc/browser-dash/cnbc.mpd
-#EXTINF:-1 group-title="EN" tvg-id="" tvg-logo="",Al Jazeera
+#EXTINF:-1 group-title="UK CHANNELS" tvg-id="" tvg-logo="",Al Jazeera
 http://78.155.24.242/live/eds/aljazeera/browser-dash/aljazeera.mpd
-#EXTINF:-1 group-title="EN" tvg-id="" tvg-logo="",CNN
+#EXTINF:-1 group-title="UK CHANNELS" tvg-id="" tvg-logo="",CNN
 http://78.155.24.242/live/eds/cnn/browser-dash/cnn.mpd
-#EXTINF:-1 group-title="EN" tvg-id="" tvg-logo="",Sky News
+#EXTINF:-1 group-title="UK CHANNELS" tvg-id="" tvg-logo="",Sky News
 http://78.155.24.242/live/eds/skynews/browser-dash/skynews.mpd
-#EXTINF:-1 group-title="EN" tvg-id="" tvg-logo="",ITV4
+#EXTINF:-1 group-title="UK CHANNELS" tvg-id="" tvg-logo="",ITV4
 http://78.155.24.242/live/eds/itv4/browser-dash/itv4.mpd
-#EXTINF:-1 group-title="EN" tvg-id="" tvg-logo="",ITV3
+#EXTINF:-1 group-title="UK CHANNELS" tvg-id="" tvg-logo="",ITV3
 http://78.155.24.242/live/eds/itv3/browser-dash/itv3.mpd
-#EXTINF:-1 group-title="EN" tvg-id="" tvg-logo="",ITV2
+#EXTINF:-1 group-title="UK CHANNELS" tvg-id="" tvg-logo="",ITV2
 http://78.155.24.242/live/eds/itv2/browser-dash/itv2.mpd
-#EXTINF:-1 group-title="EN" tvg-id="" tvg-logo="",ITV1
+#EXTINF:-1 group-title="UK CHANNELS" tvg-id="" tvg-logo="",ITV1
 http://78.155.24.242/live/eds/itv1/browser-dash/itv1.mpd
-#EXTINF:-1 group-title="EN" tvg-id="" tvg-logo="",BBC2
+#EXTINF:-1 group-title="UK CHANNELS" tvg-id="" tvg-logo="",BBC2
 http://78.155.24.242/live/eds/bbc2/browser-dash/bbc2.mpd
-#EXTINF:-1 group-title="EN" tvg-id="" tvg-logo="",BBC3 CBBC
+#EXTINF:-1 group-title="UK CHANNELS" tvg-id="" tvg-logo="",BBC3 CBBC
 http://78.155.24.242/live/eds/bbc3cbbc/browser-dash/bbc3cbbc.mpd
 ####################### DE #############################
 #EXTINF:-1 group-title="DE AT CH" tvg-id="" tvg-logo="",RTL2
