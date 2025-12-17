@@ -459,10 +459,8 @@ https://shls-live-enc.edgenextcdn.net/out/v1/948c54279b594944adde578c95f1d7d1/in
 https://shls-live-enc.edgenextcdn.net/out/v1/f6d718e841f8442f8374de47f18c93a7/index.m3u8
 #EXTINF:-1 group-title="ARABIC CHANNELS" tvg-logo="",Musawa hd
 https://pbc.furrera.ps/musawahd/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="ARABIC CHANNELS" tvg-logo="",Mauritania 2
-https://bit.ly/3Yqp9Yh
-
-
+#EXTINF:-1 group-title="ARABIC CHANNELS" tvg-logo="",irth nabawi
+http://bk.xiptv.network/live/freelist/freelist568/1907.ts
 
 
 #################################### UK CHANNELS ####################################
