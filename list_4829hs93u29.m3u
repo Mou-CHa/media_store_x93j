@@ -236,6 +236,10 @@ http://45.90.106.7:9790/play/TbZ4097U5@F5L
 http://order.servepics.com:8080/live/jFqbplMwLC/ODG2hhNOOy/140.ts
 #EXTINF:-1 group-title="KIDS CHANNELS" tvg-logo="",KNOWNLODGE KIDS 
 https://d1wal6k3d7ssin.cloudfront.net/out/v1/ea91db0906c847a4931b46a9ec36e77b/index.m3u8
+#EXTINF:-1 group-title="KIDS CHANNELS" tvg-logo="",Kjeem ar
+http://order.servepics.com:8080/live/jFqbplMwLC/ODG2hhNOOy/140.ts
+#EXTINF:-1 group-title="KIDS CHANNELS" tvg-logo="",baream ar
+http://order.servepics.com:8080/live/jFqbplMwLC/ODG2hhNOOy/143.ts
 
 #EXTINF:-1 group-title="LEARN ENGLISH CHANNELS" tvg-logo="",ENGLISH CLUB HD
 http://cdn1.live-tv.od.ua:8081/mobileenglishclub/eclub-abr/eclub/720-p/playlist.m3u8
