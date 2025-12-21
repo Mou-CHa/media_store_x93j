@@ -317,6 +317,304 @@ https://5dcabf026b188.streamlock.net/OceansTV/livestream/playlist.m3u8
 https://bcovlive-a.akamaihd.net/7f5ec16d102f4b5d92e8e27bc95ff424/us-east-1/6240731308001/playlist.m3u8
 #EXTINF:-1 group-title="US CHANNELS" tvg-logo="",Discover Film
 https://discoverfilm-discoverfilm-1-nl.samsung.wurl.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="WOLODT1.us@SD",ABC 25 Columbia
+http://143.244.60.30:/ABC_EAST/index.m3u8
+#EXTINF:-1 tvg-id="WLSDT1.us@SD",ABC Chicago WLS-DT1
+http://143.244.60.30:/IL_CHICAGO_ABC/index.m3u8
+#EXTINF:-1 tvg-id="ACCNetwork.us@SD",ACCN (720p)
+http://143.244.60.30:/ACC_NETWORK/index.m3u8
+#EXTINF:-1 tvg-id="AMC.us@East",AMC East (1080p)
+http://143.244.60.30:/AMC_NETWORK/index.m3u8
+#EXTINF:-1 tvg-id="AntennaTV.us@SD",Antenna TV
+http://143.244.60.30:/Antenna_TV/index.m3u8
+#EXTINF:-1 tvg-id="Aspire.us@SD",Aspire
+http://143.244.60.30:/Aspire/index.m3u8
+#EXTINF:-1 tvg-id="AXSTV.us@SD",AXS TV
+http://143.244.60.30:/Axs_TV/index.m3u8
+#EXTINF:-1 tvg-id="BBCAmerica.us@East",BBC America East
+http://143.244.60.30:/BBC_AMERICA/index.m3u8
+#EXTINF:-1 tvg-id="BBCNews.uk@NorthAmerica",BBC News North America
+http://143.244.60.30:/BBC_WORLD_NEWS/index.m3u8
+#EXTINF:-1 tvg-id="beINSportsUSA.us@SD",beIN Sports USA
+http://fl1.moveonjoy.com/BEIN_SPORTS/index.m3u8
+#EXTINF:-1 tvg-id="BET.us@East",BET East
+http://143.244.60.30:/BET_EAST/index.m3u8
+#EXTINF:-1 tvg-id="BETGospel.us@SD",BET Gospel
+http://143.244.60.30:/BET_GOSPEL/index.m3u8
+#EXTINF:-1 tvg-id="BETHer.us@East",BET Her East
+http://143.244.60.30:/BET_HER/index.m3u8
+#EXTINF:-1 tvg-id="BETJams.us@SD",BET Jams
+http://143.244.60.30:/BET_Jams/index.m3u8
+#EXTINF:-1 tvg-id="BETSoul.us@SD",BET Soul
+http://143.244.60.30:/BET_SOUL/index.m3u8
+#EXTINF:-1 tvg-id="BigTenNetwork.us@SD",Big Ten Network
+http://143.244.60.30:/BIG_TEN_NETWORK/index.m3u8
+#EXTINF:-1 tvg-id="BloombergTV.us@US",Bloomberg TV
+http://143.244.60.30:/BLOOMBERG/index.m3u8
+#EXTINF:-1 tvg-id="Bounce.us@SD",Bounce
+http://143.244.60.30:/BOUNCE_TV/index.m3u8
+#EXTINF:-1 tvg-id="Bravo.us@East",Bravo East
+http://143.244.60.30:/BRAVO/index.m3u8
+#EXTINF:-1 tvg-id="Buzzr.us@SD",Buzzr
+http://143.244.60.30:/Buzzr/index.m3u8
+#EXTINF:-1 tvg-id="CSPAN.us@SD",C-SPAN
+http://143.244.60.30:/C-SPAN/index.m3u8
+#EXTINF:-1 tvg-id="WBBMDT1.us@SD",CBS Chicago WBBM-DT1
+http://143.244.60.30:/IL_Chicago_CBS/index.m3u8
+#EXTINF:-1 tvg-id="CBS.us@East",CBS East (720p)
+http://143.244.60.30:/CBS_News/index.m3u8
+#EXTINF:-1 tvg-id="CBSSportsNetworkUSA.us@SD",CBS Sports Network USA
+http://143.244.60.30:/CBS_SPORTS_NETWORK/index.m3u8
+#EXTINF:-1 tvg-id="CHBLTV.ca@SD",CHBL-TV
+http://143.244.60.30:/CA_GLOBAL/index.m3u8
+#EXTINF:-1 tvg-id="CleoTV.us@SD",Cleo TV (720p)
+http://143.244.60.30:/Cleo_TV/index.m3u8
+#EXTINF:-1 tvg-id="CMT.us@East",CMT East
+http://143.244.60.30:/CMT/index.m3u8
+#EXTINF:-1 tvg-id="CNBC.us@SD",CNBC
+http://143.244.60.30:/CNBC/index.m3u8
+#EXTINF:-1 tvg-id="CNBCWorld.us@SD",CNBC World
+http://143.244.60.30:/CNBC_World/index.m3u8
+#EXTINF:-1 tvg-id="ComedyTV.us@SD",Comedy TV
+http://143.244.60.30:/Comedy_TV/index.m3u8
+#EXTINF:-1 tvg-id="Comet.us@SD",Comet
+http://143.244.60.30:/COMET/index.m3u8
+#EXTINF:-1 tvg-id="CourtTV.us@SD",Court TV
+http://143.244.60.30:/COURT_TV/index.m3u8
+#EXTINF:-1 tvg-id="CoziTV.us@SD",Cozi TV
+http://143.244.60.30:/COZI_TV/index.m3u8
+#EXTINF:-1 tvg-id="Crave1.ca@SD",Crave 1
+http://143.244.60.30:/CRAVE_1/index.m3u8
+#EXTINF:-1 tvg-id="Crave2.ca@SD",Crave 2
+http://143.244.60.30:/CRAVE_2/index.m3u8
+#EXTINF:-1 tvg-id="Crave3.ca@SD",Crave 3
+http://143.244.60.30:/CRAVE_3/index.m3u8
+#EXTINF:-1 tvg-id="Crave4.ca@SD",Crave 4
+http://143.244.60.30:/CRAVE_4/index.m3u8
+#EXTINF:-1 tvg-id="CrimePlusInvestigation.us@SD",Crime + Investigation
+http://143.244.60.30:/Crime_and_Investigation_Network/index.m3u8
+#EXTINF:-1 tvg-id="CuriosityStream.us@SD",CuriosityStream (720p)
+http://143.244.60.30:/Curiosity_Stream/index.m3u8
+#EXTINF:-1 tvg-id="CVMTV.jm@SD",CVM TV
+http://143.244.60.30:/CVM_TV_CARIBBEAN/index.m3u8
+#EXTINF:-1 tvg-id="DisneyChannel.us@East",Disney Channel East
+http://143.244.60.30:/DISNEY/index.m3u8
+#EXTINF:-1 tvg-id="DisneyJunior.us@East",Disney Junior East
+http://143.244.60.30:/DISNEY_JR/index.m3u8
+#EXTINF:-1 tvg-id="DisneyXD.us@East",Disney XD (720p)
+http://fl1.moveonjoy.com/DISNEY_XD/index.m3u8
+#EXTINF:-1 tvg-id="E.us@East",E! East
+http://143.244.60.30:/E_ENTERTAINMENT_TELEVISION/index.m3u8
+#EXTINF:-1 tvg-id="ESPNU.us@SD",ESPN U (720p)
+http://143.244.60.30:/ESPN_U/index.m3u8
+#EXTINF:-1 tvg-id="ESPNews.us@SD",ESPNews (720p)
+http://143.244.60.30:/ESPN_NEWS/index.m3u8
+#EXTINF:-1 tvg-id="FanDuelSportsNetwork.us@HD",FanDuel Sports Network
+http://143.244.60.30:/PAC_12/index.m3u8
+#EXTINF:-1 tvg-id="FanDuelTV.us@SD",FanDuel TV
+http://143.244.60.30:/TVG/index.m3u8
+#EXTINF:-1 tvg-id="FoxBusinessNetwork.us@SD",Fox Business Network (720p)
+http://143.244.60.30:/FOX_Business_Network/index.m3u8
+#EXTINF:-1 tvg-id="WFLDDT1.us@SD",FOX Chicago WFLD-DT1
+http://143.244.60.30:/IL_Chicago_FOX/index.m3u8
+#EXTINF:-1 tvg-id="FoxNewsChannel.us@SD",Fox News Channel (720p)
+http://143.244.60.30:/FOX_NEWS_CHANNEL/index.m3u8
+#EXTINF:-1 tvg-id="FoxSoul.us@SD",Fox Soul
+http://143.244.60.30:/FOX_SOUL/index.m3u8
+#EXTINF:-1 tvg-id="",Fox Sports 1
+http://143.244.60.30:/FOX_Sports_1/index.m3u8
+#EXTINF:-1 tvg-id="Freeform.us@East",Free form East
+http://143.244.60.30:/FREE_FORM/index.m3u8
+#EXTINF:-1 tvg-id="Fuse.us@East",Fuse East (720p)
+http://143.244.60.30:/FUSE/index.m3u8
+#EXTINF:-1 tvg-id="FX.us@East",FX East
+http://143.244.60.30:/FX/index.m3u8
+#EXTINF:-1 tvg-id="FXM.us@East",FXM East
+http://143.244.60.30:/FX_MOVIE/index.m3u8
+#EXTINF:-1 tvg-id="FXX.us@East",FXX East
+http://143.244.60.30:/FXX/index.m3u8
+#EXTINF:-1 tvg-id="FYI.us@East",FYI East
+http://143.244.60.30:/FYI/index.m3u8
+#EXTINF:-1 tvg-id="GetTV.us@SD",GetTV (480p)
+http://143.244.60.30:/GET_TV/index.m3u8
+#EXTINF:-1 tvg-id="GolfChannel.us@SD",Golf Channel
+http://143.244.60.30:/GOLF/index.m3u8
+#EXTINF:-1 tvg-id="HallmarkChannel.us@East",Hallmark Channel East (720p)
+http://143.244.60.30:/HALLMARK_CHANNEL/index.m3u8
+#EXTINF:-1 tvg-id="HallmarkDrama.us@SD",Hallmark Drama (720p)
+http://143.244.60.30:/HALLMARK_DRAMA/index.m3u8
+#EXTINF:-1 tvg-id="HallmarkMoviesMysteries.us@East",Hallmark Movies Mysteries East
+http://143.244.60.30:/HALLMARK_MOVIES_MYSTERIES/index.m3u8
+#EXTINF:-1 tvg-id="History.us@East",History
+http://143.244.60.30:/history_channel/index.m3u8
+#EXTINF:-1 tvg-id="HSN.us@East",HSN
+http://143.244.60.30:/HSN/index.m3u8
+#EXTINF:-1 tvg-id="INSP.us@SD",INSP
+http://143.244.60.30:/INSP/index.m3u8
+#EXTINF:-1 tvg-id="IONPlus.us@East",ION Plus East (720p)
+http://143.244.60.30:/ION_Plus/index.m3u8
+#EXTINF:-1 tvg-id="IONTV.us@East",ION TV East
+http://143.244.60.30:/ION_TV/index.m3u8
+#EXTINF:-1 tvg-id="Lifetime.us@East",Lifetime East
+http://143.244.60.30:/LIFETIME/index.m3u8
+#EXTINF:-1 tvg-id="LifetimeMovies.us@East",Lifetime Movies East
+http://143.244.60.30:/LIFETIME_MOVIE_NETWORK/index.m3u8
+#EXTINF:-1 tvg-id="LoveNature.ca@SD",Love Nature
+http://143.244.60.30:/LOVE_NATURE/index.m3u8
+#EXTINF:-1 tvg-id="",MAV TV (720p)
+http://143.244.60.30:/MAV_TV/index.m3u8
+#EXTINF:-1 tvg-id="MeTV.us@SD",MeTV
+http://143.244.60.30:/ME_TV/index.m3u8
+#EXTINF:-1 tvg-id="MGMPlus.us@East",MGM+ East
+http://143.244.60.30:/EPIX/index.m3u8
+#EXTINF:-1 tvg-id="MGMPlusMarquee.us@SD",MGM+ Marquee
+http://143.244.60.30:/EPIX_DRIVE_IN/index.m3u8
+#EXTINF:-1 tvg-id="MilitaryHistory.us@SD",Military History
+http://143.244.60.30:/Military_History/index.m3u8
+#EXTINF:-1 tvg-id="MLBNetwork.us@SD",MLB Network
+http://143.244.60.30:/MLB_NETWORK/index.m3u8
+#EXTINF:-1 tvg-id="MSG.us@SD",MSG
+http://143.244.60.30:/MSG/index.m3u8
+#EXTINF:-1 tvg-id="MTV2.us@East",MTV2 (720p)
+http://143.244.60.30:/MTV_2/index.m3u8
+#EXTINF:-1 tvg-id="MTVClassic.us@East",MTV Classic (360p)
+http://143.244.60.30:/MTV_CLASSIC/index.m3u8
+#EXTINF:-1 tvg-id="MTV.us@East",MTV East
+http://143.244.60.30:/MTV/index.m3u8
+#EXTINF:-1 tvg-id="MTVLive.us@SD",MTV Live (720p)
+http://143.244.60.30:/MTV_LIVE/index.m3u8
+#EXTINF:-1 tvg-id="Much.ca@SD",Much (720p)
+http://143.244.60.30:/MUCH/index.m3u8
+#EXTINF:-1 tvg-id="NationalGeographic.us@East",National Geographic East
+http://143.244.60.30:/National_Geographic/index.m3u8
+#EXTINF:-1 tvg-id="NationalGeographicWild.us@East",National Geographic Wild East
+http://143.244.60.30:/Nat_Geo_Wild/index.m3u8
+#EXTINF:-1 tvg-id="NBATV.us@SD",NBA TV
+http://143.244.60.30:/NBA_TV/index.m3u8
+#EXTINF:-1 tvg-id="WMAQDT1.us@SD",NBC Chicago WMAQ-DT1
+http://143.244.60.30:/IL_Chicago_NBC/index.m3u8
+#EXTINF:-1 tvg-id="NewsNation.us@East",News Nation (720p)
+http://143.244.60.30:/NEWS_NATION/index.m3u8
+#EXTINF:-1 tvg-id="NFLNetwork.us@SD",NFL Network
+http://143.244.60.30:/NFL_NETWORK/index.m3u8
+#EXTINF:-1 tvg-id="NFLRedZone.us@SD",NFL RedZone
+http://143.244.60.30:/NFL_RedZone/index.m3u8
+#EXTINF:-1 tvg-id="NHLNetwork.us@SD",NHL Network (720p)
+http://143.244.60.30:/NHL_NETWORK/index.m3u8
+#EXTINF:-1 tvg-id="NickJr.us@East",Nick Jr. East (720p)
+http://143.244.60.30:/NICK_JR/index.m3u8
+#EXTINF:-1 tvg-id="NickMusic.us@SD",Nick Music (720p)
+http://143.244.60.30:/NICK_MUSIC/index.m3u8
+#EXTINF:-1 tvg-id="Nickelodeon.us@East",Nickelodeon East
+http://143.244.60.30:/NICKELODEON/index.m3u8
+#EXTINF:-1 tvg-id="Nicktoons.us@East",Nicktoons East
+http://143.244.60.30:/NICKTOONS/index.m3u8
+#EXTINF:-1 tvg-id="OutdoorChannel.us@SD",Outdoor Channel
+http://143.244.60.30:/OUTDOOR_CHANNEL/index.m3u8
+#EXTINF:-1 tvg-id="OuterMax.us@East",OuterMax East (720p)
+http://143.244.60.30:/OUTER_MAX/index.m3u8
+#EXTINF:-1 tvg-id="OutsideTV.us@SD",Outside TV
+http://143.244.60.30:/OUTSIDE_TV/index.m3u8
+#EXTINF:-1 tvg-id="Ovation.us@SD",Ovation (1080p)
+http://143.244.60.30:/Ovation/index.m3u8
+#EXTINF:-1 tvg-id="Oxygen.us@East",Oxygen East
+http://143.244.60.30:/OXYGEN/index.m3u8
+#EXTINF:-1 tvg-id="ParamountNetwork.us@East",Paramount Network East
+http://143.244.60.30:/PARAMOUNT_NETWORK/index.m3u8
+#EXTINF:-1 tvg-id="PopTV.us@SD",Pop TV
+http://143.244.60.30:/Pop_TV/index.m3u8
+#EXTINF:-1 tvg-id="PursuitChannel.us@SD",Pursuit Channel (720p)
+http://143.244.60.30:/Pursuit_Channel/index.m3u8
+#EXTINF:-1 tvg-id="QVC.us@SD",QVC (720p)
+http://143.244.60.30:/QVC/index.m3u8
+#EXTINF:-1 tvg-id="Reelz.us@SD",Reelz (720p)
+http://143.244.60.30:/REELZ/index.m3u8
+#EXTINF:-1 tvg-id="Revolt.us@SD",Revolt
+http://143.244.60.30:/REVOLT/index.m3u8
+#EXTINF:-1 tvg-id="Showtime2.us@East",Showtime 2 East
+http://143.244.60.30:/SHOWTIME_2/index.m3u8
+#EXTINF:-1 tvg-id="Showtime.us@East",Showtime East
+http://143.244.60.30:/SHOWTIME/index.m3u8
+#EXTINF:-1 tvg-id="ShowtimeNext.us@East",Showtime Next East
+http://143.244.60.30:/SHOWTIME_NEXT/index.m3u8
+#EXTINF:-1 tvg-id="Showtime.us@West",Showtime West (1080p)
+http://143.244.60.30:/SHOWTIME_WEST/index.m3u8
+#EXTINF:-1 tvg-id="ShowtimeWomen.us@East",Showtime Women East
+http://143.244.60.30:/SHOWTIME_WOMEN/index.m3u8
+#EXTINF:-1 tvg-id="SmithsonianChannel.us@East",Smithsonian Channel East
+http://143.244.60.30:/SMITHSONIAN_CHANNEL/index.m3u8
+#EXTINF:-1 tvg-id="SonyChannel.mx@SD",Sony Channel
+http://143.244.60.30:/Sony_Movie_Channel/index.m3u8
+#EXTINF:-1 tvg-id="SportsmanChannel.us@SD",Sportsman Channel
+http://143.244.60.30:/SPORTSMAN_CHANNEL/index.m3u8
+#EXTINF:-1 tvg-id="SportsNetNewYork.us@SD",SportsNet New York (540p)
+http://143.244.60.30:/SNY/index.m3u8
+#EXTINF:-1 tvg-id="StartTV.us@SD",Start TV
+http://143.244.60.30:/Start_Tv/index.m3u8
+#EXTINF:-1 tvg-id="Starz.us@East",Starz East
+http://143.244.60.30:/STARZ/index.m3u8
+#EXTINF:-1 tvg-id="StarzEncoreClassic.us@East",Starz Encore Classic East
+http://143.244.60.30:/STARZ_ENCORE_CLASSIC/index.m3u8
+#EXTINF:-1 tvg-id="Starz.us@West",Starz West
+http://143.244.60.30:/STARZ_WEST/index.m3u8
+#EXTINF:-1 tvg-id="StoriesbyAMC.us@EastHD",Stories by AMC (1080p)
+http://fl1.moveonjoy.com/AMC_NETWORK/index.m3u8
+#EXTINF:-1 tvg-id="SundanceTV.us@East",Sundance TV East
+http://143.244.60.30:/SUNDANCE/index.m3u8
+#EXTINF:-1 tvg-id="Syfy.us@East",Syfy East
+http://143.244.60.30:/SYFY/index.m3u8
+#EXTINF:-1 tvg-id="TeenNick.us@East",TeenNick
+http://143.244.60.30:/Teen_Nick/index.m3u8
+#EXTINF:-1 tvg-id="TennisChannel.us@SD",Tennis Channel
+http://143.244.60.30:/TENNIS_CHANNEL/index.m3u8
+#EXTINF:-1 tvg-id="TheCowboyChannel.us@SD",The Cowboy Channel
+http://143.244.60.30:/Cowboy_Channel/index.m3u8
+#EXTINF:-1 tvg-id="TSN2.ca@SD",TSN2
+http://143.244.60.30:/TSN_2/index.m3u8
+#EXTINF:-1 tvg-id="TSN3.ca@SD",TSN3
+http://143.244.60.30:/TSN_3/index.m3u8
+#EXTINF:-1 tvg-id="TSN4.ca@SD",TSN4
+http://143.244.60.30:/TSN_4/index.m3u8
+#EXTINF:-1 tvg-id="TSN5.ca@SD",TSN5
+http://143.244.60.30:/TSN_5/index.m3u8
+#EXTINF:-1 tvg-id="TVLand.us@East",TV Land
+http://143.244.60.30:/TV_LAND/index.m3u8
+#EXTINF:-1 tvg-id="TVOne.us@SD",TV One
+http://143.244.60.30:/TV_ONE/index.m3u8
+#EXTINF:-1 tvg-id="USANetwork.us@East",USA Network (720p)
+http://fl1.moveonjoy.com/USA_NETWORK/index.m3u8
+#EXTINF:-1 tvg-id="VH1.us@East",VH1 East
+http://143.244.60.30:/VH1/index.m3u8
+#EXTINF:-1 tvg-id="VICETV.us@SD",VICE TV (720p)
+http://143.244.60.30:/VICELAND/index.m3u8
+#EXTINF:-1 tvg-id="WNetwork.ca@East",W Network (720p)
+http://143.244.60.30:/W_NETWORK/index.m3u8
+#EXTINF:-1 tvg-id="WeTV.us@East",We TV East
+http://143.244.60.30:/WE_TV/index.m3u8
+#EXTINF:-1 tvg-id="WFLADT1.us@SD",WFLA-DT1
+http://143.244.60.30:/FL_Tampa_NBC/index.m3u8
+#EXTINF:-1 tvg-id="WFLXDT1.us@SD",WFLX-DT1
+http://143.244.60.30:/FL_West_Palm_Beach_FOX/index.m3u8
+#EXTINF:-1 tvg-id="WFTSDT1.us@SD",WFTS-DT1
+http://143.244.60.30:/FL_Tampa_ABC/index.m3u8
+#EXTINF:-1 tvg-id="WGNDT1.us@SD",WGN-DT1 (720p)
+http://143.244.60.30:/WGN/index.m3u8
+#EXTINF:-1 tvg-id="Willow.us@SD",Willow
+http://143.244.60.30:/WILLOW_CRICKET/index.m3u8
+#EXTINF:-1 tvg-id="WKCFDT1.us@SD",WKCF-DT1
+http://143.244.60.30:/CW_ORLANDO/index.m3u8
+#EXTINF:-1 tvg-id="WorldFishingNetwork.us@SD",World Fishing Network
+http://143.244.60.30:/WORLD_FISHING_NETWORK/index.m3u8
+#EXTINF:-1 tvg-id="WPECDT1.us@SD",WPEC-DT1
+http://143.244.60.30:/FL_West_Palm_Beach_CBS/index.m3u8
+#EXTINF:-1 tvg-id="WTOGDT1.us@SD",WTOG-DT1
+http://143.244.60.30:/FL_Tampa_CW44/index.m3u8
+#EXTINF:-1 tvg-id="WVGNLD1.vi@SD",WVGN-LD1
+http://143.244.60.30:/Virgin_Islands_NBC/index.m3u8
+#EXTINF:-1 tvg-id="YesNetwork.us@SD",Yes Network
+http://143.244.60.30:/YES_NETWORK/index.m3u8
+
+
 #################################### ITALIAN CHANNELS ####################################
 #EXTINF:-1 group-title="ITALIAN CHANNELS" tvg-logo="",Rete 4
 http://213.3.8.156:4022/udp/224.100.2.1:1234
