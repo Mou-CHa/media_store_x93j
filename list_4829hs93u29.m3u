@@ -229,13 +229,13 @@ http://151.80.18.177:86/Tiji_HD/index.m3u8
 http://151.80.18.177:86/Canal_J_HD/index.m3u8
 #EXTINF:-1 group-title="KIDS CHANNELS" tvg-logo="",TREEHOUSE
 http://vocotv.pro/live/mmckandes1/P2022ssword/3636.ts
-#EXTINF:-1 group-title=""KIDS CHANNELS" tvg-logo="",MANGAS HD
+#EXTINF:-1 group-title="KIDS CHANNELS" tvg-logo="",MANGAS HD
 #EXTVLCOPT:network-caching=1000
 http://45.90.106.7:9790/play/TbZ4097U5@F5L
-#EXTINF:-1 group-title=""KIDS CHANNELS" tvg-logo="",JEEM AR HD
+#EXTINF:-1 group-title="KIDS CHANNELS" tvg-logo="",JEEM AR HD
 http://order.servepics.com:8080/live/jFqbplMwLC/ODG2hhNOOy/140.ts
-#EXTINF:-1 group-title=""KIDS CHANNELS" tvg-logo="",ROTANA CLASSIC HD
-http://order.servepics.com:8080/live/jFqbplMwLC/ODG2hhNOOy/387.ts
+#EXTINF:-1 group-title="KIDS CHANNELS" tvg-logo="",KNOWNLODGE KIDS 
+https://d1wal6k3d7ssin.cloudfront.net/out/v1/ea91db0906c847a4931b46a9ec36e77b/index.m3u8
 
 #EXTINF:-1 group-title="LEARN ENGLISH CHANNELS" tvg-logo="",ENGLISH CLUB HD
 http://cdn1.live-tv.od.ua:8081/mobileenglishclub/eclub-abr/eclub/720-p/playlist.m3u8
@@ -439,8 +439,6 @@ https://admn-live-cdn-lb.starzplayarabia.com/out/v1/admn_tv_enc/abudhabi_tv/abud
 https://cdn1.logichost.in/ajmantv/live/chunklist_w198675558.m3u8
 #EXTINF:-1 group-title="ARABIC CHANNELS" tvg-id="" tvg-logo="", Dubai zaman tv
 https://dmiffthftl.cdn.mangomolo.com/dubaizaman/smil:dubaizaman.stream.smil/chunklist.m3u8
-#EXTINF:-1 group-title="ARABIC CHANNELS" tvg-id="" tvg-logo="", al manar tv
-http://edge.fastpublish.me/live/index.m3u8
 #EXTINF:-1 group-title="ARABIC CHANNELS" tvg-id="" tvg-logo="", thakafiya tv
 https://shd-gcp-live.edgenextcdn.net/live/bitmovin-thaqafeyyah/28c0d2a20dbf1dc049ce15d3973f494b/index.m3u8
 #EXTINF:-1 group-title="ARABIC CHANNELS" tvg-id="" tvg-logo="", Rotana Comedy tv
@@ -460,9 +458,11 @@ https://shls-live-enc.edgenextcdn.net/out/v1/f6d718e841f8442f8374de47f18c93a7/in
 #EXTINF:-1 group-title="ARABIC CHANNELS" tvg-logo="",Musawa hd
 https://pbc.furrera.ps/musawahd/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="ARABIC CHANNELS" tvg-logo="",irth nabawi
-http://bk.xiptv.network/live/freelist/freelist568/1907.ts
-
-
+http://82.212.74.2:8000/live/hls/7407.m3u8
+#EXTINF:-1 group-title="ARABIC CHANNELS" tvg-logo="",ROTANA CLASSIC HD
+http://order.servepics.com:8080/live/jFqbplMwLC/ODG2hhNOOy/387.ts
+#EXTINF:-1 group-title="ARABIC CHANNELS" tvg-logo="",JORDAN TV
+https://jrtv-live.ercdn.net/jordanhd/jordanhd_1080p.m3u8?DVR&v=c5cc1862
 #################################### UK CHANNELS ####################################
 #EXTINF:-1 group-title="UK CHANNELS" tvg-id="" tvg-logo="",Film4
 http://78.155.24.242/live/eds/film4/browser-dash/film4.mpd
@@ -695,7 +695,32 @@ https://liveeu-gcp.alkassdigital.net/alkass4-p/main.m3u8
 https://liveeu-gcp.alkassdigital.net/alkass5-p/main.m3u8
 #EXTINF:-1 group-title="SPORTS CHANNELS" tvg-logo="",alkass_6HD
 https://liveeu-gcp.alkassdigital.net/alkass6-p/main.m3u8
-
+#EXTINF:-1 group-title="SPORTS CHANNELS" tvg-logo="", BEIN NEWS FAMILY
+http://162.247.154.154/18/index.m3u8
+#EXTINF:-1 group-title="SPORTS CHANNELS" tvg-logo="",BEIN 7 FAMILY
+http://162.247.154.154/19/index.m3u8
+#EXTINF:-1 group-title="SPORTS CHANNELS" tvg-logo="",BEIN 2 FAMILY
+http://162.247.154.154/27/index.m3u8
+#EXTINF:-1 group-title="SPORTS CHANNELS" tvg-logo="",BEIN 4 FAMILY
+http://162.247.154.154/29/index.m3u8
+#EXTINF:-1 group-title="SPORTS CHANNELS" tvg-logo="",BEIN 5 FAMILY
+http://162.247.154.154/30/index.m3u8
+#EXTINF:-1 group-title="SPORTS CHANNELS" tvg-logo="",BEIN 6 FAMILY
+http://162.247.154.154/31/index.m3u8
+#EXTINF:-1 group-title="SPORTS CHANNELS" tvg-logo="",BEIN 1 FAMILY
+http://162.247.154.154/402/index.m3u8
+#EXTINF:-1 group-title="SPORTS CHANNELS" tvg-logo="",BEIN 9 FAMILY
+http://162.247.154.154/431/index.m3u8
+#EXTINF:-1 group-title="SPORTS CHANNELS" tvg-logo="",BEIN 2 EN FAMILY
+http://162.247.154.154/433/index.m3u8
+#EXTINF:-1 group-title="SPORTS CHANNELS" tvg-logo="",BEIN 1 FR FAMILY
+http://162.247.154.154/435/index.m3u8
+#EXTINF:-1 group-title="SPORTS CHANNELS" tvg-logo="",BEIN 2 FR FAMILY
+http://162.247.154.154/436/index.m3u8
+#EXTINF:-1 group-title="SPORTS CHANNELS" tvg-logo="",BEIN 1 FR FAMILY
+http://162.247.154.154/437/index.m3u8
+#EXTINF:-1 group-title="SPORTS CHANNELS" tvg-logo="",BEIN 2 FR FAMILY
+http://162.247.154.154/438/index.m3u8
 
 
 
