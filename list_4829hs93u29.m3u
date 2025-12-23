@@ -240,10 +240,12 @@ https://d1wal6k3d7ssin.cloudfront.net/out/v1/ea91db0906c847a4931b46a9ec36e77b/in
 http://order.servepics.com:8080/live/jFqbplMwLC/ODG2hhNOOy/140.ts
 #EXTINF:-1 group-title="KIDS CHANNELS" tvg-logo="",baream ar
 http://order.servepics.com:8080/live/jFqbplMwLC/ODG2hhNOOy/143.ts
+#EXTINF:-1 group-title="KIDS CHANNELS" tvg-logo="",Baraem HD AR
+http://tornado-pro.com/live/alhomaidirashid@gmail.com/HOrashid1/12345.m3u8
+
 
 #EXTINF:-1 group-title="LEARN ENGLISH CHANNELS" tvg-logo="",ENGLISH CLUB HD
 http://cdn1.live-tv.od.ua:8081/mobileenglishclub/eclub-abr/eclub/720-p/playlist.m3u8
-
 #################################### DOCUMENTARY ####################################
 #EXTINF:-1 group-title="DOCUMENTARY" tvg-logo="",Love Nature
 http://143.244.60.30/LOVE_NATURE/index.m3u8
@@ -961,6 +963,28 @@ https://py.dencreak.com/bn_g_hd7.m3u8
 https://py.dencreak.com/bn_g_hd8.m3u8
 #EXTINF:-1 group-title="BEIN SPORTS ARABIC" tvg-logo="",BEIN SPORTS HD 9 AR
 https://py.dencreak.com/bn_g_hd9.m3u8?token=
+#EXTINF:-1 group-title="BEIN SPORTS ARABIC" tvg-logo="",BEIN AFCON 1AR
+http://tornado-pro.com/live/alhomaidirashid@gmail.com/HOrashid1/59690.m3u8
+#EXTINF:-1 group-title="BEIN SPORTS ARABIC" tvg-logo="",BEIN MAX 2 1AR
+http://tornado-pro.com/live/alhomaidirashid@gmail.com/HOrashid1/59691.m3u8
+#EXTINF:-1 group-title="BEIN SPORTS ARABIC" tvg-logo="",BEIN AFCON 1AR
+http://tornado-pro.com/live/alhomaidirashid@gmail.com/HOrashid1/143245.ts
+#EXTINF:-1 group-title="BEIN SPORTS ARABIC" tvg-logo="",BEIN AFCON 3 EN
+http://tornado-pro.com/live/alhomaidirashid@gmail.com/HOrashid1/59692.m3u8
+#EXTINF:-1 group-title="BEIN SPORTS ARABIC" tvg-logo="",AFCON SPORT EN
+https://broadcasthub.click/hls/xIdA2QEv4ET5/index.m3u8
+#EXTINF:-1 group-title="BEIN SPORTS ARABIC" tvg-logo="",BEIN MAX 1HD AR
+http://fast.genral2025.cfd:8080/bmax1hd.css?token=477f1c15a8912fddcce1fad46336f66a&ip=197.204.203.106
+#EXTINF:-1 group-title="BEIN SPORTS ARABIC" tvg-logo="",BEIN MAX 2HD AR
+http://fast.genral2025.cfd:8080/bmax2hd.css?token=477f1c15a8912fddcce1fad46336f66a&ip=197.204.203.106
+#EXTINF:-1 group-title="BEIN SPORTS ARABIC" tvg-logo="",BEIN MAX 1SD AR
+http://fast.genral.xyz:8080/bmax1sd.css?token=477f1c15a8912fddcce1fad46336f66a&ip=197.204.203.106
+#EXTINF:-1 group-title="BEIN SPORTS ARABIC" tvg-logo="",BEIN MAX 2SD AR
+http://fast.cinema2.vip:8080/bmax1sd.css?token=477f1c15a8912fddcce1fad46336f66a&ip=197.204.203.106
+#EXTINF:-1 group-title="BEIN SPORTS ARABIC" tvg-logo="",BEIN MAX 1SD OP AR
+http://fast.fastes.sbs:8080/bmax1hd.css?token=477f1c15a8912fddcce1fad46336f66a&ip=197.204.203.106
+#EXTINF:-1 group-title="BEIN SPORTS ARABIC" tvg-logo="",BEIN MAX 2SD OP AR
+http://fast.fastes.sbs:8080/bmax2hd.css?token=477f1c15a8912fddcce1fad46336f66a&ip=197.204.203.106
 #EXTINF:-1 group-title="BEIN SPORTS FRENCH" tvg-logo="",BEIN SPORTS HD 1 FR
 https://py.dencreak.com/bn_fr_hd1.m3u8
 #EXTINF:-1 group-title="BEIN SPORTS FRENCH" tvg-logo="",BEIN SPORTS HD 2 FR
@@ -1029,7 +1053,8 @@ http://162.247.154.154/436/index.m3u8
 http://162.247.154.154/437/index.m3u8
 #EXTINF:-1 group-title="SPORTS CHANNELS" tvg-logo="",BEIN 2 FR FAMILY
 http://162.247.154.154/438/index.m3u8
-
+#EXTINF:-1 group-title="SPORTS CHANNELS" tvg-logo="",MATCH_TV
+http://hls127.freeott.top:8080/MATCH_TV/mono.m3u8
 
 
 
