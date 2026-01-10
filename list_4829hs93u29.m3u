@@ -185,7 +185,15 @@ http://41.205.93.154/LA-UNE/mpegts
 http://41.205.93.154/LA-DEUX/mpegts
 #EXTINF:-1 group-title="FRENCH CHANNELS" tvg-logo="",BEL RTL
 https://bel-live-hls.akamaized.net/hls/live/2038650/BEL-Live-HLS/master20241206-HLS_1800.m3u8
-
+#EXTINF:-1 group-title="FRENCH CHANNELS" tvg-logo="", telenovela tv
+https://stormcast-telenovelatv-1-fr.samsung.wurl.tv/3000.m3u8
+https://rcavlive.akamaized.net/hls/live/696615/xcancbft/master.m3u8
+https://rcavlive.akamaized.net/hls/live/704025/xcanrdi/master.m3u8
+https://amdici.akamaized.net/hls/live/873426/ICI-Live-Stream/master.m3u8
+https://ebsonair.ebs.co.kr/plus3familypc/familypc1m/playlist.m3u8
+https://televisa-televisa-1-en.samsung.wurl.tv/playlist.m3u8
+https://stream-live.lrt.lt/lituanica/master.m3u8
+https://hls.savoir.media/live/stream.m3u8
 #################################### KIDS CHANNELS ####################################
 #EXTINF:-1 group-title="KIDS CHANNELS" tvg-logo="",TVO Kids
 https://fastly.live.brightcove.com/6369851620112/us-east-1/15364602001/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJob3N0IjoicGZncmlmLmVncmVzcy50N2M3emwiLCJhY2NvdW50X2lkIjoiMTUzNjQ2MDIwMDEiLCJlaG4iOiJmYXN0bHkubGl2ZS5icmlnaHRjb3ZlLmNvbSIsImlzcyI6ImJsaXZlLXBsYXliYWNrLXNvdXJjZS1hcGkiLCJzdWIiOiJwYXRobWFwdG9rZW4iLCJhdWQiOlsiMTUzNjQ2MDIwMDEiXSwianRpIjoiNjM2OTg1MTYyMDExMiJ9.zRE6fD9JwdbNLUIK5zgvlTAvXCQ3HeeE5p0yH0Pd3-Q/chunklist.m3u8
@@ -242,10 +250,9 @@ http://order.servepics.com:8080/live/jFqbplMwLC/ODG2hhNOOy/140.ts
 http://order.servepics.com:8080/live/jFqbplMwLC/ODG2hhNOOy/143.ts
 #EXTINF:-1 group-title="KIDS CHANNELS" tvg-logo="",Baraem HD AR
 http://tornado-pro.com/live/alhomaidirashid@gmail.com/HOrashid1/12345.m3u8
-
-
 #EXTINF:-1 group-title="LEARN ENGLISH CHANNELS" tvg-logo="",ENGLISH CLUB HD
 http://cdn1.live-tv.od.ua:8081/mobileenglishclub/eclub-abr/eclub/720-p/playlist.m3u8
+
 #################################### DOCUMENTARY ####################################
 #EXTINF:-1 group-title="DOCUMENTARY" tvg-logo="",Love Nature
 http://143.244.60.30/LOVE_NATURE/index.m3u8
@@ -771,6 +778,8 @@ https://jrtv-live.ercdn.net/jordanhd/jordanhd_1080p.m3u8?DVR&v=c5cc1862
 https://live.france24.com/hls/live/2037222/F24_AR_HI_HLS/master_5000.m3u8
 #EXTINF:-1 group-title="ARABIC CHANNELS" tvg-logo="",ALJADEED
 http://102.177.177.232/ALJADEED/index.m3u8
+#EXTINF:-1 group-title="ARABIC CHANNELS" tvg-logo="",AL AQSA TV
+http://167.172.161.13/hls/feedspare/6udfi7v8a3eof6nlps6e9ovfrs65c7l7.m3u8
 
 
 #################################### UK CHANNELS ####################################
