@@ -241,17 +241,22 @@ http://vocotv.pro/live/mmckandes1/P2022ssword/3636.ts
 #EXTVLCOPT:network-caching=1000
 http://45.90.106.7:9790/play/TbZ4097U5@F5L
 #EXTINF:-1 group-title="KIDS CHANNELS" tvg-logo="",JEEM AR HD
-http://order.servepics.com:8080/live/jFqbplMwLC/ODG2hhNOOy/140.ts
+http://tornado-pro.com/live/alhomaidirashid@gmail.com/HOrashid1/12345.m3u8
 #EXTINF:-1 group-title="KIDS CHANNELS" tvg-logo="",KNOWNLODGE KIDS 
 https://d1wal6k3d7ssin.cloudfront.net/out/v1/ea91db0906c847a4931b46a9ec36e77b/index.m3u8
-#EXTINF:-1 group-title="KIDS CHANNELS" tvg-logo="",Kjeem ar
-http://order.servepics.com:8080/live/jFqbplMwLC/ODG2hhNOOy/140.ts
-#EXTINF:-1 group-title="KIDS CHANNELS" tvg-logo="",baream ar
-http://order.servepics.com:8080/live/jFqbplMwLC/ODG2hhNOOy/143.ts
 #EXTINF:-1 group-title="KIDS CHANNELS" tvg-logo="",Baraem HD AR
 http://tornado-pro.com/live/alhomaidirashid@gmail.com/HOrashid1/12345.m3u8
+#EXTINF:-1 group-title="KIDS CHANNELS" tvg-logo="",TFO HD
+https://cdn.jwplayer.com/live/broadcast/L5shKNLm.m3u8
+#EXTINF:-1 group-title="KIDS CHANNELS" tvg-logo="",sat7kids
+https://svs.itworkscdn.net/sat7kidslive/sat7kids.smil/sat7kidspublish/sat7kids_source/chunks_dvr.m3u8
+#EXTINF:-1 group-title="KIDS CHANNELS" tvg-logo="",Kids Free
+https://rpn3.bozztv.com/dvrfl07/ushba-t6/index.m3u8
+https://amg02757-amg02757c3-rakuten-de-6135.playouts.now.amagi.tv/playlist/amg02757-loolookids-llkdefast-rakutende/playlist.m3u8
+
 #EXTINF:-1 group-title="LEARN ENGLISH CHANNELS" tvg-logo="",ENGLISH CLUB HD
 http://cdn1.live-tv.od.ua:8081/mobileenglishclub/eclub-abr/eclub/720-p/playlist.m3u8
+
 
 #################################### DOCUMENTARY ####################################
 #EXTINF:-1 group-title="DOCUMENTARY" tvg-logo="",Love Nature
@@ -294,6 +299,8 @@ https://kwtktvata.cdn.mangomolo.com/ktva/smil:tktva.stream.smil/chunklist.m3u8
 
 
 #################################### US CHANNELS ####################################
+#EXTINF:-1 group-title="US CHANNELS" tvg-logo="",abc-news
+https://abc-news-dmd-streams-1.akamaized.net/out/v1/701126012d044971b3fa89406a440133/index_8.m3u8
 #EXTINF:-1 group-title="US CHANNELS" tvg-logo="",USA NETWORK
 http://143.244.60.30/USA_NETWORK/index.m3u8
 #EXTINF:-1 group-title="US CHANNELS" tvg-logo="",ABC HD
@@ -622,6 +629,10 @@ http://143.244.60.30:/FL_Tampa_CW44/index.m3u8
 http://143.244.60.30:/Virgin_Islands_NBC/index.m3u8
 #EXTINF:-1 tvg-id="YesNetwork.us@SD",Yes Network
 http://143.244.60.30:/YES_NETWORK/index.m3u8
+#EXTINF:-1 group-title="US CHANNELS" tvg-logo="",cpac-ca
+https://cpac-ca-live.cdn.vustreams.com/groupa/live/f9809cea-1e07-47cd-a94d-2ddd3e1351db/live.isml/live-video_track.m3u8
+https://fl1.moveonjoy.com/FL_PANAMA_CITY_ABC/mpegts
+
 
 
 #################################### ITALIAN CHANNELS ####################################
@@ -780,6 +791,10 @@ https://live.france24.com/hls/live/2037222/F24_AR_HI_HLS/master_5000.m3u8
 http://102.177.177.232/ALJADEED/index.m3u8
 #EXTINF:-1 group-title="ARABIC CHANNELS" tvg-logo="",AL AQSA TV
 http://167.172.161.13/hls/feedspare/6udfi7v8a3eof6nlps6e9ovfrs65c7l7.m3u8
+#EXTINF:-1 group-title="ARABIC CHANNELS" tvg-logo="",KAN 11
+https://kan11sub.media.kan.org.il/hls/live/2024678/2024678/source1_2.5k/chunklist.m3u8
+#EXTINF:-1 group-title="ARABIC CHANNELS" tvg-logo="",MAKAN
+https://makan.media.kan.org.il/hls/live/2024680/2024680/source1_1.2k/chunklist.m3u8
 
 
 #################################### UK CHANNELS ####################################
@@ -918,6 +933,14 @@ https://viamotionhsi.netplus.ch/live/eds/mdr/browser-dash/mdr.mpd
 https://viamotionhsi.netplus.ch/live/eds/sat1gold/browser-dash/sat1gold.mpd
 #EXTINF:-1 group-title="DE AT CH" tvg-id="" tvg-logo="",Kabel Eins Docu
 https://viamotionhsi.netplus.ch/live/eds/kabeleinsdocu/browser-dash/kabeleinsdocu.mpd
+https://artelivezdf.akamaized.net/hls/live/2030993/artelive_de/index.m3u8
+https://kika-live.ard-mcdn.de/kika/live/hls/de/master.m3u8
+https://zdf-hls-15.akamaized.net/hls/live/2016498/de/high/master.m3u8
+https://zdf-hls-16.akamaized.net/hls/live/2016499/de/high/master.m3u8
+https://zdf-hls-17.akamaized.net/hls/live/2016500/de/high/master.m3u8
+https://zdf-hls-19.akamaized.net/hls/live/2016502/de/high/master.m3u8
+
+
 ####################### PT #############################
 #EXTINF:-1 group-title="PT" tvg-id="" tvg-logo="",TV Galicia
 https://viamotionhsi.netplus.ch/live/eds/tvgalicia/browser-dash/tvgalicia.mpd
