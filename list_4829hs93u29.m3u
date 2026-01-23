@@ -252,6 +252,7 @@ https://cdn.jwplayer.com/live/broadcast/L5shKNLm.m3u8
 https://svs.itworkscdn.net/sat7kidslive/sat7kids.smil/sat7kidspublish/sat7kids_source/chunks_dvr.m3u8
 #EXTINF:-1 group-title="KIDS CHANNELS" tvg-logo="",Kids Free
 https://rpn3.bozztv.com/dvrfl07/ushba-t6/index.m3u8
+#EXTINF:-1 group-title="KIDS CHANNELS" tvg-logo="",LoloKids
 https://amg02757-amg02757c3-rakuten-de-6135.playouts.now.amagi.tv/playlist/amg02757-loolookids-llkdefast-rakutende/playlist.m3u8
 
 #EXTINF:-1 group-title="LEARN ENGLISH CHANNELS" tvg-logo="",ENGLISH CLUB HD
@@ -733,6 +734,9 @@ http://svs.itworkscdn.net/asharqdiscoverylive/asharqd.smil/playlist_dvr.m3u8
 https://live.kwikmotion.com/fujairahlive/fujairah.smil/playlist.m3u8
 #EXTINF:-1 group-title="ARABIC CHANNELS" tvg-logo="",Thikrayat Sa TV
 https://al-ekhbaria-prod-dub.shahid.net/out/v1/ef87956651694f4ba2ccc16e852dbb95/index.m3u8
+https://shd-gcp-live.edgenextcdn.net/live/bitmovin-thikrayat/2cea83644508440266f3f48cbbb9fa36/index.m3u8
+#EXTINF:-1 group-title="ARABIC CHANNELS" tvg-id="" tvg-logo="", thakafiya tv
+https://shd-gcp-live.edgenextcdn.net/live/bitmovin-thaqafeyyah/28c0d2a20dbf1dc049ce15d3973f494b/index.m3u8
 #EXTINF:-1 group-title="ARABIC CHANNELS" tvg-logo="",Rayan Old Qa TV
 https://alrayyancdn.vidgyor.com/pub-nooldraybinbdh/liveabr/pub-nooldraybinbdh/live_1080p/chunks_dvr.m3u8
 #EXTINF:-1 group-title="ARABIC CHANNELS" tvg-logo="",Rayan Qa TV
@@ -760,9 +764,10 @@ https://admn-live-cdn-lb.starzplayarabia.com/out/v1/admn_tv_enc/abudhabi_tv/abud
 #EXTINF:-1 group-title="ARABIC CHANNELS" tvg-id="" tvg-logo="",Ajman tv
 https://cdn1.logichost.in/ajmantv/live/chunklist_w198675558.m3u8
 #EXTINF:-1 group-title="ARABIC CHANNELS" tvg-id="" tvg-logo="", Dubai zaman tv
-https://dmiffthftl.cdn.mangomolo.com/dubaizaman/smil:dubaizaman.stream.smil/chunklist.m3u8
-#EXTINF:-1 group-title="ARABIC CHANNELS" tvg-id="" tvg-logo="", thakafiya tv
-https://shd-gcp-live.edgenextcdn.net/live/bitmovin-thaqafeyyah/28c0d2a20dbf1dc049ce15d3973f494b/index.m3u8
+https://dmi-live-a.akamaized.net/Content/Channel/dubaizaman/DASH/master.mpd 
+
+
+
 #EXTINF:-1 group-title="ARABIC CHANNELS" tvg-id="" tvg-logo="", Rotana Comedy tv
 http://185.9.2.18/chid_5224/mono.m3u8
 #EXTINF:-1 group-title="ARABIC CHANNELS" tvg-logo="",TV7 ELMAARIFA
