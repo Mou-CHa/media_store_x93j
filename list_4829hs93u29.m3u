@@ -482,6 +482,8 @@ http://143.244.60.30:/LOVE_NATURE/index.m3u8
 http://143.244.60.30:/MAV_TV/index.m3u8
 #EXTINF:-1 tvg-id="MeTV.us@SD",MeTV
 http://143.244.60.30:/ME_TV/index.m3u8
+#EXTINF:-1 tvg-id="MeTV.us@SD",MeTV test
+http://89.105.221.127/MeTV_Toons/mpegts?token=test
 #EXTINF:-1 tvg-id="MGMPlus.us@East",MGM+ East
 http://143.244.60.30:/EPIX/index.m3u8
 #EXTINF:-1 tvg-id="MGMPlusMarquee.us@SD",MGM+ Marquee
