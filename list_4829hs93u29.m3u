@@ -194,6 +194,7 @@ https://ebsonair.ebs.co.kr/plus3familypc/familypc1m/playlist.m3u8
 https://televisa-televisa-1-en.samsung.wurl.tv/playlist.m3u8
 https://stream-live.lrt.lt/lituanica/master.m3u8
 https://hls.savoir.media/live/stream.m3u8
+
 #################################### KIDS CHANNELS ####################################
 #EXTINF:-1 group-title="KIDS CHANNELS" tvg-logo="",TVO Kids
 https://fastly.live.brightcove.com/6369851620112/us-east-1/15364602001/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJob3N0IjoicGZncmlmLmVncmVzcy50N2M3emwiLCJhY2NvdW50X2lkIjoiMTUzNjQ2MDIwMDEiLCJlaG4iOiJmYXN0bHkubGl2ZS5icmlnaHRjb3ZlLmNvbSIsImlzcyI6ImJsaXZlLXBsYXliYWNrLXNvdXJjZS1hcGkiLCJzdWIiOiJwYXRobWFwdG9rZW4iLCJhdWQiOlsiMTUzNjQ2MDIwMDEiXSwianRpIjoiNjM2OTg1MTYyMDExMiJ9.zRE6fD9JwdbNLUIK5zgvlTAvXCQ3HeeE5p0yH0Pd3-Q/chunklist.m3u8
@@ -237,6 +238,7 @@ http://151.80.18.177:86/Tiji_HD/index.m3u8
 http://151.80.18.177:86/Canal_J_HD/index.m3u8
 #EXTINF:-1 group-title="KIDS CHANNELS" tvg-logo="",TREEHOUSE
 http://vocotv.pro/live/mmckandes1/P2022ssword/3636.ts
+http://xxip9.top:8080/live/gscQ3v/779460/57371.ts
 #EXTINF:-1 group-title="KIDS CHANNELS" tvg-logo="",MANGAS HD
 #EXTVLCOPT:network-caching=1000
 http://45.90.106.7:9790/play/TbZ4097U5@F5L
@@ -254,7 +256,8 @@ https://svs.itworkscdn.net/sat7kidslive/sat7kids.smil/sat7kidspublish/sat7kids_s
 https://rpn3.bozztv.com/dvrfl07/ushba-t6/index.m3u8
 #EXTINF:-1 group-title="KIDS CHANNELS" tvg-logo="",LoloKids
 https://amg02757-amg02757c3-rakuten-de-6135.playouts.now.amagi.tv/playlist/amg02757-loolookids-llkdefast-rakutende/playlist.m3u8
-
+#EXTINF:-1 group-title="KIDS CHANNELS" tvg-logo="",pbs moutain
+https://dce3793146fef017.mediapackage.us-west-2.amazonaws.com/out/v1/55cdf73af7894775ba6de8f57482b66a/CMAF_HLS/index.m3u8
 #EXTINF:-1 group-title="LEARN ENGLISH CHANNELS" tvg-logo="",ENGLISH CLUB HD
 http://cdn1.live-tv.od.ua:8081/mobileenglishclub/eclub-abr/eclub/720-p/playlist.m3u8
 
@@ -735,8 +738,7 @@ http://svs.itworkscdn.net/asharqdiscoverylive/asharqd.smil/playlist_dvr.m3u8
 #EXTINF:-1 group-title="ARABIC CHANNELS" tvg-logo="",Fujairah TV
 https://live.kwikmotion.com/fujairahlive/fujairah.smil/playlist.m3u8
 #EXTINF:-1 group-title="ARABIC CHANNELS" tvg-logo="",Thikrayat Sa TV
-https://al-ekhbaria-prod-dub.shahid.net/out/v1/ef87956651694f4ba2ccc16e852dbb95/index.m3u8
-https://shd-gcp-live.edgenextcdn.net/live/bitmovin-thikrayat/2cea83644508440266f3f48cbbb9fa36/index.m3u8
+http://tornado-pro.com/live/alhomaidirashid@gmail.com/HOrashid1/35444.ts
 #EXTINF:-1 group-title="ARABIC CHANNELS" tvg-id="" tvg-logo="", thakafiya tv
 https://shd-gcp-live.edgenextcdn.net/live/bitmovin-thaqafeyyah/28c0d2a20dbf1dc049ce15d3973f494b/index.m3u8
 #EXTINF:-1 group-title="ARABIC CHANNELS" tvg-logo="",Rayan Old Qa TV
@@ -1050,9 +1052,9 @@ https://py.dencreak.com/alkass_2.m3u8
 https://py.dencreak.com/alkass_3.m3u8
 #EXTINF:-1 group-title="SPORTS" tvg-logo="",alkass_4
 https://py.dencreak.com/alkass_4.m3u8
-#EXTINF:-1 group-title="SPORTS CHANNELS" tvg-logo="",alkass_4
+#EXTINF:-1 group-title="SPORTS CHANNELS" tvg-logo="",abudhabi_sports_1
 https://admn-live-cdn-lb.starzplayarabia.com/out/v1/admn_tv_enc/abudhabi_sports_1/abudhabi_sports_1_hls_nd/index.m3u8
-#EXTINF:-1 group-title="SPORTS CHANNELS" tvg-logo="",alkass_4
+#EXTINF:-1 group-title="SPORTS CHANNELS" tvg-logo="",abudhabi_sports_2
 https://admn-live-cdn-lb.starzplayarabia.com/out/v1/admn_tv_enc/abudhabi_sports_2/abudhabi_sports_2_hls_nd/index.m3u8
 #EXTINF:-1 group-title="SPORTS CHANNELS" tvg-logo="",alkass_1HD
 https://liveeu-gcp.alkassdigital.net/alkass1-p/main.m3u8
