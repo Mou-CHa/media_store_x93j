@@ -1097,5 +1097,6 @@ http://162.247.154.154/438/index.m3u8
 #EXTINF:-1 group-title="SPORTS CHANNELS" tvg-logo="",MATCH_TV
 http://hls127.freeott.top:8080/MATCH_TV/mono.m3u8
 
-
-
+#################################### Movies & Series ####################################
+#EXTINF:-1 group-title="Movies & Series" tvg-logo="",السادة الافاضل
+https://a1v.1vid.online/hls2/02/00016/gpfag736auuh_n/index-v1-a1.m3u8?t=Hw18fTQueVhsOqyCnczAbGmEx-eVGLHPcOH7mQw4Zmg&s=1770561452&e=7200&f=81886&i=197.200&sp=2048
