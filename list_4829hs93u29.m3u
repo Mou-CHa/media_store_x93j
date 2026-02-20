@@ -237,7 +237,6 @@ http://151.80.18.177:86/Tiji_HD/index.m3u8
 #EXTINF:-1 group-title="KIDS CHANNELS" tvg-logo="",Canal J
 http://151.80.18.177:86/Canal_J_HD/index.m3u8
 #EXTINF:-1 group-title="KIDS CHANNELS" tvg-logo="",TREEHOUSE
-http://vocotv.pro/live/mmckandes1/P2022ssword/3636.ts
 http://xxip9.top:8080/live/gscQ3v/779460/57371.ts
 #EXTINF:-1 group-title="KIDS CHANNELS" tvg-logo="",MANGAS HD
 #EXTVLCOPT:network-caching=1000
@@ -260,6 +259,9 @@ https://amg02757-amg02757c3-rakuten-de-6135.playouts.now.amagi.tv/playlist/amg02
 https://dce3793146fef017.mediapackage.us-west-2.amazonaws.com/out/v1/55cdf73af7894775ba6de8f57482b66a/CMAF_HLS/index.m3u8
 #EXTINF:-1 group-title="LEARN ENGLISH CHANNELS" tvg-logo="",ENGLISH CLUB HD
 http://cdn1.live-tv.od.ua:8081/mobileenglishclub/eclub-abr/eclub/720-p/playlist.m3u8
+#EXTINF:-1 group-title="KIDS CHANNELS" tvg-logo="",anachid tv
+https://py.dencreak.com/meta/16461.m3u8?token=taeut5.UGzQrSP_G3oE-XHa&
+
 
 
 #################################### DOCUMENTARY ####################################
@@ -300,7 +302,8 @@ https://bamus-lovenature-lg.amagi.tv/1080p-cc/index.m3u8
 https://amg00793-amg00793c6-xumo-us-2669.playouts.now.amagi.tv/BBCStudios-BBCEarthA-hls/playlist.m3u8
 #EXTINF:-1 group-title="DOCUMENTARY" tvg-logo="",AL ARABY KW
 https://kwtktvata.cdn.mangomolo.com/ktva/smil:tktva.stream.smil/chunklist.m3u8
-
+#EXTINF:-1 group-title="DOCUMENTARY" tvg-logo="",ALwathaqiya
+https://py.dencreak.com/meta/16482.m3u8?token=taeut5.UGzQrSP_G3oE-XHa&
 
 #################################### US CHANNELS ####################################
 #EXTINF:-1 group-title="US CHANNELS" tvg-logo="",abc-news
@@ -638,8 +641,8 @@ http://143.244.60.30:/YES_NETWORK/index.m3u8
 #EXTINF:-1 group-title="US CHANNELS" tvg-logo="",cpac-ca
 https://cpac-ca-live.cdn.vustreams.com/groupa/live/f9809cea-1e07-47cd-a94d-2ddd3e1351db/live.isml/live-video_track.m3u8
 https://fl1.moveonjoy.com/FL_PANAMA_CITY_ABC/mpegts
-
-
+#EXTINF:-1 group-title="US CHANNELS" tvg-logo="",aznews
+https://py.dencreak.com/meta/16456.m3u8?token=taeut5.UGzQrSP_G3oE-XHa&
 
 #################################### ITALIAN CHANNELS ####################################
 #EXTINF:-1 group-title="ITALIAN CHANNELS" tvg-logo="",Rete 4
@@ -728,6 +731,10 @@ https://movies.ctbperth.net.au/hls/stream.m3u8
 #EXTINF:-1 group-title="AUSTRALIAN" tvg-logo="",CTB Perth
 https://live.ctbperth.net.au/hls/0/stream.m3u8
 
+
+
+
+
 #################################### ARAB CHANNELS ####################################
 #EXTINF:-1 group-title="ARABIC CHANNELS" tvg-logo="",Hala London
 https://halalondon-live.ercdn.net/halalondon/halalondon_1080p.m3u8
@@ -769,9 +776,6 @@ https://admn-live-cdn-lb.starzplayarabia.com/out/v1/admn_tv_enc/abudhabi_tv/abud
 https://cdn1.logichost.in/ajmantv/live/chunklist_w198675558.m3u8
 #EXTINF:-1 group-title="ARABIC CHANNELS" tvg-id="" tvg-logo="", Dubai zaman tv
 https://dmi-live-a.akamaized.net/Content/Channel/dubaizaman/DASH/master.mpd 
-
-
-
 #EXTINF:-1 group-title="ARABIC CHANNELS" tvg-id="" tvg-logo="", Rotana Comedy tv
 http://185.9.2.18/chid_5224/mono.m3u8
 #EXTINF:-1 group-title="ARABIC CHANNELS" tvg-logo="",TV7 ELMAARIFA
@@ -804,6 +808,16 @@ http://167.172.161.13/hls/feedspare/6udfi7v8a3eof6nlps6e9ovfrs65c7l7.m3u8
 https://kan11sub.media.kan.org.il/hls/live/2024678/2024678/source1_2.5k/chunklist.m3u8
 #EXTINF:-1 group-title="ARABIC CHANNELS" tvg-logo="",MAKAN
 https://makan.media.kan.org.il/hls/live/2024680/2024680/source1_1.2k/chunklist.m3u8
+#EXTINF:-1 group-title="ARABIC CHANNELS" tvg-logo="",wataniya dz
+https://py.dencreak.com/meta/16377.m3u8?token=taeut5.UGzQrSP_G3oE-XHa&
+#EXTINF:-1 group-title="ARABIC CHANNELS" tvg-logo="",falastini tv
+https://py.dencreak.com/meta/16488.m3u8?token=taeut5.UGzQrSP_G3oE-XHa&
+#EXTINF:-1 group-title="ARABIC CHANNELS" tvg-logo="",jamahirya tv
+https://py.dencreak.com/meta/16489.m3u8?token=taeut5.UGzQrSP_G3oE-XHa&
+#EXTINF:-1 group-title="ARABIC CHANNELS" tvg-logo="",misar quran
+https://py.dencreak.com/meta/16571.m3u8?token=taeut5.UGzQrSP_G3oE-XHa&
+
+
 
 
 #################################### UK CHANNELS ####################################
@@ -1096,6 +1110,21 @@ http://162.247.154.154/437/index.m3u8
 http://162.247.154.154/438/index.m3u8
 #EXTINF:-1 group-title="SPORTS CHANNELS" tvg-logo="",MATCH_TV
 http://hls127.freeott.top:8080/MATCH_TV/mono.m3u8
+
+
+
+
+#################################### Edu TV ####################################
+#EXTINF:-1 group-title="Edu TV" tvg-logo="",Madrassa
+https://py.dencreak.com/meta/16443.m3u8?token=taeut5.UGzQrSP_G3oE-XHa&
+#EXTINF:-1 group-title="Edu TV" tvg-logo="",nile edu
+https://py.dencreak.com/meta/16442.m3u8?token=taeut5.UGzQrSP_G3oE-XHa&
+#EXTINF:-1 group-title="Edu TV" tvg-logo="",Madrassa 3
+https://py.dencreak.com/meta/16581.m3u8?token=taeut5.UGzQrSP_G3oE-XHa&
+
+
+
+
 
 #################################### Movies & Series ####################################
 #EXTINF:-1 group-title="Movies & Series" tvg-logo="",السادة الافاضل
