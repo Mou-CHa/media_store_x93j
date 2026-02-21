@@ -261,8 +261,8 @@ https://dce3793146fef017.mediapackage.us-west-2.amazonaws.com/out/v1/55cdf73af78
 http://cdn1.live-tv.od.ua:8081/mobileenglishclub/eclub-abr/eclub/720-p/playlist.m3u8
 #EXTINF:-1 group-title="KIDS CHANNELS" tvg-logo="",anachid tv
 https://py.dencreak.com/meta/16461.m3u8?token=taeut5.UGzQrSP_G3oE-XHa&
-
-
+#EXTINF:-1 group-title="KIDS CHANNELS" tvg-logo="",baby en tv
+https://py.dencreak.com/meta/17315.m3u8?token=taeut5.UGzQrSP_G3oE-XHa&
 
 #################################### DOCUMENTARY ####################################
 #EXTINF:-1 group-title="DOCUMENTARY" tvg-logo="",Love Nature
@@ -766,7 +766,7 @@ https://viamotionhsi.netplus.ch/live/eds/canalalgerie/browser-dash/canalalgerie.
 https://viamotionhsi.netplus.ch/live/eds/tunisienationale/browser-dash/tunisienationale.mpd
 #EXTINF:-1 group-title="ARABIC CHANNELS" tvg-id="" tvg-logo="",2M Maroc
 https://viamotionhsi.netplus.ch/live/eds/2mmaroc/browser-dash/2mmaroc.mpd
-#EXTINF:-1 group-title="ARABIC CHANNELS" tvg-id="" tvg-logo="",ifil ar
+#EXTINF:-1 group-title="ARABIC CHANNELS" tvg-id="" tvg-logo="",ifilm ar
 https://live.presstv.ir/hls/ifilmar_4_482/index.m3u8
 #EXTINF:-1 group-title="ARABIC CHANNELS" tvg-id="" tvg-logo="",ifilm en
 https://live.presstv.ir/hls/ifilmen_4_482/index.m3u8
@@ -781,7 +781,7 @@ http://185.9.2.18/chid_5224/mono.m3u8
 #EXTINF:-1 group-title="ARABIC CHANNELS" tvg-logo="",TV7 ELMAARIFA
 http://185.234.111.64:8000/play/a02m
 #EXTINF:-1 group-title="ARABIC CHANNELS" tvg-logo="",Thikrayat HD
-http://185.234.111.64:8000/play/a09b
+https://py.dencreak.com/meta/16896.m3u8?token=taeut5.UGzQrSP_G3oE-XHa&
 #EXTINF:-1 group-title="ARABIC CHANNELS" tvg-logo="",aflam HD
 https://shls-live-enc.edgenextcdn.net/out/v1/0044dd4b001a466c941ad77b04a574a2/index_10.m3u8
 #EXTINF:-1 group-title="ARABIC CHANNELS" tvg-logo="", Tele Liban
@@ -816,6 +816,63 @@ https://py.dencreak.com/meta/16488.m3u8?token=taeut5.UGzQrSP_G3oE-XHa&
 https://py.dencreak.com/meta/16489.m3u8?token=taeut5.UGzQrSP_G3oE-XHa&
 #EXTINF:-1 group-title="ARABIC CHANNELS" tvg-logo="",misar quran
 https://py.dencreak.com/meta/16571.m3u8?token=taeut5.UGzQrSP_G3oE-XHa&
+#EXTINF:-1 group-title="ARABIC CHANNELS" tvg-logo="",irth nabawi
+https://py.dencreak.com/meta/16836.m3u8?token=taeut5.UGzQrSP_G3oE-XHa&
+#EXTINF:-1 group-title="ARABIC CHANNELS" tvg-logo="",sbc
+https://py.dencreak.com/meta/16897.m3u8?token=taeut5.UGzQrSP_G3oE-XHa&
+#EXTINF:-1 group-title="ARABIC CHANNELS" tvg-logo="",rot cin
+https://py.dencreak.com/meta/16905.m3u8?token=taeut5.UGzQrSP_G3oE-XHa&
+#EXTINF:-1 group-title="ARABIC CHANNELS" tvg-logo="",rot comedy
+https://py.dencreak.com/meta/16906.m3u8?token=taeut5.UGzQrSP_G3oE-XHa&
+#EXTINF:-1 group-title="ARABIC CHANNELS" tvg-logo="",rot classic
+https://py.dencreak.com/meta/16907.m3u8?token=taeut5.UGzQrSP_G3oE-XHa&
+#EXTINF:-1 group-title="ARABIC CHANNELS" tvg-logo="",majd tv
+https://py.dencreak.com/meta/16914.m3u8?token=taeut5.UGzQrSP_G3oE-XHa&
+#EXTINF:-1 group-title="ARABIC CHANNELS" tvg-logo="",kweit tv
+https://py.dencreak.com/meta/16995.m3u8?token=taeut5.UGzQrSP_G3oE-XHa&
+#EXTINF:-1 group-title="ARABIC CHANNELS" tvg-logo="",jadid tv
+https://py.dencreak.com/meta/17005.m3u8?token=taeut5.UGzQrSP_G3oE-XHa&
+#EXTINF:-1 group-title="ARABIC CHANNELS" tvg-logo="",tele liban tv
+https://py.dencreak.com/meta/17010.m3u8?token=taeut5.UGzQrSP_G3oE-XHa&
+#EXTINF:-1 group-title="ARABIC CHANNELS" tvg-logo="",aloula maroc tv
+https://py.dencreak.com/meta/17071.m3u8?token=taeut5.UGzQrSP_G3oE-XHa&
+#EXTINF:-1 group-title="ARABIC CHANNELS" tvg-logo="",m2 maroc tv
+https://py.dencreak.com/meta/17081.m3u8?token=taeut5.UGzQrSP_G3oE-XHa&
+#EXTINF:-1 group-title="ARABIC CHANNELS" tvg-logo="",thakafiya maurita tv
+https://py.dencreak.com/meta/17095.m3u8?token=taeut5.UGzQrSP_G3oE-XHa&
+#EXTINF:-1 group-title="ARABIC CHANNELS" tvg-logo="",chanqit maurita tv
+https://py.dencreak.com/meta/17096.m3u8?token=taeut5.UGzQrSP_G3oE-XHa&
+#EXTINF:-1 group-title="ARABIC CHANNELS" tvg-logo="",mahdra maurita tv
+https://py.dencreak.com/meta/17098.m3u8?token=taeut5.UGzQrSP_G3oE-XHa&
+#EXTINF:-1 group-title="ARABIC CHANNELS" tvg-logo="",maurita tv
+https://py.dencreak.com/meta/17101.m3u8?token=taeut5.UGzQrSP_G3oE-XHa&
+#EXTINF:-1 group-title="ARABIC CHANNELS" tvg-logo="",maurita 2 tv
+https://py.dencreak.com/meta/17102.m3u8?token=taeut5.UGzQrSP_G3oE-XHa&
+#EXTINF:-1 group-title="ARABIC CHANNELS" tvg-logo="",wataniya maurita 2 tv
+https://py.dencreak.com/meta/17104.m3u8?token=taeut5.UGzQrSP_G3oE-XHa&
+#EXTINF:-1 group-title="ARABIC CHANNELS" tvg-logo="",maurita 2 hd tv
+https://py.dencreak.com/meta/17105.m3u8?token=taeut5.UGzQrSP_G3oE-XHa&
+#EXTINF:-1 group-title="ARABIC CHANNELS" tvg-logo="",qamar maurita  tv
+https://py.dencreak.com/meta/17106.m3u8?token=taeut5.UGzQrSP_G3oE-XHa&
+#EXTINF:-1 group-title="ARABIC CHANNELS" tvg-logo="",sahraa maurita  tv
+https://py.dencreak.com/meta/17107.m3u8?token=taeut5.UGzQrSP_G3oE-XHa&
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
@@ -1121,11 +1178,18 @@ https://py.dencreak.com/meta/16443.m3u8?token=taeut5.UGzQrSP_G3oE-XHa&
 https://py.dencreak.com/meta/16442.m3u8?token=taeut5.UGzQrSP_G3oE-XHa&
 #EXTINF:-1 group-title="Edu TV" tvg-logo="",Madrassa 3
 https://py.dencreak.com/meta/16581.m3u8?token=taeut5.UGzQrSP_G3oE-XHa&
-
-
-
-
-
+#EXTINF:-1 group-title="Edu TV" tvg-logo="",Madrassa 1
+https://py.dencreak.com/meta/16692.m3u8?token=taeut5.UGzQrSP_G3oE-XHa&
+#EXTINF:-1 group-title="Edu TV" tvg-logo="",kaif tv
+https://py.dencreak.com/meta/16838.m3u8?token=taeut5.UGzQrSP_G3oE-XHa&
+#EXTINF:-1 group-title="Edu TV" tvg-logo="",rowdatti
+https://py.dencreak.com/meta/16938.m3u8?token=taeut5.UGzQrSP_G3oE-XHa&
+#EXTINF:-1 group-title="Edu TV" tvg-logo="",ain 1
+https://py.dencreak.com/meta/16939.m3u8?token=taeut5.UGzQrSP_G3oE-XHa&
+#EXTINF:-1 group-title="Edu TV" tvg-logo="",ain 
+https://py.dencreak.com/meta/16962.m3u8?token=taeut5.UGzQrSP_G3oE-XHa&
+#EXTINF:-1 group-title="Edu TV" tvg-logo="",falastiniya tv
+https://py.dencreak.com/meta/17138.m3u8?token=taeut5.UGzQrSP_G3oE-XHa&
 #################################### Movies & Series ####################################
 #EXTINF:-1 group-title="Movies & Series" tvg-logo="",السادة الافاضل
 https://a1v.1vid.online/hls2/02/00016/gpfag736auuh_n/index-v1-a1.m3u8?t=Hw18fTQueVhsOqyCnczAbGmEx-eVGLHPcOH7mQw4Zmg&s=1770561452&e=7200&f=81886&i=197.200&sp=2048
