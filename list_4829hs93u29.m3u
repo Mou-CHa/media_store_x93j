@@ -746,6 +746,8 @@ http://svs.itworkscdn.net/asharqdiscoverylive/asharqd.smil/playlist_dvr.m3u8
 https://live.kwikmotion.com/fujairahlive/fujairah.smil/playlist.m3u8
 #EXTINF:-1 group-title="ARABIC CHANNELS" tvg-logo="",Thikrayat Sa TV
 http://tornado-pro.com/live/alhomaidirashid@gmail.com/HOrashid1/35444.ts
+#EXTINF:-1 group-title="ARABIC CHANNELS" tvg-logo="",Thikrayat 2 TV
+https://stm.linkip.org/live/1458_.m3u8
 #EXTINF:-1 group-title="ARABIC CHANNELS" tvg-id="" tvg-logo="", thakafiya tv
 https://shd-gcp-live.edgenextcdn.net/live/bitmovin-thaqafeyyah/28c0d2a20dbf1dc049ce15d3973f494b/index.m3u8
 #EXTINF:-1 group-title="ARABIC CHANNELS" tvg-logo="",Rayan Old Qa TV
@@ -813,7 +815,7 @@ https://py.dencreak.com/meta/16377.m3u8?token=taeut5.UGzQrSP_G3oE-XHa&
 #EXTINF:-1 group-title="ARABIC CHANNELS" tvg-logo="",falastini tv
 https://py.dencreak.com/meta/16488.m3u8?token=taeut5.UGzQrSP_G3oE-XHa&
 #EXTINF:-1 group-title="ARABIC CHANNELS" tvg-logo="",jamahirya tv
-https://py.dencreak.com/meta/16489.m3u8?token=taeut5.UGzQrSP_G3oE-XHa&
+https://stm.linkip.org/live/1313_.m3u8
 #EXTINF:-1 group-title="ARABIC CHANNELS" tvg-logo="",misar quran
 https://py.dencreak.com/meta/16571.m3u8?token=taeut5.UGzQrSP_G3oE-XHa&
 #EXTINF:-1 group-title="ARABIC CHANNELS" tvg-logo="",irth nabawi
@@ -856,8 +858,8 @@ https://py.dencreak.com/meta/17105.m3u8?token=taeut5.UGzQrSP_G3oE-XHa&
 https://py.dencreak.com/meta/17106.m3u8?token=taeut5.UGzQrSP_G3oE-XHa&
 #EXTINF:-1 group-title="ARABIC CHANNELS" tvg-logo="",sahraa maurita  tv
 https://py.dencreak.com/meta/17107.m3u8?token=taeut5.UGzQrSP_G3oE-XHa&
-
-
+#EXTINF:-1 group-title="ARABIC CHANNELS" tvg-logo="",Souria  tv
+https://stm.linkip.org/live/1345_.m3u8
 
 
 
