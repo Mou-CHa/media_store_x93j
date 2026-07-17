@@ -643,6 +643,273 @@ https://cpac-ca-live.cdn.vustreams.com/groupa/live/f9809cea-1e07-47cd-a94d-2ddd3
 https://fl1.moveonjoy.com/FL_PANAMA_CITY_ABC/mpegts
 #EXTINF:-1 group-title="US CHANNELS" tvg-logo="",aznews
 https://py.dencreak.com/meta/16456.m3u8?token=taeut5.UGzQrSP_G3oE-XHa&
+#EXTM3U
+#EXTINF:173,USA | A&E
+http://206.212.244.63/1/index.m3u8
+#EXTINF:180,USA | ABC NEWS LIVE
+http://206.212.244.63/2/index.m3u8
+#EXTINF:184,USA | ACCUWEATHER
+http://206.212.244.63/3/index.m3u8
+#EXTINF:176,USA | AMERICAN HEROES CHANNEL - AHC
+http://206.212.244.63/6/index.m3u8
+#EXTINF:180,USA | ANTENNA
+http://206.212.244.63/9/index.m3u8
+#EXTINF:180,USA | ASPIRE
+http://206.212.244.63/10/index.m3u8
+#EXTINF:150,USA | AWE
+http://206.212.244.63/11/index.m3u8
+#EXTINF:176,USA | AXS TV
+http://206.212.244.63/12/index.m3u8
+#EXTINF:166,USA | BBC AMERICA
+http://206.212.244.63/13/index.m3u8
+#EXTINF:180,USA | BBC WORLD NEWS
+http://206.212.244.63/14/index.m3u8
+#EXTINF:150,USA | BET (WEST)
+http://206.212.244.63/16/index.m3u8
+#EXTINF:150,USA | BET GOSPEL
+http://206.212.244.63/17/index.m3u8
+#EXTINF:150,USA | BET HER (WEST)
+http://206.212.244.63/19/index.m3u8
+#EXTINF:180,USA | BET JAMS
+http://206.212.244.63/20/index.m3u8
+#EXTINF:176,USA | BET SOUL
+http://206.212.244.63/21/index.m3u8
+#EXTINF:176,USA | BLOOMBERG
+http://206.212.244.63/22/index.m3u8
+#EXTINF:176,USA | BOUNCE TV
+http://206.212.244.63/23/index.m3u8
+#EXTINF:176,USA | BRAVO (WEST)
+http://206.212.244.63/26/index.m3u8
+#EXTINF:176,USA | BUZZER
+http://206.212.244.63/27/index.m3u8
+#EXTINF:150,USA | BYU TV
+http://206.212.244.63/28/index.m3u8
+#EXTINF:178,USA | CBS - NEW YORK
+http://206.212.244.63/32/index.m3u8
+#EXTINF:176,USA | CBS 10 - LAFAYETTE
+http://206.212.244.63/33/index.m3u8
+#EXTINF:154,USA | CHARGE!
+http://206.212.244.63/34/index.m3u8
+#EXTINF:166,USA | CHEDDAR NEWS
+http://206.212.244.63/35/index.m3u8
+#EXTINF:184,USA | CIRCLE
+http://206.212.244.63/37/index.m3u8
+#EXTINF:172,USA | CLEO TV
+http://206.212.244.63/38/index.m3u8
+#EXTINF:178,USA | CMT (EAST)
+http://206.212.244.63/39/index.m3u8
+#EXTINF:155,USA | CNBC
+http://206.212.244.63/41/index.m3u8
+#EXTINF:178,USA | CNBC WORLD
+http://206.212.244.63/42/index.m3u8
+#EXTINF:150,USA | CNN
+http://206.212.244.63/43/index.m3u8
+#EXTINF:180,USA | COMEDY CENTRAL (EAST)
+http://206.212.244.63/44/index.m3u8
+#EXTINF:170,USA | COMET
+http://206.212.244.63/46/index.m3u8
+#EXTINF:170,USA | COOKING CHANNEL
+http://206.212.244.63/47/index.m3u8
+#EXTINF:177,USA | COZI TV
+http://206.212.244.63/49/index.m3u8
+#EXTINF:172,USA | DESTINATION AMERICA
+http://206.212.244.63/50/index.m3u8
+#EXTINF:179,USA | DISCOVERY SCIENCE
+http://206.212.244.63/55/index.m3u8
+#EXTINF:178,USA | DOG TV
+http://206.212.244.63/56/index.m3u8
+#EXTINF:180,USA | ESPN
+http://206.212.244.63/59/index.m3u8
+#EXTINF:180,USA | FETV
+http://206.212.244.63/60/index.m3u8
+#EXTINF:172,USA | FOOD NETWORK (EAST)
+http://206.212.244.63/61/index.m3u8
+#EXTINF:150,USA | FOX - LOS ANGELES
+http://206.212.244.63/63/index.m3u8
+#EXTINF:150,USA | FOX - NEW YORK
+http://206.212.244.63/64/index.m3u8
+#EXTINF:150,USA | FOX 15 - LAFAYETTE
+http://206.212.244.63/65/index.m3u8
+#EXTINF:178,USA | FOX BUSINESS
+http://206.212.244.63/66/index.m3u8
+#EXTINF:180,USA | FOX NEWS
+http://206.212.244.63/67/index.m3u8
+#EXTINF:180,USA | FOX WEATHER
+http://206.212.244.63/68/index.m3u8
+#EXTINF:150,USA | FREEFORM (EAST)
+http://206.212.244.63/69/index.m3u8
+#EXTINF:150,USA | FREEFORM (WEST)
+http://206.212.244.63/70/index.m3u8
+#EXTINF:178,USA | FUEL TV
+http://206.212.244.63/71/index.m3u8
+#EXTINF:171,USA | FUSE
+http://206.212.244.63/72/index.m3u8
+#EXTINF:170,USA | FYI
+http://206.212.244.63/78/index.m3u8
+#EXTINF:177,USA | GET TV
+http://206.212.244.63/80/index.m3u8
+#EXTINF:178,USA | GREAT AMERICAN FAMILY
+http://206.212.244.63/81/index.m3u8
+#EXTINF:150,USA | GREAT AMERICAN LIVING
+http://206.212.244.63/82/index.m3u8
+#EXTINF:174,USA | GRIT
+http://206.212.244.63/83/index.m3u8
+#EXTINF:179,USA | HALLMARK CHANNEL
+http://206.212.244.63/84/index.m3u8
+#EXTINF:170,USA | HALLMARK FAMILY
+http://206.212.244.63/85/index.m3u8
+#EXTINF:179,USA | HALLMARK MYSTERY
+http://206.212.244.63/86/index.m3u8
+#EXTINF:178,USA | Haunt TV
+http://206.212.244.63/87/index.m3u8
+#EXTINF:174,USA | HEROES & ICONS
+http://206.212.244.63/88/index.m3u8
+#EXTINF:173,USA | HGTV (EAST)
+http://206.212.244.63/89/index.m3u8
+#EXTINF:171,USA | HLN
+http://206.212.244.63/92/index.m3u8
+#EXTINF:180,USA | INSP
+http://206.212.244.63/95/index.m3u8
+#EXTINF:172,USA | ION TV
+http://206.212.244.63/99/index.m3u8
+#EXTINF:178,USA | JUSTICE CENTRAL
+http://206.212.244.63/100/index.m3u8
+#EXTINF:169,USA | LAFF TV
+http://206.212.244.63/101/index.m3u8
+#EXTINF:182,USA | LAW & CRIME
+http://206.212.244.63/102/index.m3u8
+#EXTINF:170,USA | LIFETIME
+http://206.212.244.63/103/index.m3u8
+#EXTINF:174,USA | MAGNOLIA NETWORK
+http://206.212.244.63/107/index.m3u8
+#EXTINF:178,USA | ME TV
+http://206.212.244.63/108/index.m3u8
+#EXTINF:150,USA | METV
+http://206.212.244.63/110/index.m3u8
+#EXTINF:150,USA | METV PLUS
+http://206.212.244.63/111/index.m3u8
+#EXTINF:177,USA | MeTV Toons
+http://206.212.244.63/112/index.m3u8
+#EXTINF:154,USA | MOTORTREND
+http://206.212.244.63/113/index.m3u8
+#EXTINF:180,USA | MSNBC
+http://206.212.244.63/114/index.m3u8
+#EXTINF:176,USA | MTV
+http://206.212.244.63/115/index.m3u8
+#EXTINF:171,USA | MTV 2
+http://206.212.244.63/116/index.m3u8
+#EXTINF:170,USA | MTV CLASSIC
+http://206.212.244.63/117/index.m3u8
+#EXTINF:176,USA | MTV LIVE
+http://206.212.244.63/118/index.m3u8
+#EXTINF:180,USA | MTV U
+http://206.212.244.63/119/index.m3u8
+#EXTINF:155,USA | NAT GEO (WEST)
+http://206.212.244.63/122/index.m3u8
+#EXTINF:176,USA | NAT GEO WILD
+http://206.212.244.63/123/index.m3u8
+#EXTINF:218,USA | NBC - NEW YORK
+http://206.212.244.63/125/index.m3u8
+#EXTINF:180,USA | NBC News NOW
+http://206.212.244.63/127/index.m3u8
+#EXTINF:180,USA | NEWSMAX
+http://206.212.244.63/128/index.m3u8
+#EXTINF:180,USA | NEWSNATION
+http://206.212.244.63/129/index.m3u8
+#EXTINF:184,USA | ONE AMERICA NETWORK
+http://206.212.244.63/131/index.m3u8
+#EXTINF:150,USA | OUTDOOR CHANNEL
+http://206.212.244.63/132/index.m3u8
+#EXTINF:174,USA | OUTSIDE TV
+http://206.212.244.63/133/index.m3u8
+#EXTINF:177,USA | OVATION
+http://206.212.244.63/134/index.m3u8
+#EXTINF:174,USA | OWN - OPRAH WINFREY NETWORK
+http://206.212.244.63/135/index.m3u8
+#EXTINF:180,USA | OXYGEN TRUE CRIME
+http://206.212.244.63/136/index.m3u8
+#EXTINF:181,USA | PARAMOUNT NETWORK
+http://206.212.244.63/137/index.m3u8
+#EXTINF:171,USA | TASTEMADE
+http://206.212.244.63/153/index.m3u8
+#EXTINF:172,USA | POP TV
+http://206.212.244.63/139/index.m3u8
+#EXTINF:179,USA | PURSUIT CHANNEL
+http://206.212.244.63/140/index.m3u8
+#EXTINF:180,USA | QVC
+http://206.212.244.63/141/index.m3u8
+#EXTINF:180,USA | QVC 2
+http://206.212.244.63/142/index.m3u8
+#EXTINF:177,USA | QVC 3
+http://206.212.244.63/143/index.m3u8
+#EXTINF:222,USA | REELZ
+http://206.212.244.63/144/index.m3u8
+#EXTINF:180,USA | REVOLT
+http://206.212.244.63/145/index.m3u8
+#EXTINF:180,USA | RFD-TV
+http://206.212.244.63/146/index.m3u8
+#EXTINF:180,USA | SCARES BY SHUDDER
+http://206.212.244.63/147/index.m3u8
+#EXTINF:175,USA | SMITHSONIAN CHANNEL
+http://206.212.244.63/148/index.m3u8
+#EXTINF:150,USA | START TV
+http://206.212.244.63/150/index.m3u8
+#EXTINF:174,USA | SUNDANCE
+http://206.212.244.63/151/index.m3u8
+#EXTINF:176,USA | SYFY
+http://206.212.244.63/152/index.m3u8
+#EXTINF:178,USA | TBS
+http://206.212.244.63/154/index.m3u8
+#EXTINF:176,USA | THE COWBOY CHANNEL
+http://206.212.244.63/155/index.m3u8
+#EXTINF:177,USA | THE GRIO (BNC)
+http://206.212.244.63/156/index.m3u8
+#EXTINF:180,USA | THE WORD NETWORK
+http://206.212.244.63/158/index.m3u8
+#EXTINF:178,USA | TLC (EAST)
+http://206.212.244.63/159/index.m3u8
+#EXTINF:172,USA | TNT
+http://206.212.244.63/161/index.m3u8
+#EXTINF:174,USA | TRAVEL CHANNEL
+http://206.212.244.63/162/index.m3u8
+#EXTINF:175,USA | TruTV
+http://206.212.244.63/163/index.m3u8
+#EXTINF:151,USA | TV LAND (EAST)
+http://206.212.244.63/164/index.m3u8
+#EXTINF:180,USA | TV ONE
+http://206.212.244.63/166/index.m3u8
+#EXTINF:179,USA | USA NETWORK
+http://206.212.244.63/168/index.m3u8
+#EXTINF:173,USA | VH1
+http://206.212.244.63/169/index.m3u8
+#EXTINF:173,USA | VICE
+http://206.212.244.63/170/index.m3u8
+#EXTINF:178,USA | WE TV
+http://206.212.244.63/172/index.m3u8
+#EXTINF:176,US DOC: NFL Network
+http://206.212.244.63/196/index.m3u8
+#EXTINF:176,USA Baby First
+http://206.212.244.63/639/index.m3u8
+#EXTINF:184,USA Baby TV
+http://206.212.244.63/641/index.m3u8
+#EXTINF:172,USA BOOMERANG
+http://206.212.244.63/642/index.m3u8
+#EXTINF:172,USA Cartoon Network UHD
+http://206.212.244.63/646/index.m3u8
+#EXTINF:169,USA Disney Channel East UHD
+http://206.212.244.63/650/index.m3u8
+#EXTINF:150,USA Disney Junior West
+http://206.212.244.63/655/index.m3u8
+#EXTINF:150,USA Nickelodeon UHD
+http://206.212.244.63/666/index.m3u8
+#EXTINF:174,USA PBS Kids
+http://206.212.244.63/669/index.m3u8
+#EXTINF:0,Ch_672 [HTTP 200]
+http://206.212.244.63/672/index.m3u8
+#EXTINF:184,USA | ACCUWEATHER
+http://206.212.244.63/674/index.m3u8
+#EXTINF:174,USA | NEWSNATION
+http://206.212.244.63/712/index.m3u8
 
 #################################### ITALIAN CHANNELS ####################################
 #EXTINF:-1 group-title="ITALIAN CHANNELS" tvg-logo="",Rete 4
@@ -860,7 +1127,121 @@ https://py.dencreak.com/meta/17106.m3u8?token=taeut5.UGzQrSP_G3oE-XHa&
 https://py.dencreak.com/meta/17107.m3u8?token=taeut5.UGzQrSP_G3oE-XHa&
 #EXTINF:-1 group-title="ARABIC CHANNELS" tvg-logo="",Souria  tv
 https://stm.linkip.org/live/1345_.m3u8
-
+#EXTM3U
+#EXTINF:20,Kurdsat SD
+http://185.9.2.18/chid_1/index.m3u8
+#EXTINF:20,Al Hayat
+http://185.9.2.18/chid_27/index.m3u8
+#EXTINF:23,Dubai International HD
+http://185.9.2.18/chid_139/index.m3u8
+#EXTINF:22,AL SHARQIYA HD
+http://185.9.2.18/chid_144/index.m3u8
+#EXTINF:21,AL Arabia HD
+http://185.9.2.18/chid_146/index.m3u8
+#EXTINF:21,Al Maghribia HD
+http://185.9.2.18/chid_205/index.m3u8
+#EXTINF:20,2M Maroc
+http://185.9.2.18/chid_218/index.m3u8
+#EXTINF:21,ESC
+http://185.9.2.18/chid_247/index.m3u8
+#EXTINF:21,Rotana Music
+http://185.9.2.18/chid_282/index.m3u8
+#EXTINF:20,Rotana Clip
+http://185.9.2.18/chid_283/index.m3u8
+#EXTINF:20,Rotana Khalijia
+http://185.9.2.18/chid_285/index.m3u8
+#EXTINF:20,Rotana Classic
+http://185.9.2.18/chid_286/index.m3u8
+#EXTINF:21,Rotana Cinema EGY
+http://185.9.2.18/chid_288/index.m3u8
+#EXTINF:20,Rotana Cinema KSA
+http://185.9.2.18/chid_290/index.m3u8
+#EXTINF:26,Kurdmax HD
+http://185.9.2.18/chid_304/index.m3u8
+#EXTINF:22,OTV
+http://185.9.2.18/chid_312/index.m3u8
+#EXTINF:22,LBC SAT
+http://185.9.2.18/chid_327/index.m3u8
+#EXTINF:21,Canal Algerie HD
+http://185.9.2.18/chid_347/index.m3u8
+#EXTINF:21,Nile Drama
+http://185.9.2.18/chid_352/index.m3u8
+#EXTINF:21,Panorama Food
+http://185.9.2.18/chid_367/index.m3u8
+#EXTINF:20,SAMA TV
+http://185.9.2.18/chid_372/index.m3u8
+#EXTINF:22,MBC 2
+http://185.9.2.18/chid_375/index.m3u8
+#EXTINF:20,MBC 3
+http://185.9.2.18/chid_376/index.m3u8
+#EXTINF:24,MBC 4
+http://185.9.2.18/chid_377/index.m3u8
+#EXTINF:20,MBC Action
+http://185.9.2.18/chid_378/index.m3u8
+#EXTINF:23,MBC MAX
+http://185.9.2.18/chid_379/index.m3u8
+#EXTINF:23,MBC Drama
+http://185.9.2.18/chid_382/index.m3u8
+#EXTINF:24,MTV
+http://185.9.2.18/chid_387/index.m3u8
+#EXTINF:24, Aljadid tv
+http://185.9.2.18/chid_391/index.m3u8
+#EXTINF:22,Syria Satellite
+http://185.9.2.18/chid_423/index.m3u8
+#EXTINF:22,Kirkuk TV HD
+http://185.9.2.18/chid_516/index.m3u8
+#EXTINF:23,LBC Inter
+http://185.9.2.18/chid_521/index.m3u8
+#EXTINF:21,AD Nat Geo HD
+http://185.9.2.18/chid_597/index.m3u8
+#EXTINF:21,ALhayat
+http://185.9.2.18/chid_659/index.m3u8
+#EXTINF:24,CBC Drama
+http://185.9.2.18/chid_680/index.m3u8
+#EXTINF:22,Panorama Film
+http://185.9.2.18/chid_706/index.m3u8
+#EXTINF:21,Elhiwar Ettounsi
+http://185.9.2.18/chid_741/index.m3u8
+#EXTINF:20,MBC MASR
+http://185.9.2.18/chid_742/index.m3u8
+#EXTINF:21,MBC Masr 2
+http://185.9.2.18/chid_743/index.m3u8
+#EXTINF:22,MBC Bollywood
+http://185.9.2.18/chid_845/index.m3u8
+#EXTINF:23,IRINN
+http://185.9.2.18/chid_926/index.m3u8
+#EXTINF:22,Iqraa
+http://185.9.2.18/chid_1126/index.m3u8
+#EXTINF:21,Syria Drama
+http://185.9.2.18/chid_1235/index.m3u8
+#EXTINF:21,Ennahar TV Algerie
+http://185.9.2.18/chid_1289/index.m3u8
+#EXTINF:21,SADAF TV
+http://185.9.2.18/chid_1653/index.m3u8
+#EXTINF:20,Kurd News
+http://185.9.2.18/chid_1674/index.m3u8
+#EXTINF:21,Rotana Drama
+http://185.9.2.18/chid_2179/index.m3u8
+#EXTINF:20,dmc
+http://185.9.2.18/chid_3738/index.m3u8
+#EXTINF:20,dmc drama
+http://185.9.2.18/chid_3741/index.m3u8
+#EXTINF:20,ON Drama
+http://185.9.2.18/chid_3785/index.m3u8
+#EXTINF:21,MBC 5
+http://185.9.2.18/chid_3788/index.m3u8
+#EXTINF:21,Rotana Comedy HD
+http://185.9.2.18/chid_5224/index.m3u8
+#EXTINF:17,AlHayat HD
+http://185.9.2.18/chid_5275/index.m3u8
+#EXTINF:22,AVA TV
+http://185.9.2.18/chid_5759/index.m3u8
+#EXTINF:22,Anis tv
+http://185.9.2.18/chid_6213/index.m3u8
+#EXTINF:23,Egyptian TV HD
+http://185.9.2.18/chid_6300/index.m3u8
+#EXTINF:21,LTV
+http://185.9.2.18/chid_6308/index.m3u8
 
 
 
