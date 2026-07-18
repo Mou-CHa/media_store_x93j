@@ -1,7 +1,7 @@
 #EXTM3U
 
 #EXTINF:-1 group-title="FRENCH CHANNELS" tvg-logo="",TF1
-http://185.178.185.253:9981/stream/channelid/243503725?profile=webtv-h264
+http://151.80.18.177:86/TF1_HD/index.m3u8
 
 #EXTINF:-1 group-title="FRENCH CHANNELS" tvg-logo="",France 2
 http://185.178.185.253:9981/stream/channelid/1434648084?ticket=C6D19A3663D1B9F2F4162B03980D2845A60FA970&profile=pass
@@ -257,16 +257,23 @@ https://rpn3.bozztv.com/dvrfl07/ushba-t6/index.m3u8
 https://amg02757-amg02757c3-rakuten-de-6135.playouts.now.amagi.tv/playlist/amg02757-loolookids-llkdefast-rakutende/playlist.m3u8
 #EXTINF:-1 group-title="KIDS CHANNELS" tvg-logo="",pbs moutain
 https://dce3793146fef017.mediapackage.us-west-2.amazonaws.com/out/v1/55cdf73af7894775ba6de8f57482b66a/CMAF_HLS/index.m3u8
-#EXTINF:-1 group-title="LEARN ENGLISH CHANNELS" tvg-logo="",ENGLISH CLUB HD
-http://cdn1.live-tv.od.ua:8081/mobileenglishclub/eclub-abr/eclub/720-p/playlist.m3u8
-#EXTINF:-1 group-title="KIDS CHANNELS" tvg-logo="",anachid tv
-https://py.dencreak.com/meta/16461.m3u8?token=taeut5.UGzQrSP_G3oE-XHa&
 #EXTINF:-1 group-title="KIDS CHANNELS" tvg-logo="",baby en tv
 https://py.dencreak.com/meta/17315.m3u8?token=taeut5.UGzQrSP_G3oE-XHa&
 
+
+#################################### EDOU ####################################
+#EXTINF:-1 group-title="EDUCATION" tvg-logo="",ENGLISH CLUB HD
+http://cdn1.live-tv.od.ua:8081/mobileenglishclub/eclub-abr/eclub/720-p/playlist.m3u8
+
+
+
+
 #################################### DOCUMENTARY ####################################
 #EXTINF:-1 group-title="DOCUMENTARY" tvg-logo="",Love Nature
-http://143.244.60.30/LOVE_NATURE/index.m3u8
+https://aegis-cloudfront-1.tubi.video/6d6d0f24-8445-4b4c-bdf6-44f9e38beaa4/playlist.m3u8
+#EXTINF:-1 group-title="DOCUMENTARY" tvg-logo="",Love Nature 4k
+https://pb-ehs1glsha1juy.akamaized.net/Love_Nature_4Kp720.m3u8
+
 #EXTINF:-1 group-title="DOCUMENTARY" tvg-logo="",NATURE TIME US
 https://bamusa-naturetime-emea-eng-rakuten.amagi.tv/playlist.m3u8
 #EXTINF:-1 group-title="DOCUMENTARY" tvg-logo="",NATURE TIME FR
@@ -302,8 +309,8 @@ https://bamus-lovenature-lg.amagi.tv/1080p-cc/index.m3u8
 https://amg00793-amg00793c6-xumo-us-2669.playouts.now.amagi.tv/BBCStudios-BBCEarthA-hls/playlist.m3u8
 #EXTINF:-1 group-title="DOCUMENTARY" tvg-logo="",AL ARABY KW
 https://kwtktvata.cdn.mangomolo.com/ktva/smil:tktva.stream.smil/chunklist.m3u8
-#EXTINF:-1 group-title="DOCUMENTARY" tvg-logo="",ALwathaqiya
-https://py.dencreak.com/meta/16482.m3u8?token=taeut5.UGzQrSP_G3oE-XHa&
+#EXTINF:-1 group-title="DOCUMENTARY" tvg-logo="",BBCEarthA AMGI
+https://amg00793-amg00793c6-xumo-us-2669.playouts.now.amagi.tv/BBCStudios-BBCEarthA-hls/playlist.m3u8
 
 #################################### US CHANNELS ####################################
 #EXTINF:-1 group-title="US CHANNELS" tvg-logo="",abc-news
@@ -337,579 +344,288 @@ ttps://appletree-mytimeau-samsung.amagi.tv/playlist.m3u8
 #EXTINF:-1 group-title="US CHANNELS" tvg-logo="",Ocean tv
 https://5dcabf026b188.streamlock.net/OceansTV/livestream/playlist.m3u8
 #EXTINF:-1 group-title="US CHANNELS" tvg-logo="",BBC America 
-https://bcovlive-a.akamaihd.net/7f5ec16d102f4b5d92e8e27bc95ff424/us-east-1/6240731308001/playlist.m3u8
+http://40.160.24.52/BBC_AMERICA/tracks-v1a1/mono.ts.m3u8
 #EXTINF:-1 group-title="US CHANNELS" tvg-logo="",Discover Film
 https://discoverfilm-discoverfilm-1-nl.samsung.wurl.tv/playlist.m3u8
-#EXTINF:-1 tvg-id="WOLODT1.us@SD",ABC 25 Columbia
-http://143.244.60.30:/ABC_EAST/index.m3u8
-#EXTINF:-1 tvg-id="WLSDT1.us@SD",ABC Chicago WLS-DT1
-http://143.244.60.30:/IL_CHICAGO_ABC/index.m3u8
-#EXTINF:-1 tvg-id="ACCNetwork.us@SD",ACCN (720p)
-http://143.244.60.30:/ACC_NETWORK/index.m3u8
-#EXTINF:-1 tvg-id="AMC.us@East",AMC East (1080p)
-http://143.244.60.30:/AMC_NETWORK/index.m3u8
-#EXTINF:-1 tvg-id="AntennaTV.us@SD",Antenna TV
-http://143.244.60.30:/Antenna_TV/index.m3u8
-#EXTINF:-1 tvg-id="Aspire.us@SD",Aspire
-http://143.244.60.30:/Aspire/index.m3u8
-#EXTINF:-1 tvg-id="AXSTV.us@SD",AXS TV
-http://143.244.60.30:/Axs_TV/index.m3u8
-#EXTINF:-1 tvg-id="BBCAmerica.us@East",BBC America East
-http://143.244.60.30:/BBC_AMERICA/index.m3u8
-#EXTINF:-1 tvg-id="BBCNews.uk@NorthAmerica",BBC News North America
-http://143.244.60.30:/BBC_WORLD_NEWS/index.m3u8
-#EXTINF:-1 tvg-id="beINSportsUSA.us@SD",beIN Sports USA
-http://fl1.moveonjoy.com/BEIN_SPORTS/index.m3u8
-#EXTINF:-1 tvg-id="BET.us@East",BET East
-http://143.244.60.30:/BET_EAST/index.m3u8
-#EXTINF:-1 tvg-id="BETGospel.us@SD",BET Gospel
-http://143.244.60.30:/BET_GOSPEL/index.m3u8
-#EXTINF:-1 tvg-id="BETHer.us@East",BET Her East
-http://143.244.60.30:/BET_HER/index.m3u8
-#EXTINF:-1 tvg-id="BETJams.us@SD",BET Jams
-http://143.244.60.30:/BET_Jams/index.m3u8
-#EXTINF:-1 tvg-id="BETSoul.us@SD",BET Soul
-http://143.244.60.30:/BET_SOUL/index.m3u8
-#EXTINF:-1 tvg-id="BigTenNetwork.us@SD",Big Ten Network
-http://143.244.60.30:/BIG_TEN_NETWORK/index.m3u8
-#EXTINF:-1 tvg-id="BloombergTV.us@US",Bloomberg TV
-http://143.244.60.30:/BLOOMBERG/index.m3u8
-#EXTINF:-1 tvg-id="Bounce.us@SD",Bounce
-http://143.244.60.30:/BOUNCE_TV/index.m3u8
-#EXTINF:-1 tvg-id="Bravo.us@East",Bravo East
-http://143.244.60.30:/BRAVO/index.m3u8
-#EXTINF:-1 tvg-id="Buzzr.us@SD",Buzzr
-http://143.244.60.30:/Buzzr/index.m3u8
-#EXTINF:-1 tvg-id="CSPAN.us@SD",C-SPAN
-http://143.244.60.30:/C-SPAN/index.m3u8
-#EXTINF:-1 tvg-id="WBBMDT1.us@SD",CBS Chicago WBBM-DT1
-http://143.244.60.30:/IL_Chicago_CBS/index.m3u8
-#EXTINF:-1 tvg-id="CBS.us@East",CBS East (720p)
-http://143.244.60.30:/CBS_News/index.m3u8
-#EXTINF:-1 tvg-id="CBSSportsNetworkUSA.us@SD",CBS Sports Network USA
-http://143.244.60.30:/CBS_SPORTS_NETWORK/index.m3u8
-#EXTINF:-1 tvg-id="CHBLTV.ca@SD",CHBL-TV
-http://143.244.60.30:/CA_GLOBAL/index.m3u8
-#EXTINF:-1 tvg-id="CleoTV.us@SD",Cleo TV (720p)
-http://143.244.60.30:/Cleo_TV/index.m3u8
-#EXTINF:-1 tvg-id="CMT.us@East",CMT East
-http://143.244.60.30:/CMT/index.m3u8
-#EXTINF:-1 tvg-id="CNBC.us@SD",CNBC
-http://143.244.60.30:/CNBC/index.m3u8
-#EXTINF:-1 tvg-id="CNBCWorld.us@SD",CNBC World
-http://143.244.60.30:/CNBC_World/index.m3u8
-#EXTINF:-1 tvg-id="ComedyTV.us@SD",Comedy TV
-http://143.244.60.30:/Comedy_TV/index.m3u8
-#EXTINF:-1 tvg-id="Comet.us@SD",Comet
-http://143.244.60.30:/COMET/index.m3u8
-#EXTINF:-1 tvg-id="CourtTV.us@SD",Court TV
-http://143.244.60.30:/COURT_TV/index.m3u8
-#EXTINF:-1 tvg-id="CoziTV.us@SD",Cozi TV
-http://143.244.60.30:/COZI_TV/index.m3u8
-#EXTINF:-1 tvg-id="Crave1.ca@SD",Crave 1
-http://143.244.60.30:/CRAVE_1/index.m3u8
-#EXTINF:-1 tvg-id="Crave2.ca@SD",Crave 2
-http://143.244.60.30:/CRAVE_2/index.m3u8
-#EXTINF:-1 tvg-id="Crave3.ca@SD",Crave 3
-http://143.244.60.30:/CRAVE_3/index.m3u8
-#EXTINF:-1 tvg-id="Crave4.ca@SD",Crave 4
-http://143.244.60.30:/CRAVE_4/index.m3u8
-#EXTINF:-1 tvg-id="CrimePlusInvestigation.us@SD",Crime + Investigation
-http://143.244.60.30:/Crime_and_Investigation_Network/index.m3u8
-#EXTINF:-1 tvg-id="CuriosityStream.us@SD",CuriosityStream (720p)
-http://143.244.60.30:/Curiosity_Stream/index.m3u8
-#EXTINF:-1 tvg-id="CVMTV.jm@SD",CVM TV
-http://143.244.60.30:/CVM_TV_CARIBBEAN/index.m3u8
-#EXTINF:-1 tvg-id="DisneyChannel.us@East",Disney Channel East
-http://143.244.60.30:/DISNEY/index.m3u8
-#EXTINF:-1 tvg-id="DisneyJunior.us@East",Disney Junior East
-http://143.244.60.30:/DISNEY_JR/index.m3u8
-#EXTINF:-1 tvg-id="DisneyXD.us@East",Disney XD (720p)
-http://fl1.moveonjoy.com/DISNEY_XD/index.m3u8
-#EXTINF:-1 tvg-id="E.us@East",E! East
-http://143.244.60.30:/E_ENTERTAINMENT_TELEVISION/index.m3u8
-#EXTINF:-1 tvg-id="ESPNU.us@SD",ESPN U (720p)
-http://143.244.60.30:/ESPN_U/index.m3u8
-#EXTINF:-1 tvg-id="ESPNews.us@SD",ESPNews (720p)
-http://143.244.60.30:/ESPN_NEWS/index.m3u8
-#EXTINF:-1 tvg-id="FanDuelSportsNetwork.us@HD",FanDuel Sports Network
-http://143.244.60.30:/PAC_12/index.m3u8
-#EXTINF:-1 tvg-id="FanDuelTV.us@SD",FanDuel TV
-http://143.244.60.30:/TVG/index.m3u8
-#EXTINF:-1 tvg-id="FoxBusinessNetwork.us@SD",Fox Business Network (720p)
-http://143.244.60.30:/FOX_Business_Network/index.m3u8
-#EXTINF:-1 tvg-id="WFLDDT1.us@SD",FOX Chicago WFLD-DT1
-http://143.244.60.30:/IL_Chicago_FOX/index.m3u8
-#EXTINF:-1 tvg-id="FoxNewsChannel.us@SD",Fox News Channel (720p)
-http://143.244.60.30:/FOX_NEWS_CHANNEL/index.m3u8
-#EXTINF:-1 tvg-id="FoxSoul.us@SD",Fox Soul
-http://143.244.60.30:/FOX_SOUL/index.m3u8
-#EXTINF:-1 tvg-id="",Fox Sports 1
-http://143.244.60.30:/FOX_Sports_1/index.m3u8
-#EXTINF:-1 tvg-id="Freeform.us@East",Free form East
-http://143.244.60.30:/FREE_FORM/index.m3u8
-#EXTINF:-1 tvg-id="Fuse.us@East",Fuse East (720p)
-http://143.244.60.30:/FUSE/index.m3u8
-#EXTINF:-1 tvg-id="FX.us@East",FX East
-http://143.244.60.30:/FX/index.m3u8
-#EXTINF:-1 tvg-id="FXM.us@East",FXM East
-http://143.244.60.30:/FX_MOVIE/index.m3u8
-#EXTINF:-1 tvg-id="FXX.us@East",FXX East
-http://143.244.60.30:/FXX/index.m3u8
-#EXTINF:-1 tvg-id="FYI.us@East",FYI East
-http://143.244.60.30:/FYI/index.m3u8
-#EXTINF:-1 tvg-id="GetTV.us@SD",GetTV (480p)
-http://143.244.60.30:/GET_TV/index.m3u8
-#EXTINF:-1 tvg-id="GolfChannel.us@SD",Golf Channel
-http://143.244.60.30:/GOLF/index.m3u8
-#EXTINF:-1 tvg-id="HallmarkChannel.us@East",Hallmark Channel East (720p)
-http://143.244.60.30:/HALLMARK_CHANNEL/index.m3u8
-#EXTINF:-1 tvg-id="HallmarkDrama.us@SD",Hallmark Drama (720p)
-http://143.244.60.30:/HALLMARK_DRAMA/index.m3u8
-#EXTINF:-1 tvg-id="HallmarkMoviesMysteries.us@East",Hallmark Movies Mysteries East
-http://143.244.60.30:/HALLMARK_MOVIES_MYSTERIES/index.m3u8
-#EXTINF:-1 tvg-id="History.us@East",History
-http://143.244.60.30:/history_channel/index.m3u8
-#EXTINF:-1 tvg-id="HSN.us@East",HSN
-http://143.244.60.30:/HSN/index.m3u8
-#EXTINF:-1 tvg-id="INSP.us@SD",INSP
-http://143.244.60.30:/INSP/index.m3u8
-#EXTINF:-1 tvg-id="IONPlus.us@East",ION Plus East (720p)
-http://143.244.60.30:/ION_Plus/index.m3u8
-#EXTINF:-1 tvg-id="IONTV.us@East",ION TV East
-http://143.244.60.30:/ION_TV/index.m3u8
-#EXTINF:-1 tvg-id="Lifetime.us@East",Lifetime East
-http://143.244.60.30:/LIFETIME/index.m3u8
-#EXTINF:-1 tvg-id="LifetimeMovies.us@East",Lifetime Movies East
-http://143.244.60.30:/LIFETIME_MOVIE_NETWORK/index.m3u8
-#EXTINF:-1 tvg-id="LoveNature.ca@SD",Love Nature
-http://143.244.60.30:/LOVE_NATURE/index.m3u8
-#EXTINF:-1 tvg-id="",MAV TV (720p)
-http://143.244.60.30:/MAV_TV/index.m3u8
-#EXTINF:-1 tvg-id="MeTV.us@SD",MeTV
-http://143.244.60.30:/ME_TV/index.m3u8
-#EXTINF:-1 tvg-id="MeTV.us@SD",MeTV test
-http://89.105.221.127/MeTV_Toons/mpegts?token=test
-#EXTINF:-1 tvg-id="MGMPlus.us@East",MGM+ East
-http://143.244.60.30:/EPIX/index.m3u8
-#EXTINF:-1 tvg-id="MGMPlusMarquee.us@SD",MGM+ Marquee
-http://143.244.60.30:/EPIX_DRIVE_IN/index.m3u8
-#EXTINF:-1 tvg-id="MilitaryHistory.us@SD",Military History
-http://143.244.60.30:/Military_History/index.m3u8
-#EXTINF:-1 tvg-id="MLBNetwork.us@SD",MLB Network
-http://143.244.60.30:/MLB_NETWORK/index.m3u8
-#EXTINF:-1 tvg-id="MSG.us@SD",MSG
-http://143.244.60.30:/MSG/index.m3u8
-#EXTINF:-1 tvg-id="MTV2.us@East",MTV2 (720p)
-http://143.244.60.30:/MTV_2/index.m3u8
-#EXTINF:-1 tvg-id="MTVClassic.us@East",MTV Classic (360p)
-http://143.244.60.30:/MTV_CLASSIC/index.m3u8
-#EXTINF:-1 tvg-id="MTV.us@East",MTV East
-http://143.244.60.30:/MTV/index.m3u8
-#EXTINF:-1 tvg-id="MTVLive.us@SD",MTV Live (720p)
-http://143.244.60.30:/MTV_LIVE/index.m3u8
-#EXTINF:-1 tvg-id="Much.ca@SD",Much (720p)
-http://143.244.60.30:/MUCH/index.m3u8
-#EXTINF:-1 tvg-id="NationalGeographic.us@East",National Geographic East
-http://143.244.60.30:/National_Geographic/index.m3u8
-#EXTINF:-1 tvg-id="NationalGeographicWild.us@East",National Geographic Wild East
-http://143.244.60.30:/Nat_Geo_Wild/index.m3u8
-#EXTINF:-1 tvg-id="NBATV.us@SD",NBA TV
-http://143.244.60.30:/NBA_TV/index.m3u8
-#EXTINF:-1 tvg-id="WMAQDT1.us@SD",NBC Chicago WMAQ-DT1
-http://143.244.60.30:/IL_Chicago_NBC/index.m3u8
-#EXTINF:-1 tvg-id="NewsNation.us@East",News Nation (720p)
-http://143.244.60.30:/NEWS_NATION/index.m3u8
-#EXTINF:-1 tvg-id="NFLNetwork.us@SD",NFL Network
-http://143.244.60.30:/NFL_NETWORK/index.m3u8
-#EXTINF:-1 tvg-id="NFLRedZone.us@SD",NFL RedZone
-http://143.244.60.30:/NFL_RedZone/index.m3u8
-#EXTINF:-1 tvg-id="NHLNetwork.us@SD",NHL Network (720p)
-http://143.244.60.30:/NHL_NETWORK/index.m3u8
-#EXTINF:-1 tvg-id="NickJr.us@East",Nick Jr. East (720p)
-http://143.244.60.30:/NICK_JR/index.m3u8
-#EXTINF:-1 tvg-id="NickMusic.us@SD",Nick Music (720p)
-http://143.244.60.30:/NICK_MUSIC/index.m3u8
-#EXTINF:-1 tvg-id="Nickelodeon.us@East",Nickelodeon East
-http://143.244.60.30:/NICKELODEON/index.m3u8
-#EXTINF:-1 tvg-id="Nicktoons.us@East",Nicktoons East
-http://143.244.60.30:/NICKTOONS/index.m3u8
-#EXTINF:-1 tvg-id="OutdoorChannel.us@SD",Outdoor Channel
-http://143.244.60.30:/OUTDOOR_CHANNEL/index.m3u8
-#EXTINF:-1 tvg-id="OuterMax.us@East",OuterMax East (720p)
-http://143.244.60.30:/OUTER_MAX/index.m3u8
-#EXTINF:-1 tvg-id="OutsideTV.us@SD",Outside TV
-http://143.244.60.30:/OUTSIDE_TV/index.m3u8
-#EXTINF:-1 tvg-id="Ovation.us@SD",Ovation (1080p)
-http://143.244.60.30:/Ovation/index.m3u8
-#EXTINF:-1 tvg-id="Oxygen.us@East",Oxygen East
-http://143.244.60.30:/OXYGEN/index.m3u8
-#EXTINF:-1 tvg-id="ParamountNetwork.us@East",Paramount Network East
-http://143.244.60.30:/PARAMOUNT_NETWORK/index.m3u8
-#EXTINF:-1 tvg-id="PopTV.us@SD",Pop TV
-http://143.244.60.30:/Pop_TV/index.m3u8
-#EXTINF:-1 tvg-id="PursuitChannel.us@SD",Pursuit Channel (720p)
-http://143.244.60.30:/Pursuit_Channel/index.m3u8
-#EXTINF:-1 tvg-id="QVC.us@SD",QVC (720p)
-http://143.244.60.30:/QVC/index.m3u8
-#EXTINF:-1 tvg-id="Reelz.us@SD",Reelz (720p)
-http://143.244.60.30:/REELZ/index.m3u8
-#EXTINF:-1 tvg-id="Revolt.us@SD",Revolt
-http://143.244.60.30:/REVOLT/index.m3u8
-#EXTINF:-1 tvg-id="Showtime2.us@East",Showtime 2 East
-http://143.244.60.30:/SHOWTIME_2/index.m3u8
-#EXTINF:-1 tvg-id="Showtime.us@East",Showtime East
-http://143.244.60.30:/SHOWTIME/index.m3u8
-#EXTINF:-1 tvg-id="ShowtimeNext.us@East",Showtime Next East
-http://143.244.60.30:/SHOWTIME_NEXT/index.m3u8
-#EXTINF:-1 tvg-id="Showtime.us@West",Showtime West (1080p)
-http://143.244.60.30:/SHOWTIME_WEST/index.m3u8
-#EXTINF:-1 tvg-id="ShowtimeWomen.us@East",Showtime Women East
-http://143.244.60.30:/SHOWTIME_WOMEN/index.m3u8
-#EXTINF:-1 tvg-id="SmithsonianChannel.us@East",Smithsonian Channel East
-http://143.244.60.30:/SMITHSONIAN_CHANNEL/index.m3u8
-#EXTINF:-1 tvg-id="SonyChannel.mx@SD",Sony Channel
-http://143.244.60.30:/Sony_Movie_Channel/index.m3u8
-#EXTINF:-1 tvg-id="SportsmanChannel.us@SD",Sportsman Channel
-http://143.244.60.30:/SPORTSMAN_CHANNEL/index.m3u8
-#EXTINF:-1 tvg-id="SportsNetNewYork.us@SD",SportsNet New York (540p)
-http://143.244.60.30:/SNY/index.m3u8
-#EXTINF:-1 tvg-id="StartTV.us@SD",Start TV
-http://143.244.60.30:/Start_Tv/index.m3u8
-#EXTINF:-1 tvg-id="Starz.us@East",Starz East
-http://143.244.60.30:/STARZ/index.m3u8
-#EXTINF:-1 tvg-id="StarzEncoreClassic.us@East",Starz Encore Classic East
-http://143.244.60.30:/STARZ_ENCORE_CLASSIC/index.m3u8
-#EXTINF:-1 tvg-id="Starz.us@West",Starz West
-http://143.244.60.30:/STARZ_WEST/index.m3u8
-#EXTINF:-1 tvg-id="StoriesbyAMC.us@EastHD",Stories by AMC (1080p)
-http://fl1.moveonjoy.com/AMC_NETWORK/index.m3u8
-#EXTINF:-1 tvg-id="SundanceTV.us@East",Sundance TV East
-http://143.244.60.30:/SUNDANCE/index.m3u8
-#EXTINF:-1 tvg-id="Syfy.us@East",Syfy East
-http://143.244.60.30:/SYFY/index.m3u8
-#EXTINF:-1 tvg-id="TeenNick.us@East",TeenNick
-http://143.244.60.30:/Teen_Nick/index.m3u8
-#EXTINF:-1 tvg-id="TennisChannel.us@SD",Tennis Channel
-http://143.244.60.30:/TENNIS_CHANNEL/index.m3u8
-#EXTINF:-1 tvg-id="TheCowboyChannel.us@SD",The Cowboy Channel
-http://143.244.60.30:/Cowboy_Channel/index.m3u8
-#EXTINF:-1 tvg-id="TSN2.ca@SD",TSN2
-http://143.244.60.30:/TSN_2/index.m3u8
-#EXTINF:-1 tvg-id="TSN3.ca@SD",TSN3
-http://143.244.60.30:/TSN_3/index.m3u8
-#EXTINF:-1 tvg-id="TSN4.ca@SD",TSN4
-http://143.244.60.30:/TSN_4/index.m3u8
-#EXTINF:-1 tvg-id="TSN5.ca@SD",TSN5
-http://143.244.60.30:/TSN_5/index.m3u8
-#EXTINF:-1 tvg-id="TVLand.us@East",TV Land
-http://143.244.60.30:/TV_LAND/index.m3u8
-#EXTINF:-1 tvg-id="TVOne.us@SD",TV One
-http://143.244.60.30:/TV_ONE/index.m3u8
-#EXTINF:-1 tvg-id="USANetwork.us@East",USA Network (720p)
-http://fl1.moveonjoy.com/USA_NETWORK/index.m3u8
-#EXTINF:-1 tvg-id="VH1.us@East",VH1 East
-http://143.244.60.30:/VH1/index.m3u8
-#EXTINF:-1 tvg-id="VICETV.us@SD",VICE TV (720p)
-http://143.244.60.30:/VICELAND/index.m3u8
-#EXTINF:-1 tvg-id="WNetwork.ca@East",W Network (720p)
-http://143.244.60.30:/W_NETWORK/index.m3u8
-#EXTINF:-1 tvg-id="WeTV.us@East",We TV East
-http://143.244.60.30:/WE_TV/index.m3u8
-#EXTINF:-1 tvg-id="WFLADT1.us@SD",WFLA-DT1
-http://143.244.60.30:/FL_Tampa_NBC/index.m3u8
-#EXTINF:-1 tvg-id="WFLXDT1.us@SD",WFLX-DT1
-http://143.244.60.30:/FL_West_Palm_Beach_FOX/index.m3u8
-#EXTINF:-1 tvg-id="WFTSDT1.us@SD",WFTS-DT1
-http://143.244.60.30:/FL_Tampa_ABC/index.m3u8
-#EXTINF:-1 tvg-id="WGNDT1.us@SD",WGN-DT1 (720p)
-http://143.244.60.30:/WGN/index.m3u8
-#EXTINF:-1 tvg-id="Willow.us@SD",Willow
-http://143.244.60.30:/WILLOW_CRICKET/index.m3u8
-#EXTINF:-1 tvg-id="WKCFDT1.us@SD",WKCF-DT1
-http://143.244.60.30:/CW_ORLANDO/index.m3u8
-#EXTINF:-1 tvg-id="WorldFishingNetwork.us@SD",World Fishing Network
-http://143.244.60.30:/WORLD_FISHING_NETWORK/index.m3u8
-#EXTINF:-1 tvg-id="WPECDT1.us@SD",WPEC-DT1
-http://143.244.60.30:/FL_West_Palm_Beach_CBS/index.m3u8
-#EXTINF:-1 tvg-id="WTOGDT1.us@SD",WTOG-DT1
-http://143.244.60.30:/FL_Tampa_CW44/index.m3u8
-#EXTINF:-1 tvg-id="WVGNLD1.vi@SD",WVGN-LD1
-http://143.244.60.30:/Virgin_Islands_NBC/index.m3u8
-#EXTINF:-1 tvg-id="YesNetwork.us@SD",Yes Network
-http://143.244.60.30:/YES_NETWORK/index.m3u8
 #EXTINF:-1 group-title="US CHANNELS" tvg-logo="",cpac-ca
 https://cpac-ca-live.cdn.vustreams.com/groupa/live/f9809cea-1e07-47cd-a94d-2ddd3e1351db/live.isml/live-video_track.m3u8
 https://fl1.moveonjoy.com/FL_PANAMA_CITY_ABC/mpegts
-#EXTINF:-1 group-title="US CHANNELS" tvg-logo="",aznews
-https://py.dencreak.com/meta/16456.m3u8?token=taeut5.UGzQrSP_G3oE-XHa&
-#EXTM3U
-#EXTINF:173,USA | A&E
+#EXTINF:-1 group-title="US CHANNELS" tvg-logo="",pbsusa-antiroad
+https://amg00953-pbsusa-antiroadshow-xumo-x6ud5.amagi.tv/playlist.m3u8
+#EXTINF:-1 group-title="US CHANNELS" tvg-logo="",bbc serie
+https://amg00793-amg00793c40-rakuten-es-5444.playouts.now.amagi.tv/playlist.m3u8
+#EXTINF:-1 group-title="US CHANNELS" tvg-logo="",USA | A&E
 http://206.212.244.63/1/index.m3u8
-#EXTINF:180,USA | ABC NEWS LIVE
+#EXTINF:-1 group-title="US CHANNELS" tvg-logo="",USA | ABC NEWS LIVE
 http://206.212.244.63/2/index.m3u8
-#EXTINF:184,USA | ACCUWEATHER
+#EXTINF:-1 group-title="US CHANNELS" tvg-logo="",USA | ACCUWEATHER
 http://206.212.244.63/3/index.m3u8
-#EXTINF:176,USA | AMERICAN HEROES CHANNEL - AHC
+#EXTINF:-1 group-title="US CHANNELS" tvg-logo="",USA | AMERICAN HEROES CHANNEL - AHC
 http://206.212.244.63/6/index.m3u8
-#EXTINF:180,USA | ANTENNA
+#EXTINF:-1 group-title="US CHANNELS" tvg-logo="",USA | ANTENNA
 http://206.212.244.63/9/index.m3u8
-#EXTINF:180,USA | ASPIRE
+#EXTINF:-1 group-title="US CHANNELS" tvg-logo="",USA | ASPIRE
 http://206.212.244.63/10/index.m3u8
-#EXTINF:150,USA | AWE
+#EXTINF:-1 group-title="US CHANNELS" tvg-logo="",USA | AWE
 http://206.212.244.63/11/index.m3u8
-#EXTINF:176,USA | AXS TV
+#EXTINF:-1 group-title="US CHANNELS" tvg-logo="",USA | AXS TV
 http://206.212.244.63/12/index.m3u8
-#EXTINF:166,USA | BBC AMERICA
+#EXTINF:-1 group-title="US CHANNELS" tvg-logo="",USA | BBC AMERICA
 http://206.212.244.63/13/index.m3u8
-#EXTINF:180,USA | BBC WORLD NEWS
+#EXTINF:-1 group-title="US CHANNELS" tvg-logo="",USA | BBC WORLD NEWS
 http://206.212.244.63/14/index.m3u8
-#EXTINF:150,USA | BET (WEST)
+#EXTINF:-1 group-title="US CHANNELS" tvg-logo="",USA | BET (WEST)
 http://206.212.244.63/16/index.m3u8
-#EXTINF:150,USA | BET GOSPEL
+#EXTINF:-1 group-title="US CHANNELS" tvg-logo="",USA | BET GOSPEL
 http://206.212.244.63/17/index.m3u8
-#EXTINF:150,USA | BET HER (WEST)
+#EXTINF:-1 group-title="US CHANNELS" tvg-logo="",USA | BET HER (WEST)
 http://206.212.244.63/19/index.m3u8
-#EXTINF:180,USA | BET JAMS
+#EXTINF:-1 group-title="US CHANNELS" tvg-logo="",USA | BET JAMS
 http://206.212.244.63/20/index.m3u8
-#EXTINF:176,USA | BET SOUL
+#EXTINF:-1 group-title="US CHANNELS" tvg-logo="",USA | BET SOUL
 http://206.212.244.63/21/index.m3u8
-#EXTINF:176,USA | BLOOMBERG
+#EXTINF:-1 group-title="US CHANNELS" tvg-logo="",USA | BLOOMBERG
 http://206.212.244.63/22/index.m3u8
-#EXTINF:176,USA | BOUNCE TV
+#EXTINF:-1 group-title="US CHANNELS" tvg-logo="",USA | BOUNCE TV
 http://206.212.244.63/23/index.m3u8
-#EXTINF:176,USA | BRAVO (WEST)
+#EXTINF:-1 group-title="US CHANNELS" tvg-logo="",USA | BRAVO (WEST)
 http://206.212.244.63/26/index.m3u8
-#EXTINF:176,USA | BUZZER
+#EXTINF:-1 group-title="US CHANNELS" tvg-logo="",USA | BUZZER
 http://206.212.244.63/27/index.m3u8
-#EXTINF:150,USA | BYU TV
+#EXTINF:-1 group-title="US CHANNELS" tvg-logo="",USA | BYU TV
 http://206.212.244.63/28/index.m3u8
-#EXTINF:178,USA | CBS - NEW YORK
+#EXTINF:-1 group-title="US CHANNELS" tvg-logo="",USA | CBS - NEW YORK
 http://206.212.244.63/32/index.m3u8
-#EXTINF:176,USA | CBS 10 - LAFAYETTE
+#EXTINF:-1 group-title="US CHANNELS" tvg-logo="",USA | CBS 10 - LAFAYETTE
 http://206.212.244.63/33/index.m3u8
-#EXTINF:154,USA | CHARGE!
+#EXTINF:-1 group-title="US CHANNELS" tvg-logo="",USA | CHARGE!
 http://206.212.244.63/34/index.m3u8
-#EXTINF:166,USA | CHEDDAR NEWS
+#EXTINF:-1 group-title="US CHANNELS" tvg-logo="",USA | CHEDDAR NEWS
 http://206.212.244.63/35/index.m3u8
-#EXTINF:184,USA | CIRCLE
+#EXTINF:-1 group-title="US CHANNELS" tvg-logo="",USA | CIRCLE
 http://206.212.244.63/37/index.m3u8
-#EXTINF:172,USA | CLEO TV
+#EXTINF:-1 group-title="US CHANNELS" tvg-logo="",USA | CLEO TV
 http://206.212.244.63/38/index.m3u8
-#EXTINF:178,USA | CMT (EAST)
+#EXTINF:-1 group-title="US CHANNELS" tvg-logo="",USA | CMT (EAST)
 http://206.212.244.63/39/index.m3u8
-#EXTINF:155,USA | CNBC
+#EXTINF:-1 group-title="US CHANNELS" tvg-logo="",USA | CNBC
 http://206.212.244.63/41/index.m3u8
-#EXTINF:178,USA | CNBC WORLD
+#EXTINF:-1 group-title="US CHANNELS" tvg-logo="",USA | CNBC WORLD
 http://206.212.244.63/42/index.m3u8
-#EXTINF:150,USA | CNN
+#EXTINF:-1 group-title="US CHANNELS" tvg-logo="",USA | CNN
 http://206.212.244.63/43/index.m3u8
-#EXTINF:180,USA | COMEDY CENTRAL (EAST)
+#EXTINF:-1 group-title="US CHANNELS" tvg-logo="",USA | COMEDY CENTRAL (EAST)
 http://206.212.244.63/44/index.m3u8
-#EXTINF:170,USA | COMET
+#EXTINF:-1 group-title="US CHANNELS" tvg-logo="",USA | COMET
 http://206.212.244.63/46/index.m3u8
-#EXTINF:170,USA | COOKING CHANNEL
+#EXTINF:-1 group-title="US CHANNELS" tvg-logo="",USA | COOKING CHANNEL
 http://206.212.244.63/47/index.m3u8
-#EXTINF:177,USA | COZI TV
+#EXTINF:-1 group-title="US CHANNELS" tvg-logo="",USA | COZI TV
 http://206.212.244.63/49/index.m3u8
-#EXTINF:172,USA | DESTINATION AMERICA
+#EXTINF:-1 group-title="US CHANNELS" tvg-logo="",USA | DESTINATION AMERICA
 http://206.212.244.63/50/index.m3u8
-#EXTINF:179,USA | DISCOVERY SCIENCE
+#EXTINF:-1 group-title="US CHANNELS" tvg-logo="",USA | DISCOVERY SCIENCE
 http://206.212.244.63/55/index.m3u8
-#EXTINF:178,USA | DOG TV
+#EXTINF:-1 group-title="US CHANNELS" tvg-logo="",USA | DOG TV
 http://206.212.244.63/56/index.m3u8
-#EXTINF:180,USA | ESPN
+#EXTINF:-1 group-title="US CHANNELS" tvg-logo="",USA | ESPN
 http://206.212.244.63/59/index.m3u8
-#EXTINF:180,USA | FETV
+#EXTINF:-1 group-title="US CHANNELS" tvg-logo="",USA | FETV
 http://206.212.244.63/60/index.m3u8
-#EXTINF:172,USA | FOOD NETWORK (EAST)
+#EXTINF:-1 group-title="US CHANNELS" tvg-logo="",USA | FOOD NETWORK (EAST)
 http://206.212.244.63/61/index.m3u8
-#EXTINF:150,USA | FOX - LOS ANGELES
+#EXTINF:-1 group-title="US CHANNELS" tvg-logo="",USA | FOX - LOS ANGELES
 http://206.212.244.63/63/index.m3u8
-#EXTINF:150,USA | FOX - NEW YORK
+#EXTINF:-1 group-title="US CHANNELS" tvg-logo="",USA | FOX - NEW YORK
 http://206.212.244.63/64/index.m3u8
-#EXTINF:150,USA | FOX 15 - LAFAYETTE
+#EXTINF:-1 group-title="US CHANNELS" tvg-logo="",USA | FOX 15 - LAFAYETTE
 http://206.212.244.63/65/index.m3u8
-#EXTINF:178,USA | FOX BUSINESS
+#EXTINF:-1 group-title="US CHANNELS" tvg-logo="",USA | FOX BUSINESS
 http://206.212.244.63/66/index.m3u8
-#EXTINF:180,USA | FOX NEWS
+#EXTINF:-1 group-title="US CHANNELS" tvg-logo="",USA | FOX NEWS
 http://206.212.244.63/67/index.m3u8
-#EXTINF:180,USA | FOX WEATHER
+#EXTINF:-1 group-title="US CHANNELS" tvg-logo="",USA | FOX WEATHER
 http://206.212.244.63/68/index.m3u8
-#EXTINF:150,USA | FREEFORM (EAST)
+#EXTINF:-1 group-title="US CHANNELS" tvg-logo="",USA | FREEFORM (EAST)
 http://206.212.244.63/69/index.m3u8
-#EXTINF:150,USA | FREEFORM (WEST)
+#EXTINF:-1 group-title="US CHANNELS" tvg-logo="",USA | FREEFORM (WEST)
 http://206.212.244.63/70/index.m3u8
-#EXTINF:178,USA | FUEL TV
+#EXTINF:-1 group-title="US CHANNELS" tvg-logo="",USA | FUEL TV
 http://206.212.244.63/71/index.m3u8
-#EXTINF:171,USA | FUSE
+#EXTINF:-1 group-title="US CHANNELS" tvg-logo="",USA | FUSE
 http://206.212.244.63/72/index.m3u8
-#EXTINF:170,USA | FYI
+#EXTINF:-1 group-title="US CHANNELS" tvg-logo="",USA | FYI
 http://206.212.244.63/78/index.m3u8
-#EXTINF:177,USA | GET TV
+#EXTINF:-1 group-title="US CHANNELS" tvg-logo="",USA | GET TV
 http://206.212.244.63/80/index.m3u8
-#EXTINF:178,USA | GREAT AMERICAN FAMILY
+#EXTINF:-1 group-title="US CHANNELS" tvg-logo="",USA | GREAT AMERICAN FAMILY
 http://206.212.244.63/81/index.m3u8
-#EXTINF:150,USA | GREAT AMERICAN LIVING
+#EXTINF:-1 group-title="US CHANNELS" tvg-logo="",USA | GREAT AMERICAN LIVING
 http://206.212.244.63/82/index.m3u8
-#EXTINF:174,USA | GRIT
+#EXTINF:-1 group-title="US CHANNELS" tvg-logo="",USA | GRIT
 http://206.212.244.63/83/index.m3u8
-#EXTINF:179,USA | HALLMARK CHANNEL
+#EXTINF:-1 group-title="US CHANNELS" tvg-logo="",USA | HALLMARK CHANNEL
 http://206.212.244.63/84/index.m3u8
-#EXTINF:170,USA | HALLMARK FAMILY
+#EXTINF:-1 group-title="US CHANNELS" tvg-logo="",USA | HALLMARK FAMILY
 http://206.212.244.63/85/index.m3u8
-#EXTINF:179,USA | HALLMARK MYSTERY
+#EXTINF:-1 group-title="US CHANNELS" tvg-logo="",USA | HALLMARK MYSTERY
 http://206.212.244.63/86/index.m3u8
-#EXTINF:178,USA | Haunt TV
+#EXTINF:-1 group-title="US CHANNELS" tvg-logo="",USA | Haunt TV
 http://206.212.244.63/87/index.m3u8
-#EXTINF:174,USA | HEROES & ICONS
+#EXTINF:-1 group-title="US CHANNELS" tvg-logo="",USA | HEROES & ICONS
 http://206.212.244.63/88/index.m3u8
-#EXTINF:173,USA | HGTV (EAST)
+#EXTINF:-1 group-title="US CHANNELS" tvg-logo="",USA | HGTV (EAST)
 http://206.212.244.63/89/index.m3u8
-#EXTINF:171,USA | HLN
+#EXTINF:-1 group-title="US CHANNELS" tvg-logo="",USA | HLN
 http://206.212.244.63/92/index.m3u8
-#EXTINF:180,USA | INSP
+#EXTINF:-1 group-title="US CHANNELS" tvg-logo="",USA | INSP
 http://206.212.244.63/95/index.m3u8
-#EXTINF:172,USA | ION TV
+#EXTINF:-1 group-title="US CHANNELS" tvg-logo="",USA | ION TV
 http://206.212.244.63/99/index.m3u8
-#EXTINF:178,USA | JUSTICE CENTRAL
+#EXTINF:-1 group-title="US CHANNELS" tvg-logo="",USA | JUSTICE CENTRAL
 http://206.212.244.63/100/index.m3u8
-#EXTINF:169,USA | LAFF TV
+#EXTINF:-1 group-title="US CHANNELS" tvg-logo="",USA | LAFF TV
 http://206.212.244.63/101/index.m3u8
-#EXTINF:182,USA | LAW & CRIME
+#EXTINF:-1 group-title="US CHANNELS" tvg-logo="",USA | LAW & CRIME
 http://206.212.244.63/102/index.m3u8
-#EXTINF:170,USA | LIFETIME
+#EXTINF:-1 group-title="US CHANNELS" tvg-logo="",USA | LIFETIME
 http://206.212.244.63/103/index.m3u8
-#EXTINF:174,USA | MAGNOLIA NETWORK
+#EXTINF:-1 group-title="US CHANNELS" tvg-logo="",USA | MAGNOLIA NETWORK
 http://206.212.244.63/107/index.m3u8
-#EXTINF:178,USA | ME TV
+#EXTINF:-1 group-title="US CHANNELS" tvg-logo="",USA | ME TV
 http://206.212.244.63/108/index.m3u8
-#EXTINF:150,USA | METV
+#EXTINF:-1 group-title="US CHANNELS" tvg-logo="",USA | METV
 http://206.212.244.63/110/index.m3u8
-#EXTINF:150,USA | METV PLUS
+#EXTINF:-1 group-title="US CHANNELS" tvg-logo="",USA | METV PLUS
 http://206.212.244.63/111/index.m3u8
-#EXTINF:177,USA | MeTV Toons
+#EXTINF:-1 group-title="US CHANNELS" tvg-logo="",USA | MeTV Toons
 http://206.212.244.63/112/index.m3u8
-#EXTINF:154,USA | MOTORTREND
+#EXTINF:-1 group-title="US CHANNELS" tvg-logo="",USA | MOTORTREND
 http://206.212.244.63/113/index.m3u8
-#EXTINF:180,USA | MSNBC
+#EXTINF:-1 group-title="US CHANNELS" tvg-logo="",USA | MSNBC
 http://206.212.244.63/114/index.m3u8
-#EXTINF:176,USA | MTV
+#EXTINF:-1 group-title="US CHANNELS" tvg-logo="",USA | MTV
 http://206.212.244.63/115/index.m3u8
-#EXTINF:171,USA | MTV 2
+#EXTINF:-1 group-title="US CHANNELS" tvg-logo="",USA | MTV 2
 http://206.212.244.63/116/index.m3u8
-#EXTINF:170,USA | MTV CLASSIC
+#EXTINF:-1 group-title="US CHANNELS" tvg-logo="",USA | MTV CLASSIC
 http://206.212.244.63/117/index.m3u8
-#EXTINF:176,USA | MTV LIVE
+#EXTINF:-1 group-title="US CHANNELS" tvg-logo="",USA | MTV LIVE
 http://206.212.244.63/118/index.m3u8
-#EXTINF:180,USA | MTV U
+#EXTINF:-1 group-title="US CHANNELS" tvg-logo="",USA | MTV U
 http://206.212.244.63/119/index.m3u8
-#EXTINF:155,USA | NAT GEO (WEST)
+#EXTINF:-1 group-title="US CHANNELS" tvg-logo="",USA | NAT GEO (WEST)
 http://206.212.244.63/122/index.m3u8
-#EXTINF:176,USA | NAT GEO WILD
+#EXTINF:-1 group-title="US CHANNELS" tvg-logo="",USA | NAT GEO WILD
 http://206.212.244.63/123/index.m3u8
-#EXTINF:218,USA | NBC - NEW YORK
+#EXTINF:-1 group-title="US CHANNELS" tvg-logo="",USA | NBC - NEW YORK
 http://206.212.244.63/125/index.m3u8
-#EXTINF:180,USA | NBC News NOW
+#EXTINF:-1 group-title="US CHANNELS" tvg-logo="",USA | NBC News NOW
 http://206.212.244.63/127/index.m3u8
-#EXTINF:180,USA | NEWSMAX
+#EXTINF:-1 group-title="US CHANNELS" tvg-logo="",USA | NEWSMAX
 http://206.212.244.63/128/index.m3u8
-#EXTINF:180,USA | NEWSNATION
+#EXTINF:-1 group-title="US CHANNELS" tvg-logo="",USA | NEWSNATION
 http://206.212.244.63/129/index.m3u8
-#EXTINF:184,USA | ONE AMERICA NETWORK
+#EXTINF:-1 group-title="US CHANNELS" tvg-logo="",USA | ONE AMERICA NETWORK
 http://206.212.244.63/131/index.m3u8
-#EXTINF:150,USA | OUTDOOR CHANNEL
+#EXTINF:-1 group-title="US CHANNELS" tvg-logo="",USA | OUTDOOR CHANNEL
 http://206.212.244.63/132/index.m3u8
-#EXTINF:174,USA | OUTSIDE TV
+#EXTINF:-1 group-title="US CHANNELS" tvg-logo="",USA | OUTSIDE TV
 http://206.212.244.63/133/index.m3u8
-#EXTINF:177,USA | OVATION
+#EXTINF:-1 group-title="US CHANNELS" tvg-logo="",USA | OVATION
 http://206.212.244.63/134/index.m3u8
-#EXTINF:174,USA | OWN - OPRAH WINFREY NETWORK
+#EXTINF:-1 group-title="US CHANNELS" tvg-logo="",USA | OWN - OPRAH WINFREY NETWORK
 http://206.212.244.63/135/index.m3u8
-#EXTINF:180,USA | OXYGEN TRUE CRIME
+#EXTINF:-1 group-title="US CHANNELS" tvg-logo="",USA | OXYGEN TRUE CRIME
 http://206.212.244.63/136/index.m3u8
-#EXTINF:181,USA | PARAMOUNT NETWORK
+#EXTINF:-1 group-title="US CHANNELS" tvg-logo="",USA | PARAMOUNT NETWORK
 http://206.212.244.63/137/index.m3u8
-#EXTINF:171,USA | TASTEMADE
+#EXTINF:-1 group-title="US CHANNELS" tvg-logo="",USA | TASTEMADE
 http://206.212.244.63/153/index.m3u8
-#EXTINF:172,USA | POP TV
+#EXTINF:-1 group-title="US CHANNELS" tvg-logo="",USA | POP TV
 http://206.212.244.63/139/index.m3u8
-#EXTINF:179,USA | PURSUIT CHANNEL
+#EXTINF:-1 group-title="US CHANNELS" tvg-logo="",USA | PURSUIT CHANNEL
 http://206.212.244.63/140/index.m3u8
-#EXTINF:180,USA | QVC
+#EXTINF:-1 group-title="US CHANNELS" tvg-logo="",USA | QVC
 http://206.212.244.63/141/index.m3u8
-#EXTINF:180,USA | QVC 2
+#EXTINF:-1 group-title="US CHANNELS" tvg-logo="",USA | QVC 2
 http://206.212.244.63/142/index.m3u8
-#EXTINF:177,USA | QVC 3
+#EXTINF:-1 group-title="US CHANNELS" tvg-logo="",USA | QVC 3
 http://206.212.244.63/143/index.m3u8
-#EXTINF:222,USA | REELZ
+#EXTINF:-1 group-title="US CHANNELS" tvg-logo="",USA | REELZ
 http://206.212.244.63/144/index.m3u8
-#EXTINF:180,USA | REVOLT
+#EXTINF:-1 group-title="US CHANNELS" tvg-logo="",USA | REVOLT
 http://206.212.244.63/145/index.m3u8
-#EXTINF:180,USA | RFD-TV
+#EXTINF:-1 group-title="US CHANNELS" tvg-logo="",USA | RFD-TV
 http://206.212.244.63/146/index.m3u8
-#EXTINF:180,USA | SCARES BY SHUDDER
+#EXTINF:-1 group-title="US CHANNELS" tvg-logo="",USA | SCARES BY SHUDDER
 http://206.212.244.63/147/index.m3u8
-#EXTINF:175,USA | SMITHSONIAN CHANNEL
+#EXTINF:-1 group-title="US CHANNELS" tvg-logo="",USA | SMITHSONIAN CHANNEL
 http://206.212.244.63/148/index.m3u8
-#EXTINF:150,USA | START TV
+#EXTINF:-1 group-title="US CHANNELS" tvg-logo="",USA | START TV
 http://206.212.244.63/150/index.m3u8
-#EXTINF:174,USA | SUNDANCE
+#EXTINF:-1 group-title="US CHANNELS" tvg-logo="",USA | SUNDANCE
 http://206.212.244.63/151/index.m3u8
-#EXTINF:176,USA | SYFY
+#EXTINF:-1 group-title="US CHANNELS" tvg-logo="",USA | SYFY
 http://206.212.244.63/152/index.m3u8
-#EXTINF:178,USA | TBS
+#EXTINF:-1 group-title="US CHANNELS" tvg-logo="",USA | TBS
 http://206.212.244.63/154/index.m3u8
-#EXTINF:176,USA | THE COWBOY CHANNEL
+#EXTINF:-1 group-title="US CHANNELS" tvg-logo="",USA | THE COWBOY CHANNEL
 http://206.212.244.63/155/index.m3u8
-#EXTINF:177,USA | THE GRIO (BNC)
+#EXTINF:-1 group-title="US CHANNELS" tvg-logo="",USA | THE GRIO (BNC)
 http://206.212.244.63/156/index.m3u8
-#EXTINF:180,USA | THE WORD NETWORK
+#EXTINF:-1 group-title="US CHANNELS" tvg-logo="",USA | THE WORD NETWORK
 http://206.212.244.63/158/index.m3u8
-#EXTINF:178,USA | TLC (EAST)
+#EXTINF:-1 group-title="US CHANNELS" tvg-logo="",USA | TLC (EAST)
 http://206.212.244.63/159/index.m3u8
-#EXTINF:172,USA | TNT
+#EXTINF:-1 group-title="US CHANNELS" tvg-logo="",USA | TNT
 http://206.212.244.63/161/index.m3u8
-#EXTINF:174,USA | TRAVEL CHANNEL
+#EXTINF:-1 group-title="US CHANNELS" tvg-logo="",USA | TRAVEL CHANNEL
 http://206.212.244.63/162/index.m3u8
-#EXTINF:175,USA | TruTV
+#EXTINF:-1 group-title="US CHANNELS" tvg-logo="",USA | TruTV
 http://206.212.244.63/163/index.m3u8
-#EXTINF:151,USA | TV LAND (EAST)
+#EXTINF:-1 group-title="US CHANNELS" tvg-logo="",USA | TV LAND (EAST)
 http://206.212.244.63/164/index.m3u8
-#EXTINF:180,USA | TV ONE
+#EXTINF:-1 group-title="US CHANNELS" tvg-logo="",USA | TV ONE
 http://206.212.244.63/166/index.m3u8
-#EXTINF:179,USA | USA NETWORK
+#EXTINF:-1 group-title="US CHANNELS" tvg-logo="",USA | USA NETWORK
 http://206.212.244.63/168/index.m3u8
-#EXTINF:173,USA | VH1
+#EXTINF:-1 group-title="US CHANNELS" tvg-logo="",USA | VH1
 http://206.212.244.63/169/index.m3u8
-#EXTINF:173,USA | VICE
+#EXTINF:-1 group-title="US CHANNELS" tvg-logo="",USA | VICE
 http://206.212.244.63/170/index.m3u8
-#EXTINF:178,USA | WE TV
+#EXTINF:-1 group-title="US CHANNELS" tvg-logo="",USA | WE TV
 http://206.212.244.63/172/index.m3u8
-#EXTINF:176,US DOC: NFL Network
+#EXTINF:-1 group-title="US CHANNELS" tvg-logo="",US DOC: NFL Network
 http://206.212.244.63/196/index.m3u8
-#EXTINF:176,USA Baby First
+#EXTINF:-1 group-title="US CHANNELS" tvg-logo="",USA Baby First
 http://206.212.244.63/639/index.m3u8
-#EXTINF:184,USA Baby TV
+#EXTINF:-1 group-title="US CHANNELS" tvg-logo="",USA Baby TV
 http://206.212.244.63/641/index.m3u8
-#EXTINF:172,USA BOOMERANG
+#EXTINF:-1 group-title="US CHANNELS" tvg-logo="",USA BOOMERANG
 http://206.212.244.63/642/index.m3u8
-#EXTINF:172,USA Cartoon Network UHD
+#EXTINF:-1 group-title="US CHANNELS" tvg-logo="",USA Cartoon Network UHD
 http://206.212.244.63/646/index.m3u8
-#EXTINF:169,USA Disney Channel East UHD
+#EXTINF:-1 group-title="US CHANNELS" tvg-logo="",USA Disney Channel East UHD
 http://206.212.244.63/650/index.m3u8
-#EXTINF:150,USA Disney Junior West
+#EXTINF:-1 group-title="US CHANNELS" tvg-logo="",USA Disney Junior West
 http://206.212.244.63/655/index.m3u8
-#EXTINF:150,USA Nickelodeon UHD
+#EXTINF:-1 group-title="US CHANNELS" tvg-logo="",USA Nickelodeon UHD
 http://206.212.244.63/666/index.m3u8
-#EXTINF:174,USA PBS Kids
+#EXTINF:-1 group-title="US CHANNELS" tvg-logo="",USA PBS Kids
 http://206.212.244.63/669/index.m3u8
-#EXTINF:0,Ch_672 [HTTP 200]
+#EXTINF:-1 group-title="US CHANNELS" tvg-logo="",Ch_672 [HTTP 200]
 http://206.212.244.63/672/index.m3u8
-#EXTINF:184,USA | ACCUWEATHER
+#EXTINF:-1 group-title="US CHANNELS" tvg-logo="",USA | ACCUWEATHER
 http://206.212.244.63/674/index.m3u8
-#EXTINF:174,USA | NEWSNATION
+#EXTINF:-1 group-title="US CHANNELS" tvg-logo="",USA | NEWSNATION
 http://206.212.244.63/712/index.m3u8
+#EXTINF:-1 group-title="US CHANNELS" tvg-logo="",USA | ENT_Family_es
+https://cdn.global.elektamedia.com/live/c7eds/ENT_Family/SA_LIVE_hls_enc/tracks-v1a1/mono.ts.m3u8
+
+
+
+
 
 #################################### ITALIAN CHANNELS ####################################
 #EXTINF:-1 group-title="ITALIAN CHANNELS" tvg-logo="",Rete 4
@@ -1127,124 +843,126 @@ https://py.dencreak.com/meta/17106.m3u8?token=taeut5.UGzQrSP_G3oE-XHa&
 https://py.dencreak.com/meta/17107.m3u8?token=taeut5.UGzQrSP_G3oE-XHa&
 #EXTINF:-1 group-title="ARABIC CHANNELS" tvg-logo="",Souria  tv
 https://stm.linkip.org/live/1345_.m3u8
-#EXTM3U
-#EXTINF:20,Kurdsat SD
+#EXTINF:-1 group-title="ARABIC CHANNELS" tvg-logo="",shara24
+https://live.saharamedias.net:3317/live/shara24live.m3u8
+#EXTINF:-1 group-title="ARABIC CHANNELS" tvg-logo="",Kurdsat SD
 http://185.9.2.18/chid_1/index.m3u8
-#EXTINF:20,Al Hayat
+#EXTINF:-1 group-title="ARABIC CHANNELS" tvg-logo="",Al Hayat
 http://185.9.2.18/chid_27/index.m3u8
-#EXTINF:23,Dubai International HD
+#EXTINF:-1 group-title="ARABIC CHANNELS" tvg-logo="",Dubai International HD
 http://185.9.2.18/chid_139/index.m3u8
-#EXTINF:22,AL SHARQIYA HD
+#EXTINF:-1 group-title="ARABIC CHANNELS" tvg-logo="",AL SHARQIYA HD
 http://185.9.2.18/chid_144/index.m3u8
-#EXTINF:21,AL Arabia HD
+#EXTINF:-1 group-title="ARABIC CHANNELS" tvg-logo="",AL Arabia HD
 http://185.9.2.18/chid_146/index.m3u8
-#EXTINF:21,Al Maghribia HD
+#EXTINF:-1 group-title="ARABIC CHANNELS" tvg-logo="",Al Maghribia HD
 http://185.9.2.18/chid_205/index.m3u8
-#EXTINF:20,2M Maroc
+#EXTINF:-1 group-title="ARABIC CHANNELS" tvg-logo="",2M Maroc
 http://185.9.2.18/chid_218/index.m3u8
-#EXTINF:21,ESC
+#EXTINF:-1 group-title="ARABIC CHANNELS" tvg-logo="",2M Maroc hd
+https://d2qh3gh0k5vp3v.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-n6pess5lwbghr/2M_ES.m3u8
+#EXTINF:-1 group-title="ARABIC CHANNELS" tvg-logo="",ESC
 http://185.9.2.18/chid_247/index.m3u8
-#EXTINF:21,Rotana Music
+#EXTINF:-1 group-title="ARABIC CHANNELS" tvg-logo="",Rotana Music
 http://185.9.2.18/chid_282/index.m3u8
-#EXTINF:20,Rotana Clip
+#EXTINF:-1 group-title="ARABIC CHANNELS" tvg-logo="",Rotana Clip
 http://185.9.2.18/chid_283/index.m3u8
-#EXTINF:20,Rotana Khalijia
+#EXTINF:-1 group-title="ARABIC CHANNELS" tvg-logo="",Rotana Khalijia
 http://185.9.2.18/chid_285/index.m3u8
-#EXTINF:20,Rotana Classic
+#EXTINF:-1 group-title="ARABIC CHANNELS" tvg-logo="",Rotana Classic
 http://185.9.2.18/chid_286/index.m3u8
-#EXTINF:21,Rotana Cinema EGY
+#EXTINF:-1 group-title="ARABIC CHANNELS" tvg-logo="",Rotana Cinema EGY
 http://185.9.2.18/chid_288/index.m3u8
-#EXTINF:20,Rotana Cinema KSA
+#EXTINF:-1 group-title="ARABIC CHANNELS" tvg-logo="",Rotana Cinema KSA
 http://185.9.2.18/chid_290/index.m3u8
-#EXTINF:26,Kurdmax HD
+#EXTINF:-1 group-title="ARABIC CHANNELS" tvg-logo="",Kurdmax HD
 http://185.9.2.18/chid_304/index.m3u8
-#EXTINF:22,OTV
+#EXTINF:-1 group-title="ARABIC CHANNELS" tvg-logo="",OTV
 http://185.9.2.18/chid_312/index.m3u8
-#EXTINF:22,LBC SAT
+#EXTINF:-1 group-title="ARABIC CHANNELS" tvg-logo="",LBC SAT
 http://185.9.2.18/chid_327/index.m3u8
-#EXTINF:21,Canal Algerie HD
+#EXTINF:-1 group-title="ARABIC CHANNELS" tvg-logo="",Canal Algerie HD
 http://185.9.2.18/chid_347/index.m3u8
-#EXTINF:21,Nile Drama
+#EXTINF:-1 group-title="ARABIC CHANNELS" tvg-logo="",Nile Drama
 http://185.9.2.18/chid_352/index.m3u8
-#EXTINF:21,Panorama Food
+#EXTINF:-1 group-title="ARABIC CHANNELS" tvg-logo="",Panorama Food
 http://185.9.2.18/chid_367/index.m3u8
-#EXTINF:20,SAMA TV
+#EXTINF:-1 group-title="ARABIC CHANNELS" tvg-logo="",SAMA TV
 http://185.9.2.18/chid_372/index.m3u8
-#EXTINF:22,MBC 2
+#EXTINF:-1 group-title="ARABIC CHANNELS" tvg-logo="",MBC 2
 http://185.9.2.18/chid_375/index.m3u8
-#EXTINF:20,MBC 3
+#EXTINF:-1 group-title="ARABIC CHANNELS" tvg-logo="",MBC 3
 http://185.9.2.18/chid_376/index.m3u8
-#EXTINF:24,MBC 4
+#EXTINF:-1 group-title="ARABIC CHANNELS" tvg-logo="",MBC 4
 http://185.9.2.18/chid_377/index.m3u8
-#EXTINF:20,MBC Action
+#EXTINF:-1 group-title="ARABIC CHANNELS" tvg-logo="",MBC Action
 http://185.9.2.18/chid_378/index.m3u8
-#EXTINF:23,MBC MAX
+#EXTINF:-1 group-title="ARABIC CHANNELS" tvg-logo="",MBC MAX
 http://185.9.2.18/chid_379/index.m3u8
-#EXTINF:23,MBC Drama
+#EXTINF:-1 group-title="ARABIC CHANNELS" tvg-logo="",MBC Drama
 http://185.9.2.18/chid_382/index.m3u8
-#EXTINF:24,MTV
+#EXTINF:-1 group-title="ARABIC CHANNELS" tvg-logo="",MTV
 http://185.9.2.18/chid_387/index.m3u8
-#EXTINF:24, Aljadid tv
+#EXTINF:-1 group-title="ARABIC CHANNELS" tvg-logo="", Aljadid tv
 http://185.9.2.18/chid_391/index.m3u8
-#EXTINF:22,Syria Satellite
+#EXTINF:-1 group-title="ARABIC CHANNELS" tvg-logo="",Syria Satellite
 http://185.9.2.18/chid_423/index.m3u8
-#EXTINF:22,Kirkuk TV HD
+#EXTINF:-1 group-title="ARABIC CHANNELS" tvg-logo="",Kirkuk TV HD
 http://185.9.2.18/chid_516/index.m3u8
-#EXTINF:23,LBC Inter
+#EXTINF:-1 group-title="ARABIC CHANNELS" tvg-logo="",LBC Inter
 http://185.9.2.18/chid_521/index.m3u8
-#EXTINF:21,AD Nat Geo HD
+#EXTINF:-1 group-title="ARABIC CHANNELS" tvg-logo="",AD Nat Geo HD
 http://185.9.2.18/chid_597/index.m3u8
-#EXTINF:21,ALhayat
+#EXTINF:-1 group-title="ARABIC CHANNELS" tvg-logo="",ALhayat
 http://185.9.2.18/chid_659/index.m3u8
-#EXTINF:24,CBC Drama
+#EXTINF:-1 group-title="ARABIC CHANNELS" tvg-logo="",CBC Drama
 http://185.9.2.18/chid_680/index.m3u8
-#EXTINF:22,Panorama Film
+#EXTINF:-1 group-title="ARABIC CHANNELS" tvg-logo="",Panorama Film
 http://185.9.2.18/chid_706/index.m3u8
-#EXTINF:21,Elhiwar Ettounsi
+#EXTINF:-1 group-title="ARABIC CHANNELS" tvg-logo="",Elhiwar Ettounsi
 http://185.9.2.18/chid_741/index.m3u8
-#EXTINF:20,MBC MASR
+#EXTINF:-1 group-title="ARABIC CHANNELS" tvg-logo="",MBC MASR
 http://185.9.2.18/chid_742/index.m3u8
-#EXTINF:21,MBC Masr 2
+#EXTINF:-1 group-title="ARABIC CHANNELS" tvg-logo="",MBC Masr 2
 http://185.9.2.18/chid_743/index.m3u8
-#EXTINF:22,MBC Bollywood
+#EXTINF:-1 group-title="ARABIC CHANNELS" tvg-logo="",MBC Bollywood
 http://185.9.2.18/chid_845/index.m3u8
-#EXTINF:23,IRINN
+#EXTINF:-1 group-title="ARABIC CHANNELS" tvg-logo="",IRINN
 http://185.9.2.18/chid_926/index.m3u8
-#EXTINF:22,Iqraa
+#EXTINF:-1 group-title="ARABIC CHANNELS" tvg-logo="",Iqraa
 http://185.9.2.18/chid_1126/index.m3u8
-#EXTINF:21,Syria Drama
+#EXTINF:-1 group-title="ARABIC CHANNELS" tvg-logo="",Syria Drama
 http://185.9.2.18/chid_1235/index.m3u8
-#EXTINF:21,Ennahar TV Algerie
+#EXTINF:-1 group-title="ARABIC CHANNELS" tvg-logo="",Ennahar TV Algerie
 http://185.9.2.18/chid_1289/index.m3u8
-#EXTINF:21,SADAF TV
+#EXTINF:-1 group-title="ARABIC CHANNELS" tvg-logo="",SADAF TV
 http://185.9.2.18/chid_1653/index.m3u8
-#EXTINF:20,Kurd News
+#EXTINF:-1 group-title="ARABIC CHANNELS" tvg-logo="",Kurd News
 http://185.9.2.18/chid_1674/index.m3u8
-#EXTINF:21,Rotana Drama
+#EXTINF:-1 group-title="ARABIC CHANNELS" tvg-logo="",Rotana Drama
 http://185.9.2.18/chid_2179/index.m3u8
-#EXTINF:20,dmc
+#EXTINF:-1 group-title="ARABIC CHANNELS" tvg-logo="",dmc
 http://185.9.2.18/chid_3738/index.m3u8
-#EXTINF:20,dmc drama
+#EXTINF:-1 group-title="ARABIC CHANNELS" tvg-logo="",dmc drama
 http://185.9.2.18/chid_3741/index.m3u8
-#EXTINF:20,ON Drama
+#EXTINF:-1 group-title="ARABIC CHANNELS" tvg-logo="",ON Drama
 http://185.9.2.18/chid_3785/index.m3u8
-#EXTINF:21,MBC 5
+#EXTINF:-1 group-title="ARABIC CHANNELS" tvg-logo="",MBC 5
 http://185.9.2.18/chid_3788/index.m3u8
-#EXTINF:21,Rotana Comedy HD
+#EXTINF:-1 group-title="ARABIC CHANNELS" tvg-logo="",Rotana Comedy HD
 http://185.9.2.18/chid_5224/index.m3u8
-#EXTINF:17,AlHayat HD
+#EXTINF:-1 group-title="ARABIC CHANNELS" tvg-logo="",AlHayat HD
 http://185.9.2.18/chid_5275/index.m3u8
-#EXTINF:22,AVA TV
+#EXTINF:-1 group-title="ARABIC CHANNELS" tvg-logo="",AVA TV
 http://185.9.2.18/chid_5759/index.m3u8
-#EXTINF:22,Anis tv
+#EXTINF:-1 group-title="ARABIC CHANNELS" tvg-logo="",Anis tv
 http://185.9.2.18/chid_6213/index.m3u8
-#EXTINF:23,Egyptian TV HD
+#EXTINF:-1 group-title="ARABIC CHANNELS" tvg-logo="",Egyptian TV HD
 http://185.9.2.18/chid_6300/index.m3u8
-#EXTINF:21,LTV
+#EXTINF:-1 group-title="ARABIC CHANNELS" tvg-logo="",LTV
 http://185.9.2.18/chid_6308/index.m3u8
-
-
-
+#EXTINF:-1 group-title="ARABIC CHANNELS" tvg-logo="",Comedy rt HD
+https://fastly.live.brightcove.com/1843594119353354904/eu-west-1/6057955906001/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJob3N0IjoiZGd4MWQ4LmVncmVzcy5mZDJ2eHIiLCJhY2NvdW50X2lkIjoiNjA1Nzk1NTkwNjAwMSIsImVobiI6ImZhc3RseS5saXZlLmJyaWdodGNvdmUuY29tIiwiaXNzIjoiYmxpdmUtcGxheWJhY2stc291cmNlLWFwaSIsInN1YiI6InBhdGhtYXB0b2tlbiIsImF1ZCI6WyI2MDU3OTU1OTA2MDAxIl0sImp0aSI6IjE4NDM1OTQxMTkzNTMzNTQ5MDQifQ.Xk0VSYct-eSxskkz5c8Fwe3futJsjM4isoi-c66M3h8/playlist-hls.m3u8
 
 
 
@@ -1295,7 +1013,19 @@ https://viamotionhsi.netplus.ch/live/eds/itv1/browser-dash/itv1.mpd
 https://viamotionhsi.netplus.ch/live/eds/bbc2/browser-dash/bbc2.mpd
 #EXTINF:-1 group-title="UK CHANNELS" tvg-id="" tvg-logo="",BBC3 CBBC
 https://viamotionhsi.netplus.ch/live/eds/bbc3cbbc/browser-dash/bbc3cbbc.mpd
+
 ####################### DE #############################
+#EXTINF:-1 group-title="DE AT CH" tvg-id="" tvg-logo="",arte
+https://dash4.antik.sk/live/test_arte_avc_25p/playlist.m3u8
+#EXTINF:-1 group-title="DE AT CH" tvg-id="" tvg-logo="",ectv
+https://dash2.antik.sk/live/test_ectv_hd_1200/playlist.m3u8
+#EXTINF:-1 group-title="DE AT CH" tvg-id="" tvg-logo="",sixx
+https://dash4.antik.sk/live/test_sixx_tizen/playlist.m3u8
+#EXTINF:-1 group-title="DE AT CH" tvg-id="" tvg-logo="",kika hd
+https://dash4.antik.sk/live/test_kika_tizen/playlist.m3u8
+#EXTINF:-1 group-title="DE AT CH" tvg-id="" tvg-logo="",zdf hd
+https://dash4.antik.sk/live/test_zdf_avc_25p/playlist.m3u8
+
 #EXTINF:-1 group-title="DE AT CH" tvg-id="" tvg-logo="",RTL2
 https://viamotionhsi.netplus.ch/live/eds/rtl2/browser-dash/rtl2.mpd
 #EXTINF:-1 group-title="DE AT CH" tvg-id="" tvg-logo="",Super RTL
@@ -1550,7 +1280,18 @@ http://162.247.154.154/437/index.m3u8
 http://162.247.154.154/438/index.m3u8
 #EXTINF:-1 group-title="SPORTS CHANNELS" tvg-logo="",MATCH_TV
 http://hls127.freeott.top:8080/MATCH_TV/mono.m3u8
-
+#EXTINF:-1 group-title="SPORTS CHANNELS" tvg-logo="",fifa_TV
+https://a62dad94.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/UmFrdXRlblRWLWV1X0ZJRkFQbHVzRW5nbGlzaF9ITFM/playlist.m3u8
+#EXTINF:-1 group-title="SPORTS CHANNELS" tvg-logo="",galaxy_4
+https://budapest-cache-1.antik.sk/live/test_galaxy_4_atk_1200/playlist.m3u8
+#EXTINF:-1 group-title="SPORTS CHANNELS" tvg-logo="",m2_hun
+http://88.212.15.19/live/m2_hun/index.m3u8
+#EXTINF:-1 group-title="SPORTS CHANNELS" tvg-logo="",fifa_TV
+http://znty.dyndns.org:5010/hls/stv1.m3u8
+#EXTINF:-1 group-title="SPORTS CHANNELS" tvg-logo="",dazn 5
+http://znty.dyndns.org:5010/hls/eleven5.m3u8
+#EXTINF:-1 group-title="SPORTS CHANNELS" tvg-logo="",sport_2 porto
+http://88.212.15.19/live/test_sport_2/playlist.m3u8
 
 
 
@@ -1574,5 +1315,3 @@ https://py.dencreak.com/meta/16962.m3u8?token=taeut5.UGzQrSP_G3oE-XHa&
 #EXTINF:-1 group-title="Edu TV" tvg-logo="",falastiniya tv
 https://py.dencreak.com/meta/17138.m3u8?token=taeut5.UGzQrSP_G3oE-XHa&
 #################################### Movies & Series ####################################
-#EXTINF:-1 group-title="Movies & Series" tvg-logo="",السادة الافاضل
-https://a1v.1vid.online/hls2/02/00016/gpfag736auuh_n/index-v1-a1.m3u8?t=Hw18fTQueVhsOqyCnczAbGmEx-eVGLHPcOH7mQw4Zmg&s=1770561452&e=7200&f=81886&i=197.200&sp=2048
