@@ -1,5 +1,82 @@
 #EXTM3U
-
+#EXTINF:-1 group-title="FRENCH CHANNELS" tvg-logo="",TF1
+#EXTVLCOPT:network-caching=1000
+http://185.178.185.253:9981/stream/channelid/1454788645?ticket=DD0C39BF9D9392797692925271F517EF20493917&profile=pass
+#EXTINF:-1 group-title="FRENCH CHANNELS" tvg-logo="",France 2
+#EXTVLCOPT:network-caching=1000
+http://185.178.185.253:9981/stream/channelid/2090736087?ticket=A5DAD2F7F006FB7A37611DBA2675056B53800111&profile=pass
+#EXTINF:-1 group-title="FRENCH CHANNELS" tvg-logo="",F3 Auvergne
+#EXTVLCOPT:network-caching=1000
+http://185.178.185.253:9981/stream/channelid/1090629721?ticket=F8B9DF907B1E5985BCF0C5EC9E5AFE315FE0A1EF&profile=pass
+#EXTINF:-1 group-title="FRENCH CHANNELS" tvg-logo="",France 4
+#EXTVLCOPT:network-caching=1000
+http://185.178.185.253:9981/stream/channelid/2034887181?ticket=1986258049F414F9E3B11EE12F65E0D5F05DA135&profile=pass
+#EXTINF:-1 group-title="FRENCH CHANNELS" tvg-logo="",France 5
+#EXTVLCOPT:network-caching=1000
+http://185.178.185.253:9981/stream/channelid/215576745?ticket=A0609A9A853980093720CAEBBA44F6F01E1B5C8C&profile=pass
+#EXTINF:-1 group-title="FRENCH CHANNELS" tvg-logo="",M6
+#EXTVLCOPT:network-caching=1000
+http://185.178.185.253:9981/stream/channelid/1201056655?ticket=0EC3C7DC2A6A6A50F85280A42A1756898ED79ED5&profile=pass
+#EXTINF:-1 group-title="FRENCH CHANNELS" tvg-logo="",Arte
+#EXTVLCOPT:network-caching=1000
+http://185.178.185.253:9981/stream/channelid/2132659143?ticket=5F12CF49857445094C32CBA48964793748901DDC&profile=pass
+#EXTINF:-1 group-title="FRENCH CHANNELS" tvg-logo="",LCP
+#EXTVLCOPT:network-caching=1000
+http://185.178.185.253:9981/stream/channelid/19155339?ticket=49E9B679D2483152A7C6E7630A78EBAE635A018C&profile=pass
+#EXTINF:-1 group-title="FRENCH CHANNELS" tvg-logo="",W9
+#EXTVLCOPT:network-caching=1000
+http://185.178.185.253:9981/stream/channelid/169772675?ticket=563DA5E3E3C065AAC91437FCAD39D641553FF488&profile=pass
+#EXTINF:-1 group-title="FRENCH CHANNELS" tvg-logo="",TMC
+#EXTVLCOPT:network-caching=1000
+http://185.178.185.253:9981/stream/channelid/103609884?ticket=4B0CAE162175920218A2AE4F2EABCE206B2654A1&profile=pass
+#EXTINF:-1 group-title="FRENCH CHANNELS" tvg-logo="",TFX
+#EXTVLCOPT:network-caching=1000
+http://185.178.185.253:9981/stream/channelid/1486665099?ticket=EF7CC5291CB2A6778D1A3F77057AC3CD39DDB3BD&profile=pass
+#EXTINF:-1 group-title="FRENCH CHANNELS" tvg-logo="",Gulli
+#EXTVLCOPT:network-caching=1000
+http://185.178.185.253:9981/stream/channelid/594162063?ticket=78E8D94B9CB2228A3C78AF2363532E96C5DE1770&profile=pass
+#EXTINF:-1 group-title="FRENCH CHANNELS" tvg-logo="",BFM TV
+#EXTVLCOPT:network-caching=1000
+http://185.178.185.253:9981/stream/channelid/1291230078?ticket=0C6851D55DCDD225BB3848DCC5EBF153F8E54187&profile=pass
+#EXTINF:-1 group-title="FRENCH CHANNELS" tvg-logo="",CNEWS
+#EXTVLCOPT:network-caching=1000
+http://185.178.185.253:9981/stream/channelid/1341853738?ticket=243B30BEA4576A2D5E74C29304507C9261CB2406&profile=pass
+#EXTINF:-1 group-title="FRENCH CHANNELS" tvg-logo="",LCI
+#EXTVLCOPT:network-caching=1000
+http://185.178.185.253:9981/stream/channelid/911606870?ticket=34DB0CEEA88D59CB9403A88EE9270C9811AFC879&profile=pass
+#EXTINF:-1 group-title="FRENCH CHANNELS" tvg-logo="",franceinfo:
+#EXTVLCOPT:network-caching=1000
+http://185.178.185.253:9981/stream/channelid/1203667651?ticket=FD4AAF770E3DFEC2F76BDD92282A364ABEB09516&profile=pass
+#EXTINF:-1 group-title="FRENCH CHANNELS" tvg-logo="",CSTAR
+#EXTVLCOPT:network-caching=1000
+http://185.178.185.253:9981/stream/channelid/2001809446?ticket=4F8EE0973408A493692160F5ED098BB935C31A77&profile=pass
+#EXTINF:-1 group-title="FRENCH CHANNELS" tvg-logo="",T18
+#EXTVLCOPT:network-caching=1000
+http://185.178.185.253:9981/stream/channelid/1998551549?ticket=CE407C272404E383CD2F96D4A246B59842C58ECE&profile=pass
+#EXTINF:-1 group-title="FRENCH CHANNELS" tvg-logo="",NOVO19
+#EXTVLCOPT:network-caching=1000
+http://185.178.185.253:9981/stream/channelid/1756870719?ticket=69430F16FC561B209AECBD60425FC66345EA43C6&profile=pass
+#EXTINF:-1 group-title="FRENCH CHANNELS" tvg-logo="",TF1 Séries Films
+#EXTVLCOPT:network-caching=1000
+http://185.178.185.253:9981/stream/channelid/1462721405?ticket=DCEF8D9A2E27A08F3FD886C938F9E32ECCCDCAB4&profile=pass
+#EXTINF:-1 group-title="FRENCH CHANNELS" tvg-logo="",L'Equipe
+#EXTVLCOPT:network-caching=1000
+http://185.178.185.253:9981/stream/channelid/472420843?ticket=44FEAD1AD68056F5A10BBBAC6E80AE693D71ABF4&profile=pass
+#EXTINF:-1 group-title="FRENCH CHANNELS" tvg-logo="",6ter
+#EXTVLCOPT:network-caching=1000
+http://185.178.185.253:9981/stream/channelid/1602643607?ticket=34E66D3797ED79A5C84D9286C6A7CEA3884CF054&profile=pass
+#EXTINF:-1 group-title="FRENCH CHANNELS" tvg-logo="",RMC STORY
+#EXTVLCOPT:network-caching=1000
+http://185.178.185.253:9981/stream/channelid/329127842?ticket=D1C0F02BCB85479F355078B513F0FB5CD51E3031&profile=pass
+#EXTINF:-1 group-title="FRENCH CHANNELS" tvg-logo="",RMC Découverte
+#EXTVLCOPT:network-caching=1000
+http://185.178.185.253:9981/stream/channelid/367195063?ticket=FDE4ADD88F8F80EB58B192322BFE748298D45EC9&profile=pass
+#EXTINF:-1 group-title="FRENCH CHANNELS" tvg-logo="",RMC LIFE
+#EXTVLCOPT:network-caching=1000
+http://185.178.185.253:9981/stream/channelid/999217876?ticket=31C8721A88B2A5CA3D7574CFE05D70CDA9503E67&profile=pass
+#EXTINF:-1 group-title="FRENCH CHANNELS" tvg-logo="",Arte.Tv
+#EXTVLCOPT:network-caching=1000
+http://185.178.185.253:9981/stream/channelid/747538167?ticket=109A3654A0A77FBD0263125EF89708206D282AFF&profile=pass
 #EXTINF:-1 group-title="FRENCH CHANNELS" tvg-logo="",TF1
 http://151.80.18.177:86/TF1_HD/index.m3u8
 
@@ -194,6 +271,18 @@ https://ebsonair.ebs.co.kr/plus3familypc/familypc1m/playlist.m3u8
 https://televisa-televisa-1-en.samsung.wurl.tv/playlist.m3u8
 https://stream-live.lrt.lt/lituanica/master.m3u8
 https://hls.savoir.media/live/stream.m3u8
+http://99.27.51.147:8080/CineFrisson/index.m3u8
+http://99.27.51.147/CineClassic/index.m3u8
+https://d15aro46bnpfm8.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-fqkqiax1078up/RMC_Story_FR.m3u8
+http://line.watchtivo-8k.com:80/play/live.php?mac=00:1A:79:3F:0C:96&stream=2442&extension=ts&play_token=EIEOa7wmkT
+http://151.80.18.177:86/TF1_HD/index.m3u8
+http://84.17.50.102/tf1/index.m3u8
+http://99.27.51.147:8080/Gulli/index.m3u8
+http://99.27.51.147:8080/M6/index.m3u8
+
+
+
+
 
 #################################### KIDS CHANNELS ####################################
 #EXTINF:-1 group-title="KIDS CHANNELS" tvg-logo="",TVO Kids
