@@ -77,8 +77,11 @@ http://185.178.185.253:9981/stream/channelid/999217876?ticket=31C8721A88B2A5CA3D
 #EXTINF:-1 group-title="FRENCH CHANNELS" tvg-logo="",Arte.Tv
 #EXTVLCOPT:network-caching=1000
 http://185.178.185.253:9981/stream/channelid/747538167?ticket=109A3654A0A77FBD0263125EF89708206D282AFF&profile=pass
-#EXTINF:-1 group-title="FRENCH CHANNELS" tvg-logo="",TF1
+#EXTINF:-1 group-title="FRENCH CHANNELS" tvg-logo="",TF1_HD
 http://151.80.18.177:86/TF1_HD/index.m3u8
+#EXTINF:-1 group-title="FRENCH CHANNELS" tvg-logo="",TF-un-serie
+http://37.187.138.41:80/TF-un-serie/index.m3u8
+
 
 #EXTINF:-1 group-title="FRENCH CHANNELS" tvg-logo="",France 2
 http://185.178.185.253:9981/stream/channelid/1434648084?ticket=C6D19A3663D1B9F2F4162B03980D2845A60FA970&profile=pass
