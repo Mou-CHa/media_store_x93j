@@ -81,8 +81,78 @@ http://185.178.185.253:9981/stream/channelid/747538167?ticket=109A3654A0A77FBD02
 http://151.80.18.177:86/TF1_HD/index.m3u8
 #EXTINF:-1 group-title="FRENCH CHANNELS" tvg-logo="",TF-un-serie
 http://37.187.138.41:80/TF-un-serie/index.m3u8
+#EXTINF:-1 group-title="FRENCH CHANNELS" tvg-logo="",Cherie25
+http://212.102.60.80:80/Cherie25/playlist.m3u8
+#EXTINF:-1 group-title="FRENCH CHANNELS" tvg-logo="",France 2 HD
+http://151.80.18.177:86/France_2_HD/index.m3u8
+#EXTINF:-1 group-title="FRENCH CHANNELS" tvg-logo="",France 3 HD
+http://151.80.18.177:86/France_3_HD/index.m3u8
+#EXTINF:-1 group-title="FRENCH CHANNELS" tvg-logo="",France 4 HD
+http://151.80.18.177:86/France_4_HD/index.m3u8
+#EXTINF:-1 group-title="FRENCH CHANNELS" tvg-logo="",France 5 HD
+http://151.80.18.177:86/France_5_HD/index.m3u8
+#EXTINF:-1 group-title="FRENCH CHANNELS" tvg-logo="",Canal+ HD
+http://151.80.18.177:86/Canal+_HD/index.m3u8
+#EXTINF:-1 group-title="FRENCH CHANNELS" tvg-logo="",Canal+ Cinema HD
+http://151.80.18.177:86/Canal+_cinema_HD/index.m3u8
+#EXTINF:-1 group-title="FRENCH CHANNELS" tvg-logo="",Comedie+ HD
+http://151.80.18.177:86/Comedie+_HD/index.m3u8
+#EXTINF:-1 group-title="FRENCH CHANNELS" tvg-logo="",ARTE HD
+http://151.80.18.177:86/ARTE_HD/index.m3u8
+#EXTINF:-1 group-title="FRENCH CHANNELS" tvg-logo="",Paris Premiere HD
+http://151.80.18.177:86/Paris_Premiere_HD/index.m3u8
+#EXTINF:-1 group-title="FRENCH CHANNELS" tvg-logo="",AB1 HD
+http://151.80.18.177:86/AB1/index.m3u8
+#EXTINF:-1 group-title="FRENCH CHANNELS" tvg-logo="",RTL 9 HD
+http://151.80.18.177:86/RTL9/index.m3u8
+#EXTINF:-1 group-title="FRENCH CHANNELS" tvg-logo="",TF1 HD
+http://151.80.18.177:86/TF1_HD/index.m3u8
+#EXTINF:-1 group-title="FRENCH CHANNELS" tvg-logo="",Teva HD
+http://151.80.18.177:86/Teva_HD/index.m3u8
+#EXTINF:-1 group-title="FRENCH CHANNELS" tvg-logo="",National Geo HD
+http://151.80.18.177:86/National_Geo_HD/index.m3u8
+#EXTINF:-1 group-title="FRENCH CHANNELS" tvg-logo="",Histoire HD
+http://151.80.18.177:86/Histoire/index.m3u8
+#EXTINF:-1 group-title="FRENCH CHANNELS" tvg-logo="",Discovery HD
+http://151.80.18.177:86/Discovery_HD/index.m3u8
+#EXTINF:-1 group-title="FRENCH CHANNELS" tvg-logo="",-0.RMC DECOUVERDE
+http://151.80.18.177:86/RMC_Decouverte_HD/index.m3u8
+#EXTINF:-1 group-title="FRENCH CHANNELS" tvg-logo="",M6 HD
+http://151.80.18.177:86/M6_HD/index.m3u8
+#EXTINF:-1 group-title="FRENCH CHANNELS" tvg-logo="",W9 HD
+http://151.80.18.177:86/W9_HD/index.m3u8
+#EXTINF:-1 group-title="FRENCH CHANNELS" tvg-logo="",NRJ_12 HD
+http://151.80.18.177:86/NRJ_12_HD/index.m3u8
+#EXTINF:-1 group-title="FRENCH CHANNELS" tvg-logo="",TRACE URBAN
+http://151.80.18.177:86/Trace_Urban_HD/index.m3u8
+#EXTINF:-1 group-title="FRENCH CHANNELS" tvg-logo="",D17 CSTAR HD
+http://151.80.18.177:86/D17_HD/index.m3u8
+#EXTINF:-1 group-title="FRENCH CHANNELS" tvg-logo="",CANAL+ Sport
+http://151.80.18.177:86/Canal+_sport_HD/index.m3u8
+#EXTINF:-1 group-title="FRENCH CHANNELS" tvg-logo="",GOLF+
+http://151.80.18.177:86/GOLF+_HD/index.m3u8
+#EXTINF:-1 group-title="FRENCH CHANNELS" tvg-logo="",Euro Sport HD
+http://151.80.18.177:86/Eurosport_HD/index.m3u8
+#EXTINF:-1 group-title="FRENCH CHANNELS" tvg-logo="",Euro Sport 2 HD
+http://151.80.18.177:86/Eurosport_2_HD/index.m3u8
+#EXTINF:-1 group-title="FRENCH CHANNELS" tvg-logo="",Disney HD
+http://151.80.18.177:86/Disney_Channel_HD/index.m3u8
+#EXTINF:-1 group-title="FRENCH CHANNELS" tvg-logo="",Tiji HD
+http://151.80.18.177:86/Tiji_HD/index.m3u8
+#EXTINF:-1 group-title="FRENCH CHANNELS" tvg-logo="",LCI HD
+http://151.80.18.177:86/LCI_HD/index.m3u8
+#EXTINF:-1 group-title="FRENCH CHANNELS" tvg-logo="",Canal_J
+http://151.80.18.177:86/Canal_J_HD/index.m3u8
+#EXTINF:-1 group-title="FRENCH CHANNELS" tvg-logo="",Teletoon+_HD
+http://151.80.18.177:86/Teletoon+_HD/index.m3u8
+#EXTINF:-1 group-title="FRENCH CHANNELS" tvg-logo="",Piwi+_HD
+http://151.80.18.177:86/Piwi+_HD/index.m3u8
+#EXTINF:-1 group-title="FRENCH CHANNELS" tvg-logo="",Ushuaia+_HD
+http://151.80.18.177:86/Ushuaia+_HD/index.m3u8
 
 
+#EXTINF:-1 group-title="FRENCH CHANNELS" tvg-logo="",Diema
+http://78.108.251.7/Diema/index.m3u8
 #EXTINF:-1 group-title="FRENCH CHANNELS" tvg-logo="",France 2
 http://185.178.185.253:9981/stream/channelid/1434648084?ticket=C6D19A3663D1B9F2F4162B03980D2845A60FA970&profile=pass
 
@@ -353,7 +423,7 @@ https://dce3793146fef017.mediapackage.us-west-2.amazonaws.com/out/v1/55cdf73af78
 https://py.dencreak.com/meta/17315.m3u8?token=taeut5.UGzQrSP_G3oE-XHa&
 
 
-#################################### EDOU ####################################
+#################################### EDU ####################################
 #EXTINF:-1 group-title="EDUCATION" tvg-logo="",ENGLISH CLUB HD
 http://cdn1.live-tv.od.ua:8081/mobileenglishclub/eclub-abr/eclub/720-p/playlist.m3u8
 
