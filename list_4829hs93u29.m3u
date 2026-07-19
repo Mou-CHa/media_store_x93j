@@ -352,6 +352,7 @@ http://151.80.18.177:86/TF1_HD/index.m3u8
 http://84.17.50.102/tf1/index.m3u8
 http://99.27.51.147:8080/Gulli/index.m3u8
 http://99.27.51.147:8080/M6/index.m3u8
+https://edge11.vedge.infomaniak.com/livecast/lfmhd/master.m3u8
 
 
 
@@ -419,8 +420,10 @@ https://rpn3.bozztv.com/dvrfl07/ushba-t6/index.m3u8
 https://amg02757-amg02757c3-rakuten-de-6135.playouts.now.amagi.tv/playlist/amg02757-loolookids-llkdefast-rakutende/playlist.m3u8
 #EXTINF:-1 group-title="KIDS CHANNELS" tvg-logo="",pbs moutain
 https://dce3793146fef017.mediapackage.us-west-2.amazonaws.com/out/v1/55cdf73af7894775ba6de8f57482b66a/CMAF_HLS/index.m3u8
-#EXTINF:-1 group-title="KIDS CHANNELS" tvg-logo="",baby en tv
-https://py.dencreak.com/meta/17315.m3u8?token=taeut5.UGzQrSP_G3oE-XHa&
+#EXTINF:-1 group-title="KIDS CHANNELS" tvg-logo="",kartoon tv
+https://lightning-fnf-samsungaus.amagi.tv/playlist.m3u8
+#EXTINF:-1 group-title="KIDS CHANNELS" tvg-logo="",ebs kids tv
+https://ebsonair.ebs.co.kr/ebsufamilypc/familypc1m/chunklist.m3u8
 
 
 #################################### EDU ####################################
@@ -434,7 +437,7 @@ http://cdn1.live-tv.od.ua:8081/mobileenglishclub/eclub-abr/eclub/720-p/playlist.
 #EXTINF:-1 group-title="DOCUMENTARY" tvg-logo="",Love Nature
 https://aegis-cloudfront-1.tubi.video/6d6d0f24-8445-4b4c-bdf6-44f9e38beaa4/playlist.m3u8
 #EXTINF:-1 group-title="DOCUMENTARY" tvg-logo="",Love Nature 4k
-https://pb-ehs1glsha1juy.akamaized.net/Love_Nature_4Kp720.m3u8
+https://pb-ehs1glsha1juy.akamaized.net/Love_Nature_4K.m3u8
 
 #EXTINF:-1 group-title="DOCUMENTARY" tvg-logo="",NATURE TIME US
 https://bamusa-naturetime-emea-eng-rakuten.amagi.tv/playlist.m3u8
@@ -784,14 +787,21 @@ http://206.212.244.63/674/index.m3u8
 http://206.212.244.63/712/index.m3u8
 #EXTINF:-1 group-title="US CHANNELS" tvg-logo="",USA | ENT_Family_es
 https://cdn.global.elektamedia.com/live/c7eds/ENT_Family/SA_LIVE_hls_enc/tracks-v1a1/mono.ts.m3u8
-
-
-
+#EXTINF:-1 group-title="US CHANNELS" tvg-logo="",USA | tv en
+https://2-fss-2.streamhoster.com/pl_120/206858-4412962-1/playlist.m3u8
+#EXTINF:-1 group-title="US CHANNELS" tvg-logo="",USA | ion tv en
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01438-ewscrippscompan-ionplus-tablo/playlist.m3u8
+#EXTINF:-1 group-title="US CHANNELS" tvg-logo="",USA |mrbean
+https://amg00627-amg00627c28-rakuten-uk-3984.playouts.now.amagi.tv/playlist/amg00627-banijayfast-mrbeanukcc-rakutenuk/playlist.m3u8
+#EXTINF:-1 group-title="US CHANNELS" tvg-logo="",USA |roku
+https://sci-fi-rakuten-tv-uk.fast.rakuten.tv/v1/manifest/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6241/2633b8e1-37ed-4477-9e50-d6b4f489d363/4.m3u8
+#EXTINF:-1 group-title="US CHANNELS" tvg-logo="",HALLMARK MOVIES MYSTERIES xmo
+https://dbrb49pjoymg4.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod_default_xumo-ams-aws/master.m3u8?ads.xumo_channelId=99991709
 
 
 #################################### ITALIAN CHANNELS ####################################
-#EXTINF:-1 group-title="ITALIAN CHANNELS" tvg-logo="",Rete 4
-http://213.3.8.156:4022/udp/224.100.2.1:1234
+#EXTINF:-1 group-title="ITALIAN CHANNELS" tvg-logo="",RAI1
+https://ilglobotv-live.akamaized.net/channels/RAI1/Live.m3u8
 #EXTINF:-1 group-title="ITALIAN CHANNELS" tvg-logo="",Canale 5
 http://213.3.8.156:4022/udp/224.100.2.2:1234
 #EXTINF:-1 group-title="ITALIAN CHANNELS" tvg-logo="",Italia 1
@@ -885,8 +895,7 @@ https://live.ctbperth.net.au/hls/0/stream.m3u8
 https://halalondon-live.ercdn.net/halalondon/halalondon_1080p.m3u8
 #EXTINF:-1 group-title="ARABIC CHANNELS" tvg-logo="",Al Manar
 http://edge.fastpublish.me/live/index.m3u8
-#EXTINF:-1 group-title="ARABIC CHANNELS" tvg-logo="",Asharq Discovery
-http://svs.itworkscdn.net/asharqdiscoverylive/asharqd.smil/playlist_dvr.m3u8
+
 #EXTINF:-1 group-title="ARABIC CHANNELS" tvg-logo="",Fujairah TV
 https://live.kwikmotion.com/fujairahlive/fujairah.smil/playlist.m3u8
 #EXTINF:-1 group-title="ARABIC CHANNELS" tvg-logo="",Thikrayat Sa TV
@@ -917,92 +926,16 @@ https://viamotionhsi.netplus.ch/live/eds/2mmaroc/browser-dash/2mmaroc.mpd
 https://live.presstv.ir/hls/ifilmar_4_482/index.m3u8
 #EXTINF:-1 group-title="ARABIC CHANNELS" tvg-id="" tvg-logo="",ifilm en
 https://live.presstv.ir/hls/ifilmen_4_482/index.m3u8
-#EXTINF:-1 group-title="ARABIC CHANNELS" tvg-id="" tvg-logo="",abudhabi_tv
-https://admn-live-cdn-lb.starzplayarabia.com/out/v1/admn_tv_enc/abudhabi_tv/abudhabi_tv_hls_nd/index.m3u8
-#EXTINF:-1 group-title="ARABIC CHANNELS" tvg-id="" tvg-logo="",Ajman tv
-https://cdn1.logichost.in/ajmantv/live/chunklist_w198675558.m3u8
-#EXTINF:-1 group-title="ARABIC CHANNELS" tvg-id="" tvg-logo="", Dubai zaman tv
-https://dmi-live-a.akamaized.net/Content/Channel/dubaizaman/DASH/master.mpd 
-#EXTINF:-1 group-title="ARABIC CHANNELS" tvg-id="" tvg-logo="", Rotana Comedy tv
-http://185.9.2.18/chid_5224/mono.m3u8
-#EXTINF:-1 group-title="ARABIC CHANNELS" tvg-logo="",TV7 ELMAARIFA
-http://185.234.111.64:8000/play/a02m
-#EXTINF:-1 group-title="ARABIC CHANNELS" tvg-logo="",Thikrayat HD
-https://py.dencreak.com/meta/16896.m3u8?token=taeut5.UGzQrSP_G3oE-XHa&
-#EXTINF:-1 group-title="ARABIC CHANNELS" tvg-logo="",aflam HD
-https://shls-live-enc.edgenextcdn.net/out/v1/0044dd4b001a466c941ad77b04a574a2/index_10.m3u8
+
 #EXTINF:-1 group-title="ARABIC CHANNELS" tvg-logo="", Tele Liban
 https://cdn.catiacast.video/abr/ed8f807e2548db4507d2a6f4ba0c4a06/playlist.m3u8
-#EXTINF:-1 group-title="ARABIC CHANNELS" tvg-logo="", Bab hara
-https://shls-live-enc.edgenextcdn.net/out/v1/948c54279b594944adde578c95f1d7d1/index.m3u8
-#EXTINF:-1 group-title="ARABIC CHANNELS" tvg-logo="", Movie Thrillers 
-https://shls-live-enc.edgenextcdn.net/out/v1/f6d718e841f8442f8374de47f18c93a7/index.m3u8
-#EXTINF:-1 group-title="ARABIC CHANNELS" tvg-logo="",Musawa hd
-https://pbc.furrera.ps/musawahd/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="ARABIC CHANNELS" tvg-logo="",irth nabawi
 http://82.212.74.2:8000/live/hls/7407.m3u8
-#EXTINF:-1 group-title="ARABIC CHANNELS" tvg-logo="",ROTANA CLASSIC HD
-http://order.servepics.com:8080/live/jFqbplMwLC/ODG2hhNOOy/387.ts
 #EXTINF:-1 group-title="ARABIC CHANNELS" tvg-logo="",JORDAN TV
 https://jrtv-live.ercdn.net/jordanhd/jordanhd_1080p.m3u8?DVR&v=c5cc1862
 #EXTINF:-1 group-title="ARABIC CHANNELS" tvg-logo="",JF24_AR
 https://live.france24.com/hls/live/2037222/F24_AR_HI_HLS/master_5000.m3u8
-#EXTINF:-1 group-title="ARABIC CHANNELS" tvg-logo="",ALJADEED
-http://102.177.177.232/ALJADEED/index.m3u8
-#EXTINF:-1 group-title="ARABIC CHANNELS" tvg-logo="",AL AQSA TV
-http://167.172.161.13/hls/feedspare/6udfi7v8a3eof6nlps6e9ovfrs65c7l7.m3u8
-#EXTINF:-1 group-title="ARABIC CHANNELS" tvg-logo="",KAN 11
-https://kan11sub.media.kan.org.il/hls/live/2024678/2024678/source1_2.5k/chunklist.m3u8
-#EXTINF:-1 group-title="ARABIC CHANNELS" tvg-logo="",MAKAN
-https://makan.media.kan.org.il/hls/live/2024680/2024680/source1_1.2k/chunklist.m3u8
-#EXTINF:-1 group-title="ARABIC CHANNELS" tvg-logo="",wataniya dz
-https://py.dencreak.com/meta/16377.m3u8?token=taeut5.UGzQrSP_G3oE-XHa&
-#EXTINF:-1 group-title="ARABIC CHANNELS" tvg-logo="",falastini tv
-https://py.dencreak.com/meta/16488.m3u8?token=taeut5.UGzQrSP_G3oE-XHa&
-#EXTINF:-1 group-title="ARABIC CHANNELS" tvg-logo="",jamahirya tv
-https://stm.linkip.org/live/1313_.m3u8
-#EXTINF:-1 group-title="ARABIC CHANNELS" tvg-logo="",misar quran
-https://py.dencreak.com/meta/16571.m3u8?token=taeut5.UGzQrSP_G3oE-XHa&
-#EXTINF:-1 group-title="ARABIC CHANNELS" tvg-logo="",irth nabawi
-https://py.dencreak.com/meta/16836.m3u8?token=taeut5.UGzQrSP_G3oE-XHa&
-#EXTINF:-1 group-title="ARABIC CHANNELS" tvg-logo="",sbc
-https://py.dencreak.com/meta/16897.m3u8?token=taeut5.UGzQrSP_G3oE-XHa&
-#EXTINF:-1 group-title="ARABIC CHANNELS" tvg-logo="",rot cin
-https://py.dencreak.com/meta/16905.m3u8?token=taeut5.UGzQrSP_G3oE-XHa&
-#EXTINF:-1 group-title="ARABIC CHANNELS" tvg-logo="",rot comedy
-https://py.dencreak.com/meta/16906.m3u8?token=taeut5.UGzQrSP_G3oE-XHa&
-#EXTINF:-1 group-title="ARABIC CHANNELS" tvg-logo="",rot classic
-https://py.dencreak.com/meta/16907.m3u8?token=taeut5.UGzQrSP_G3oE-XHa&
-#EXTINF:-1 group-title="ARABIC CHANNELS" tvg-logo="",majd tv
-https://py.dencreak.com/meta/16914.m3u8?token=taeut5.UGzQrSP_G3oE-XHa&
-#EXTINF:-1 group-title="ARABIC CHANNELS" tvg-logo="",kweit tv
-https://py.dencreak.com/meta/16995.m3u8?token=taeut5.UGzQrSP_G3oE-XHa&
-#EXTINF:-1 group-title="ARABIC CHANNELS" tvg-logo="",jadid tv
-https://py.dencreak.com/meta/17005.m3u8?token=taeut5.UGzQrSP_G3oE-XHa&
-#EXTINF:-1 group-title="ARABIC CHANNELS" tvg-logo="",tele liban tv
-https://py.dencreak.com/meta/17010.m3u8?token=taeut5.UGzQrSP_G3oE-XHa&
-#EXTINF:-1 group-title="ARABIC CHANNELS" tvg-logo="",aloula maroc tv
-https://py.dencreak.com/meta/17071.m3u8?token=taeut5.UGzQrSP_G3oE-XHa&
-#EXTINF:-1 group-title="ARABIC CHANNELS" tvg-logo="",m2 maroc tv
-https://py.dencreak.com/meta/17081.m3u8?token=taeut5.UGzQrSP_G3oE-XHa&
-#EXTINF:-1 group-title="ARABIC CHANNELS" tvg-logo="",thakafiya maurita tv
-https://py.dencreak.com/meta/17095.m3u8?token=taeut5.UGzQrSP_G3oE-XHa&
-#EXTINF:-1 group-title="ARABIC CHANNELS" tvg-logo="",chanqit maurita tv
-https://py.dencreak.com/meta/17096.m3u8?token=taeut5.UGzQrSP_G3oE-XHa&
-#EXTINF:-1 group-title="ARABIC CHANNELS" tvg-logo="",mahdra maurita tv
-https://py.dencreak.com/meta/17098.m3u8?token=taeut5.UGzQrSP_G3oE-XHa&
-#EXTINF:-1 group-title="ARABIC CHANNELS" tvg-logo="",maurita tv
-https://py.dencreak.com/meta/17101.m3u8?token=taeut5.UGzQrSP_G3oE-XHa&
-#EXTINF:-1 group-title="ARABIC CHANNELS" tvg-logo="",maurita 2 tv
-https://py.dencreak.com/meta/17102.m3u8?token=taeut5.UGzQrSP_G3oE-XHa&
-#EXTINF:-1 group-title="ARABIC CHANNELS" tvg-logo="",wataniya maurita 2 tv
-https://py.dencreak.com/meta/17104.m3u8?token=taeut5.UGzQrSP_G3oE-XHa&
-#EXTINF:-1 group-title="ARABIC CHANNELS" tvg-logo="",maurita 2 hd tv
-https://py.dencreak.com/meta/17105.m3u8?token=taeut5.UGzQrSP_G3oE-XHa&
-#EXTINF:-1 group-title="ARABIC CHANNELS" tvg-logo="",qamar maurita  tv
-https://py.dencreak.com/meta/17106.m3u8?token=taeut5.UGzQrSP_G3oE-XHa&
-#EXTINF:-1 group-title="ARABIC CHANNELS" tvg-logo="",sahraa maurita  tv
-https://py.dencreak.com/meta/17107.m3u8?token=taeut5.UGzQrSP_G3oE-XHa&
+
 #EXTINF:-1 group-title="ARABIC CHANNELS" tvg-logo="",Souria  tv
 https://stm.linkip.org/live/1345_.m3u8
 #EXTINF:-1 group-title="ARABIC CHANNELS" tvg-logo="",shara24
@@ -1309,6 +1242,8 @@ https://viamotionhsi.netplus.ch/live/eds/rederecordinternacional/browser-dash/re
 #EXTINF:-1 group-title="PL" tvg-id="" tvg-logo="",TV Polonia
 https://viamotionhsi.netplus.ch/live/eds/tvpolonia/browser-dash/tvpolonia.mpd
 ####################### ES #############################
+#EXTINF:-1 group-title="ES" tvg-id="" tvg-logo="",tv 
+http://79.127.238.228:14217/
 #EXTINF:-1 group-title="ES" tvg-id="" tvg-logo="",Canal 24 Horas
 https://viamotionhsi.netplus.ch/live/eds/canal24horas/browser-dash/canal24horas.mpd
 #EXTINF:-1 group-title="ES" tvg-id="" tvg-logo="",TVE Internacional
