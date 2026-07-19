@@ -148,7 +148,7 @@ http://151.80.18.177:86/Teletoon+_HD/index.m3u8
 #EXTINF:-1 group-title="FRENCH CHANNELS" tvg-logo="",Piwi+_HD
 http://151.80.18.177:86/Piwi+_HD/index.m3u8
 #EXTINF:-1 group-title="FRENCH CHANNELS" tvg-logo="",Ushuaia+_HD
-http://151.80.18.177:86/Ushuaia+_HD/index.m3u8
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:6D:8D:1E&stream=941672&extension=ts&play_token=DAAsybJcqh
 
 
 #EXTINF:-1 group-title="FRENCH CHANNELS" tvg-logo="",Diema
@@ -246,9 +246,9 @@ https://viamotionhsi.netplus.ch/live/eds/tmc/browser-dash/tmc.mpd
 #EXTINF:-1 group-title="FRENCH CHANNELS" tvg-id="" tvg-logo="",T18
 https://viamotionhsi.netplus.ch/live/eds/t18/browser-dash/t18.mpd
 #EXTINF:-1 group-title="FRENCH CHANNELS" tvg-id="" tvg-logo="",RTS1 HD
-https://viamotionhsi.netplus.ch/live/eds/rts1hd/browser-dash/rts1hd.mpd
+http://axcosta.tugaonpt.com:8080/live/3N4pg2hyCATBWK3e/TL5myry3hdyWk4fa/107717.ts
 #EXTINF:-1 group-title="FRENCH CHANNELS" tvg-id="" tvg-logo="",RTS2 HD
-https://viamotionhsi.netplus.ch/live/eds/rts2hd/browser-dash/rts2hd.mpd
+http://axcosta.tugaonpt.com:8080/live/3N4pg2hyCATBWK3e/TL5myry3hdyWk4fa/107754.ts
 #EXTINF:-1 group-title="FRENCH CHANNELS" tvg-id="" tvg-logo="",6TER
 https://viamotionhsi.netplus.ch/live/eds/6ter/browser-dash/6ter.mpd
 #EXTINF:-1 group-title="FRENCH CHANNELS" tvg-id="" tvg-logo="",VALTV
@@ -911,17 +911,19 @@ https://alrayyancdn.vidgyor.com/pub-noalrayy3pwz0l/liveabr/pub-noalrayy3pwz0l/li
 #EXTINF:-1 group-title="ARABIC CHANNELS" tvg-logo="",Qurin kw TV
 https://kwtktvaqta.cdn.mangomolo.com/ktvaq/smil:tktvaq.stream.smil/chunklist.m3u8
 #EXTINF:-1 group-title="ARABIC CHANNELS" tvg-logo="",ithraa kw TV
-https://kwtethta.cdn.mangomolo.com/eth/smil:eth.stream.smil/chunklist_b3500000_t64MTA4MHA=.m3u8
-#EXTINF:-1 group-title="ARABIC CHANNELS" tvg-id="" tvg-logo="",Al Maghribia
-https://viamotionhsi.netplus.ch/live/eds/almaghribia/browser-dash/almaghribia.mpd
-#EXTINF:-1 group-title="ARABIC CHANNELS" tvg-id="" tvg-logo="",Al Arabiya
-https://viamotionhsi.netplus.ch/live/eds/alarabiya/browser-dash/alarabiya.mpd
-#EXTINF:-1 group-title="ARABIC CHANNELS" tvg-id="" tvg-logo="",Canal Algerie
-https://viamotionhsi.netplus.ch/live/eds/canalalgerie/browser-dash/canalalgerie.mpd
-#EXTINF:-1 group-title="ARABIC CHANNELS" tvg-id="" tvg-logo="",Tunisie Nationale
-https://viamotionhsi.netplus.ch/live/eds/tunisienationale/browser-dash/tunisienationale.mpd
-#EXTINF:-1 group-title="ARABIC CHANNELS" tvg-id="" tvg-logo="",2M Maroc
-https://viamotionhsi.netplus.ch/live/eds/2mmaroc/browser-dash/2mmaroc.mpd
+https://kwtethta.cdn.mangomolo.com/eth/smil:eth.stream.smil/chunklist.m3u8
+#EXTINF:-1 group-title="ARABIC CHANNELS" tvg-logo="", kw TV
+https://kwtktv1ta.cdn.mangomolo.com/ktv1/smil:ktv1.stream.smil/chunklist.m3u8
+#EXTINF:-1 group-title="ARABIC CHANNELS" tvg-logo="", mbc shahid
+https://shd-gcp-live.edgenextcdn.net/live/bitmovin-mbc-1-na/eec141533c90dd34722c503a296dd0d8/index.m3u8
+#EXTINF:-1 group-title="ARABIC CHANNELS" tvg-logo="", sbc shahid
+https://shd-gcp-live.edgenextcdn.net/live/bitmovin-sbc/90e09c0c28db26435799b4a14892a167/index.m3u8
+#EXTINF:-1 group-title="ARABIC CHANNELS" tvg-logo="", mbc 4 shahid
+https://shd-gcp-live.edgenextcdn.net/live/bitmovin-mbc-4/24f134f1cd63db9346439e96b86ca6ed/index.m3u8
+#EXTINF:-1 group-title="ARABIC CHANNELS" tvg-logo="", mbc 5 shahid
+https://shd-gcp-live.edgenextcdn.net/live/bitmovin-mbc-5/ee6b000cee0629411b666ab26cb13e9b/index.m3u8
+
+
 #EXTINF:-1 group-title="ARABIC CHANNELS" tvg-id="" tvg-logo="",ifilm ar
 https://live.presstv.ir/hls/ifilmar_4_482/index.m3u8
 #EXTINF:-1 group-title="ARABIC CHANNELS" tvg-id="" tvg-logo="",ifilm en
@@ -1229,25 +1231,541 @@ https://zdf-hls-17.akamaized.net/hls/live/2016500/de/high/master.m3u8
 https://zdf-hls-19.akamaized.net/hls/live/2016502/de/high/master.m3u8
 
 
-####################### PT #############################
-#EXTINF:-1 group-title="PT" tvg-id="" tvg-logo="",TV Galicia
-https://viamotionhsi.netplus.ch/live/eds/tvgalicia/browser-dash/tvgalicia.mpd
-#EXTINF:-1 group-title="PT" tvg-id="" tvg-logo="",RTPi
-https://viamotionhsi.netplus.ch/live/eds/rtpi/browser-dash/rtpi.mpd
-#EXTINF:-1 group-title="PT" tvg-id="" tvg-logo="",Record News
-https://viamotionhsi.netplus.ch/live/eds/recordnews/browser-dash/recordnews.mpd
-#EXTINF:-1 group-title="PT" tvg-id="" tvg-logo="",Rede Record Internacional
-https://viamotionhsi.netplus.ch/live/eds/rederecordinternacional/browser-dash/rederecordinternacional.mpd
-####################### PL #############################
-#EXTINF:-1 group-title="PL" tvg-id="" tvg-logo="",TV Polonia
-https://viamotionhsi.netplus.ch/live/eds/tvpolonia/browser-dash/tvpolonia.mpd
 ####################### ES #############################
-#EXTINF:-1 group-title="ES" tvg-id="" tvg-logo="",tv 
+#EXTINF:-1 group-title="Spain CHANNELS" tvg-id="" tvg-logo="",tv 
 http://79.127.238.228:14217/
-#EXTINF:-1 group-title="ES" tvg-id="" tvg-logo="",Canal 24 Horas
-https://viamotionhsi.netplus.ch/live/eds/canal24horas/browser-dash/canal24horas.mpd
-#EXTINF:-1 group-title="ES" tvg-id="" tvg-logo="",TVE Internacional
-https://viamotionhsi.netplus.ch/live/eds/tveinternacional/browser-dash/tveinternacional.mpd
+#EXTINF:-1 group-title="Spain CHANNELS" tvg-logo="",13 C
+#EXTVLCOPT:network-caching=1000
+http://181.65.155.51:8000/play/a0oq/index.m3u8
+#EXTINF:-1 group-title="Spain CHANNELS" tvg-logo="",24/7
+#EXTVLCOPT:network-caching=1000
+http://181.65.155.51:8000/play/a0ot/index.m3u8
+#EXTINF:-1 group-title="Spain CHANNELS" tvg-logo="",A&E
+#EXTVLCOPT:network-caching=1000
+http://181.65.155.51:8000/play/a0m4/index.m3u8
+#EXTINF:-1 group-title="Spain CHANNELS" tvg-logo="",A&E HD
+#EXTVLCOPT:network-caching=1000
+http://181.65.155.51:8000/play/a0gf/index.m3u8
+#EXTINF:-1 group-title="Spain CHANNELS" tvg-logo="",A3 Cine Star One
+#EXTVLCOPT:network-caching=1000
+http://181.65.155.51:8000/play/a0n8/index.m3u8
+#EXTINF:-1 group-title="Spain CHANNELS" tvg-logo="",ACC
+#EXTVLCOPT:network-caching=1000
+http://181.65.155.51:8000/play/a0ps/index.m3u8
+#EXTINF:-1 group-title="Spain CHANNELS" tvg-logo="",ACC ESPN
+#EXTVLCOPT:network-caching=1000
+http://181.65.155.51:8000/play/a0pw/index.m3u8
+#EXTINF:-1 group-title="Spain CHANNELS" tvg-logo="",AMC
+#EXTVLCOPT:network-caching=1000
+http://181.65.155.51:8000/play/a0m5/index.m3u8
+#EXTINF:-1 group-title="Spain CHANNELS" tvg-logo="",AMC HD
+#EXTVLCOPT:network-caching=1000
+http://181.65.155.51:8000/play/a0jf/index.m3u8
+#EXTINF:-1 group-title="Spain CHANNELS" tvg-logo="",AMC Series
+#EXTVLCOPT:network-caching=1000
+http://181.65.155.51:8000/play/a0j6/index.m3u8
+#EXTINF:-1 group-title="Spain CHANNELS" tvg-logo="",ANTENA 3 BAMBAMARCA
+#EXTVLCOPT:network-caching=1000
+http://181.65.155.51:8000/play/a03h/index.m3u8
+#EXTINF:-1 group-title="Spain CHANNELS" tvg-logo="",ATV
+#EXTVLCOPT:network-caching=1000
+http://181.65.155.51:8000/play/a0gs/index.m3u8
+#EXTINF:-1 group-title="Spain CHANNELS" tvg-logo="",ATV +
+#EXTVLCOPT:network-caching=1000
+http://181.65.155.51:8000/play/a093/index.m3u8
+#EXTINF:-1 group-title="Spain CHANNELS" tvg-logo="",AURA TV
+#EXTVLCOPT:network-caching=1000
+http://181.65.155.51:8000/play/a03j/index.m3u8
+#EXTINF:-1 group-title="Spain CHANNELS" tvg-logo="",AXN HD
+#EXTVLCOPT:network-caching=1000
+http://181.65.155.51:8000/play/a0fu/index.m3u8
+#EXTINF:-1 group-title="Spain CHANNELS" tvg-logo="",AZ CORAZON
+#EXTVLCOPT:network-caching=1000
+http://181.65.155.51:8000/play/a03t/index.m3u8
+#EXTINF:-1 group-title="Spain CHANNELS" tvg-logo="",AZ MUNDO
+#EXTVLCOPT:network-caching=1000
+http://181.65.155.51:8000/play/a03u/index.m3u8
+#EXTINF:-1 group-title="Spain CHANNELS" tvg-logo="",Adult Swim
+#EXTVLCOPT:network-caching=1000
+http://181.65.155.51:8000/play/a0oo/index.m3u8
+#EXTINF:-1 group-title="Spain CHANNELS" tvg-logo="",Adult Swim
+#EXTVLCOPT:network-caching=1000
+http://181.65.155.51:8000/play/a0lj/index.m3u8
+#EXTINF:-1 group-title="Spain CHANNELS" tvg-logo="",America HD TV Amazonas
+#EXTVLCOPT:network-caching=1000
+http://181.65.155.51:8000/play/a09e/index.m3u8
+#EXTINF:-1 group-title="Spain CHANNELS" tvg-logo="",America TV HD
+#EXTVLCOPT:network-caching=1000
+http://181.65.155.51:8000/play/a0mc/index.m3u8
+#EXTINF:-1 group-title="Spain CHANNELS" tvg-logo="",Animal Planet HD
+#EXTVLCOPT:network-caching=1000
+http://181.65.155.51:8000/play/a0fm/index.m3u8
+#EXTINF:-1 group-title="Spain CHANNELS" tvg-logo="",Antena 3
+#EXTVLCOPT:network-caching=1000
+http://181.65.155.51:8000/play/a0gx/index.m3u8
+#EXTINF:-1 group-title="Spain CHANNELS" tvg-logo="",Atres Series
+#EXTVLCOPT:network-caching=1000
+http://181.65.155.51:8000/play/a0is/index.m3u8
+#EXTINF:-1 group-title="Spain CHANNELS" tvg-logo="",BETHEL TV
+#EXTVLCOPT:network-caching=1000
+http://181.65.155.51:8000/play/a0fh/index.m3u8
+#EXTINF:-1 group-title="Spain CHANNELS" tvg-logo="",Baby First Star One
+#EXTVLCOPT:network-caching=1000
+http://181.65.155.51:8000/play/a0mw/index.m3u8
+#EXTINF:-1 group-title="Spain CHANNELS" tvg-logo="",Baby TV
+#EXTVLCOPT:network-caching=1000
+http://181.65.155.51:8000/play/a0o7/index.m3u8
+#EXTINF:-1 group-title="Spain CHANNELS" tvg-logo="",Bethel One Second
+#EXTVLCOPT:network-caching=1000
+http://181.65.155.51:8000/play/a0fi/index.m3u8
+#EXTINF:-1 group-title="Spain CHANNELS" tvg-logo="",Bony TV Señal Combativa
+#EXTVLCOPT:network-caching=1000
+http://181.65.155.51:8000/play/a0mo/index.m3u8
+#EXTINF:-1 group-title="Spain CHANNELS" tvg-logo="",CANAL INFANTIL HD
+#EXTVLCOPT:network-caching=1000
+http://181.65.155.51:8000/play/a07y/index.m3u8
+#EXTINF:-1 group-title="Spain CHANNELS" tvg-logo="",CCTV-CGTN
+#EXTVLCOPT:network-caching=1000
+http://181.65.155.51:8000/play/a0j4/index.m3u8
+#EXTINF:-1 group-title="Spain CHANNELS" tvg-logo="",CNN Espaæol
+#EXTVLCOPT:network-caching=1000
+http://181.65.155.51:8000/play/a0o8/index.m3u8
+#EXTINF:-1 group-title="Spain CHANNELS" tvg-logo="",CREO TV
+#EXTVLCOPT:network-caching=1000
+http://181.65.155.51:8000/play/a03i/index.m3u8
+#EXTINF:-1 group-title="Spain CHANNELS" tvg-logo="",Canal N
+#EXTVLCOPT:network-caching=1000
+http://181.65.155.51:8000/play/a0nj/index.m3u8
+#EXTINF:-1 group-title="Spain CHANNELS" tvg-logo="",Canal de Test 1
+#EXTVLCOPT:network-caching=1000
+http://181.65.155.51:8000/play/a0m7/index.m3u8
+#EXTINF:-1 group-title="Spain CHANNELS" tvg-logo="",Canal de Test 2
+#EXTVLCOPT:network-caching=1000
+http://181.65.155.51:8000/play/a0jq/index.m3u8
+#EXTINF:-1 group-title="Spain CHANNELS" tvg-logo="",Canal de Test 2
+#EXTVLCOPT:network-caching=1000
+http://181.65.155.51:8000/play/a0it/index.m3u8
+#EXTINF:-1 group-title="Spain CHANNELS" tvg-logo="",Caracol Star One
+#EXTVLCOPT:network-caching=1000
+http://181.65.155.51:8000/play/a0mt/index.m3u8
+#EXTINF:-1 group-title="Spain CHANNELS" tvg-logo="",Cinecanal HD
+#EXTVLCOPT:network-caching=1000
+http://181.65.155.51:8000/play/a0fq/index.m3u8
+#EXTINF:-1 group-title="Spain CHANNELS" tvg-logo="",Comedy Central HD
+#EXTVLCOPT:network-caching=1000
+http://181.65.155.51:8000/play/a0jl/index.m3u8
+#EXTINF:-1 group-title="Spain CHANNELS" tvg-logo="",Cumbia TV
+#EXTVLCOPT:network-caching=1000
+http://181.65.155.51:8000/play/a0mq/index.m3u8
+#EXTINF:-1 group-title="Spain CHANNELS" tvg-logo="",DAYSTAR
+#EXTVLCOPT:network-caching=1000
+http://181.65.155.51:8000/play/a0h3/index.m3u8
+#EXTINF:-1 group-title="Spain CHANNELS" tvg-logo="",DHE HD
+#EXTVLCOPT:network-caching=1000
+http://181.65.155.51:8000/play/a0g7/index.m3u8
+#EXTINF:-1 group-title="Spain CHANNELS" tvg-logo="",DIRECTV SPORTS
+#EXTVLCOPT:network-caching=1000
+http://181.65.155.51:8000/play/a03w/index.m3u8
+#EXTINF:-1 group-title="Spain CHANNELS" tvg-logo="",DW Espanol
+#EXTVLCOPT:network-caching=1000
+http://181.65.155.51:8000/play/a0h0/index.m3u8
+#EXTINF:-1 group-title="Spain CHANNELS" tvg-logo="",De Pelicula
+#EXTVLCOPT:network-caching=1000
+http://181.65.155.51:8000/play/a0ia/index.m3u8
+#EXTINF:-1 group-title="Spain CHANNELS" tvg-logo="",Discovery Channel  HD
+#EXTVLCOPT:network-caching=1000
+http://181.65.155.51:8000/play/a0fn/index.m3u8
+#EXTINF:-1 group-title="Spain CHANNELS" tvg-logo="",Discovery H&H
+#EXTVLCOPT:network-caching=1000
+http://181.65.155.51:8000/play/a0lw/index.m3u8
+#EXTINF:-1 group-title="Spain CHANNELS" tvg-logo="",Discovery Kids HD
+#EXTVLCOPT:network-caching=1000
+http://181.65.155.51:8000/play/a0ou/index.m3u8
+#EXTINF:-1 group-title="Spain CHANNELS" tvg-logo="",Discovery Science
+#EXTVLCOPT:network-caching=1000
+http://181.65.155.51:8000/play/a0of/index.m3u8
+#EXTINF:-1 group-title="Spain CHANNELS" tvg-logo="",Discovery Theater HD
+#EXTVLCOPT:network-caching=1000
+http://181.65.155.51:8000/play/a0gb/index.m3u8
+#EXTINF:-1 group-title="Spain CHANNELS" tvg-logo="",Discovery Turbo
+#EXTVLCOPT:network-caching=1000
+http://181.65.155.51:8000/play/a0n2/index.m3u8
+#EXTINF:-1 group-title="Spain CHANNELS" tvg-logo="",Discovery Turbo
+#EXTVLCOPT:network-caching=1000
+http://181.65.155.51:8000/play/a0by/index.m3u8
+#EXTINF:-1 group-title="Spain CHANNELS" tvg-logo="",Discovery World HD
+#EXTVLCOPT:network-caching=1000
+http://181.65.155.51:8000/play/a0p8/index.m3u8
+#EXTINF:-1 group-title="Spain CHANNELS" tvg-logo="",Disney Channel HD
+#EXTVLCOPT:network-caching=1000
+http://181.65.155.51:8000/play/a0g0/index.m3u8
+#EXTINF:-1 group-title="Spain CHANNELS" tvg-logo="",Disney Jr Star One
+#EXTVLCOPT:network-caching=1000
+http://181.65.155.51:8000/play/a0mv/index.m3u8
+#EXTINF:-1 group-title="Spain CHANNELS" tvg-logo="",Disney Jr.
+#EXTVLCOPT:network-caching=1000
+http://181.65.155.51:8000/play/a0ob/index.m3u8
+#EXTINF:-1 group-title="Spain CHANNELS" tvg-logo="",E! Entertainment TV
+#EXTVLCOPT:network-caching=1000
+http://181.65.155.51:8000/play/a0pk/index.m3u8
+#EXTINF:-1 group-title="Spain CHANNELS" tvg-logo="",EROS TV
+#EXTVLCOPT:network-caching=1000
+http://181.65.155.51:8000/play/a09k/index.m3u8
+#EXTINF:-1 group-title="Spain CHANNELS" tvg-logo="",EROS TV SRT
+#EXTVLCOPT:network-caching=1000
+http://181.65.155.51:8000/play/a0ay/index.m3u8
+#EXTINF:-1 group-title="Spain CHANNELS" tvg-logo="",ESPN 2 HD
+#EXTVLCOPT:network-caching=1000
+http://181.65.155.51:8000/play/a0p5/index.m3u8
+#EXTINF:-1 group-title="Spain CHANNELS" tvg-logo="",ESPN 2 HD
+#EXTVLCOPT:network-caching=1000
+http://181.65.155.51:8000/play/a0mh/index.m3u8
+#EXTINF:-1 group-title="Spain CHANNELS" tvg-logo="",ESPN 3 HD
+#EXTVLCOPT:network-caching=1000
+http://181.65.155.51:8000/play/a0mj/index.m3u8
+#EXTINF:-1 group-title="Spain CHANNELS" tvg-logo="",ESPN 4 HD
+#EXTVLCOPT:network-caching=1000
+http://181.65.155.51:8000/play/a0ml/index.m3u8
+#EXTINF:-1 group-title="Spain CHANNELS" tvg-logo="",ESPN 5 HD
+#EXTVLCOPT:network-caching=1000
+http://181.65.155.51:8000/play/a0jo/index.m3u8
+#EXTINF:-1 group-title="Spain CHANNELS" tvg-logo="",ESPN 6 HD
+#EXTVLCOPT:network-caching=1000
+http://181.65.155.51:8000/play/a0mg/index.m3u8
+#EXTINF:-1 group-title="Spain CHANNELS" tvg-logo="",ESPN 7 HD
+#EXTVLCOPT:network-caching=1000
+http://181.65.155.51:8000/play/a0fr/index.m3u8
+#EXTINF:-1 group-title="Spain CHANNELS" tvg-logo="",ESPN HD
+#EXTVLCOPT:network-caching=1000
+http://181.65.155.51:8000/play/a0pv/index.m3u8
+#EXTINF:-1 group-title="Spain CHANNELS" tvg-logo="",ESPN HD
+#EXTVLCOPT:network-caching=1000
+http://181.65.155.51:8000/play/a0pu/index.m3u8
+#EXTINF:-1 group-title="Spain CHANNELS" tvg-logo="",ESPN HD Amazonas
+#EXTVLCOPT:network-caching=1000
+http://181.65.155.51:8000/play/a0mm/index.m3u8
+#EXTINF:-1 group-title="Spain CHANNELS" tvg-logo="",ESPN Premium HD
+#EXTVLCOPT:network-caching=1000
+http://181.65.155.51:8000/play/a0p3/index.m3u8
+#EXTINF:-1 group-title="Spain CHANNELS" tvg-logo="",ETC
+#EXTVLCOPT:network-caching=1000
+http://181.65.155.51:8000/play/a0oz/index.m3u8
+#EXTINF:-1 group-title="Spain CHANNELS" tvg-logo="",EWTN
+#EXTVLCOPT:network-caching=1000
+http://181.65.155.51:8000/play/a0p0/index.m3u8
+#EXTINF:-1 group-title="Spain CHANNELS" tvg-logo="",EWTN
+#EXTVLCOPT:network-caching=1000
+http://181.65.155.51:8000/play/a0ol/index.m3u8
+#EXTINF:-1 group-title="Spain CHANNELS" tvg-logo="",EWTN Amazonas
+#EXTVLCOPT:network-caching=1000
+http://181.65.155.51:8000/play/a0nb/index.m3u8
+#EXTINF:-1 group-title="Spain CHANNELS" tvg-logo="",Ecuador TV
+#EXTVLCOPT:network-caching=1000
+http://181.65.155.51:8000/play/a0o2/index.m3u8
+#EXTINF:-1 group-title="Spain CHANNELS" tvg-logo="",Ecuavisa
+#EXTVLCOPT:network-caching=1000
+http://181.65.155.51:8000/play/a0o1/index.m3u8
+#EXTINF:-1 group-title="Spain CHANNELS" tvg-logo="",El Gourmet HD
+#EXTVLCOPT:network-caching=1000
+http://181.65.155.51:8000/play/a0pl/index.m3u8
+#EXTINF:-1 group-title="Spain CHANNELS" tvg-logo="",Enlace
+#EXTVLCOPT:network-caching=1000
+http://181.65.155.51:8000/play/a0on/index.m3u8
+#EXTINF:-1 group-title="Spain CHANNELS" tvg-logo="",Euro Music  Star One
+#EXTVLCOPT:network-caching=1000
+http://181.65.155.51:8000/play/a0n6/index.m3u8
+#EXTINF:-1 group-title="Spain CHANNELS" tvg-logo="",Exa TV Star One
+#EXTVLCOPT:network-caching=1000
+http://181.65.155.51:8000/play/a0ow/index.m3u8
+#EXTINF:-1 group-title="Spain CHANNELS" tvg-logo="",Exitosa TV
+#EXTVLCOPT:network-caching=1000
+http://181.65.155.51:8000/play/a09x/index.m3u8
+#EXTINF:-1 group-title="Spain CHANNELS" tvg-logo="",FX HD
+#EXTVLCOPT:network-caching=1000
+http://181.65.155.51:8000/play/a0fy/index.m3u8
+#EXTINF:-1 group-title="Spain CHANNELS" tvg-logo="",Familia TV
+#EXTVLCOPT:network-caching=1000
+http://181.65.155.51:8000/play/a0iv/index.m3u8
+#EXTINF:-1 group-title="Spain CHANNELS" tvg-logo="",Film&Arts
+#EXTVLCOPT:network-caching=1000
+http://181.65.155.51:8000/play/a0j5/index.m3u8
+#EXTINF:-1 group-title="Spain CHANNELS" tvg-logo="",Food Network
+#EXTVLCOPT:network-caching=1000
+http://181.65.155.51:8000/play/a0p1/index.m3u8
+#EXTINF:-1 group-title="Spain CHANNELS" tvg-logo="",Gamavisiðn
+#EXTVLCOPT:network-caching=1000
+http://181.65.155.51:8000/play/a0o3/index.m3u8
+#EXTINF:-1 group-title="Spain CHANNELS" tvg-logo="",Global
+#EXTVLCOPT:network-caching=1000
+http://181.65.155.51:8000/play/a0gu/index.m3u8
+#EXTINF:-1 group-title="Spain CHANNELS" tvg-logo="",Golden Edge
+#EXTVLCOPT:network-caching=1000
+http://181.65.155.51:8000/play/a0h6/index.m3u8
+#EXTINF:-1 group-title="Spain CHANNELS" tvg-logo="",Golden HD
+#EXTVLCOPT:network-caching=1000
+http://181.65.155.51:8000/play/a0i8/index.m3u8
+#EXTINF:-1 group-title="Spain CHANNELS" tvg-logo="",Golden Premiere HD Star One
+#EXTVLCOPT:network-caching=1000
+http://181.65.155.51:8000/play/a0n7/index.m3u8
+#EXTINF:-1 group-title="Spain CHANNELS" tvg-logo="",Golf Channel
+#EXTVLCOPT:network-caching=1000
+http://181.65.155.51:8000/play/a0pr/index.m3u8
+#EXTINF:-1 group-title="Spain CHANNELS" tvg-logo="",HBO 2
+#EXTVLCOPT:network-caching=1000
+http://181.65.155.51:8000/play/a0h9/index.m3u8
+#EXTINF:-1 group-title="Spain CHANNELS" tvg-logo="",HBO Family HD
+#EXTVLCOPT:network-caching=1000
+http://181.65.155.51:8000/play/a0g8/index.m3u8
+#EXTINF:-1 group-title="Spain CHANNELS" tvg-logo="",HBO HD
+#EXTVLCOPT:network-caching=1000
+http://181.65.155.51:8000/play/a0jv/index.m3u8
+#EXTINF:-1 group-title="Spain CHANNELS" tvg-logo="",HBO Mundi
+#EXTVLCOPT:network-caching=1000
+http://181.65.155.51:8000/play/a0gz/index.m3u8
+#EXTINF:-1 group-title="Spain CHANNELS" tvg-logo="",HBO POP HD
+#EXTVLCOPT:network-caching=1000
+http://181.65.155.51:8000/play/a0g3/index.m3u8
+#EXTINF:-1 group-title="Spain CHANNELS" tvg-logo="",HBO Plus
+#EXTVLCOPT:network-caching=1000
+http://181.65.155.51:8000/play/a0h8/index.m3u8
+#EXTINF:-1 group-title="Spain CHANNELS" tvg-logo="",HBO Xtreme HD
+#EXTVLCOPT:network-caching=1000
+http://181.65.155.51:8000/play/a0g9/index.m3u8
+#EXTINF:-1 group-title="Spain CHANNELS" tvg-logo="",HGTV
+#EXTVLCOPT:network-caching=1000
+http://181.65.155.51:8000/play/a0po/index.m3u8
+#EXTINF:-1 group-title="Spain CHANNELS" tvg-logo="",HOLA TV HD
+#EXTVLCOPT:network-caching=1000
+http://181.65.155.51:8000/play/a0pm/index.m3u8
+#EXTINF:-1 group-title="Spain CHANNELS" tvg-logo="",HOYPERU TV
+#EXTVLCOPT:network-caching=1000
+http://181.65.155.51:8000/play/a069/index.m3u8
+#EXTINF:-1 group-title="Spain CHANNELS" tvg-logo="",HTV
+#EXTVLCOPT:network-caching=1000
+http://181.65.155.51:8000/play/a0h4/index.m3u8
+#EXTINF:-1 group-title="Spain CHANNELS" tvg-logo="",History 2
+#EXTVLCOPT:network-caching=1000
+http://181.65.155.51:8000/play/a0h2/index.m3u8
+#EXTINF:-1 group-title="Spain CHANNELS" tvg-logo="",ID HD
+#EXTVLCOPT:network-caching=1000
+http://181.65.155.51:8000/play/a0fv/index.m3u8
+#EXTINF:-1 group-title="Spain CHANNELS" tvg-logo="",Kanal D Drama
+#EXTVLCOPT:network-caching=1000
+http://181.65.155.51:8000/play/a0nn/index.m3u8
+#EXTINF:-1 group-title="Spain CHANNELS" tvg-logo="",Karibena TV
+#EXTVLCOPT:network-caching=1000
+http://181.65.155.51:8000/play/a09y/index.m3u8
+#EXTINF:-1 group-title="Spain CHANNELS" tvg-logo="",L1
+#EXTVLCOPT:network-caching=1000
+http://181.65.155.51:8000/play/a0lx/index.m3u8
+#EXTINF:-1 group-title="Spain CHANNELS" tvg-logo="",L1 MAX
+#EXTVLCOPT:network-caching=1000
+http://181.65.155.51:8000/play/a0nf/index.m3u8
+#EXTINF:-1 group-title="Spain CHANNELS" tvg-logo="",Las Estrellas HD
+#EXTVLCOPT:network-caching=1000
+http://181.65.155.51:8000/play/a0k1/index.m3u8
+#EXTINF:-1 group-title="Spain CHANNELS" tvg-logo="",Latina HD
+#EXTVLCOPT:network-caching=1000
+http://181.65.155.51:8000/play/a0md/index.m3u8
+#EXTINF:-1 group-title="Spain CHANNELS" tvg-logo="",Lifetime
+#EXTVLCOPT:network-caching=1000
+http://181.65.155.51:8000/play/a0om/index.m3u8
+#EXTINF:-1 group-title="Spain CHANNELS" tvg-logo="",Love Nature
+#EXTVLCOPT:network-caching=1000
+http://181.65.155.51:8000/play/a0no/index.m3u8
+#EXTINF:-1 group-title="Spain CHANNELS" tvg-logo="",MAC TV
+#EXTVLCOPT:network-caching=1000
+http://181.65.155.51:8000/play/a08b/index.m3u8
+#EXTINF:-1 group-title="Spain CHANNELS" tvg-logo="",MEGA TV
+#EXTVLCOPT:network-caching=1000
+http://181.65.155.51:8000/play/a08d/index.m3u8
+#EXTINF:-1 group-title="Spain CHANNELS" tvg-logo="",MEGAVISION
+#EXTVLCOPT:network-caching=1000
+http://181.65.155.51:8000/play/a03k/index.m3u8
+#EXTINF:-1 group-title="Spain CHANNELS" tvg-logo="",MI MUSICA
+#EXTVLCOPT:network-caching=1000
+http://181.65.155.51:8000/play/a09i/index.m3u8
+#EXTINF:-1 group-title="Spain CHANNELS" tvg-logo="",MTV HD
+#EXTVLCOPT:network-caching=1000
+http://181.65.155.51:8000/play/a0jz/index.m3u8
+#EXTINF:-1 group-title="Spain CHANNELS" tvg-logo="",Movistar Informa
+#EXTVLCOPT:network-caching=1000
+http://181.65.155.51:8000/play/a0j1/index.m3u8
+#EXTINF:-1 group-title="Spain CHANNELS" tvg-logo="",NODELMA
+#EXTVLCOPT:network-caching=1000
+http://181.65.155.51:8000/play/a03m/index.m3u8
+#EXTINF:-1 group-title="Spain CHANNELS" tvg-logo="",NTN24
+#EXTVLCOPT:network-caching=1000
+http://181.65.155.51:8000/play/a0j7/index.m3u8
+#EXTINF:-1 group-title="Spain CHANNELS" tvg-logo="",Nat Geo HD
+#EXTVLCOPT:network-caching=1000
+http://181.65.155.51:8000/play/a0fo/index.m3u8
+#EXTINF:-1 group-title="Spain CHANNELS" tvg-logo="",Neo TV
+#EXTVLCOPT:network-caching=1000
+http://181.65.155.51:8000/play/a0ci/index.m3u8
+#EXTINF:-1 group-title="Spain CHANNELS" tvg-logo="",Nickelodeon HD
+#EXTVLCOPT:network-caching=1000
+http://181.65.155.51:8000/play/a0g4/index.m3u8
+#EXTINF:-1 group-title="Spain CHANNELS" tvg-logo="",PASIONES ACC
+#EXTVLCOPT:network-caching=1000
+http://181.65.155.51:8000/play/a067/index.m3u8
+#EXTINF:-1 group-title="Spain CHANNELS" tvg-logo="",PLANETA TV
+#EXTVLCOPT:network-caching=1000
+http://181.65.155.51:8000/play/a0cd/index.m3u8
+#EXTINF:-1 group-title="Spain CHANNELS" tvg-logo="",PLIM PLIM TV
+#EXTVLCOPT:network-caching=1000
+http://181.65.155.51:8000/play/a0pd/index.m3u8
+#EXTINF:-1 group-title="Spain CHANNELS" tvg-logo="",PX TV Star One
+#EXTVLCOPT:network-caching=1000
+http://181.65.155.51:8000/play/a0n0/index.m3u8
+#EXTINF:-1 group-title="Spain CHANNELS" tvg-logo="",Panamericana
+#EXTVLCOPT:network-caching=1000
+http://181.65.155.51:8000/play/a0gr/index.m3u8
+#EXTINF:-1 group-title="Spain CHANNELS" tvg-logo="",Pasiones HD
+#EXTVLCOPT:network-caching=1000
+http://181.65.155.51:8000/play/a0pt/index.m3u8
+#EXTINF:-1 group-title="Spain CHANNELS" tvg-logo="",Pasiones HD
+#EXTVLCOPT:network-caching=1000
+http://181.65.155.51:8000/play/a0g2/index.m3u8
+#EXTINF:-1 group-title="Spain CHANNELS" tvg-logo="",Plim Plim TV
+#EXTVLCOPT:network-caching=1000
+http://181.65.155.51:8000/play/a0ng/index.m3u8
+#EXTINF:-1 group-title="Spain CHANNELS" tvg-logo="",RADIO BETHEL
+#EXTVLCOPT:network-caching=1000
+http://181.65.155.51:8000/play/a0fj/index.m3u8
+#EXTINF:-1 group-title="Spain CHANNELS" tvg-logo="",RADIO PBO
+#EXTVLCOPT:network-caching=1000
+http://181.65.155.51:8000/play/a0fk/index.m3u8
+#EXTINF:-1 group-title="Spain CHANNELS" tvg-logo="",RCN Novelas
+#EXTVLCOPT:network-caching=1000
+http://181.65.155.51:8000/play/a0ms/index.m3u8
+#EXTINF:-1 group-title="Spain CHANNELS" tvg-logo="",RPP
+#EXTVLCOPT:network-caching=1000
+http://181.65.155.51:8000/play/a0gt/index.m3u8
+#EXTINF:-1 group-title="Spain CHANNELS" tvg-logo="",RTS
+#EXTVLCOPT:network-caching=1000
+http://181.65.155.51:8000/play/a0o6/index.m3u8
+#EXTINF:-1 group-title="Spain CHANNELS" tvg-logo="",Sembrador Star One
+#EXTVLCOPT:network-caching=1000
+http://181.65.155.51:8000/play/a0nc/index.m3u8
+#EXTINF:-1 group-title="Spain CHANNELS" tvg-logo="",Sony HD
+#EXTVLCOPT:network-caching=1000
+http://181.65.155.51:8000/play/a0gc/index.m3u8
+#EXTINF:-1 group-title="Spain CHANNELS" tvg-logo="",Space HD
+#EXTVLCOPT:network-caching=1000
+http://181.65.155.51:8000/play/a0fw/index.m3u8
+#EXTINF:-1 group-title="Spain CHANNELS" tvg-logo="",Star Channel HD
+#EXTVLCOPT:network-caching=1000
+http://181.65.155.51:8000/play/a0pn/index.m3u8
+#EXTINF:-1 group-title="Spain CHANNELS" tvg-logo="",Star Channel HD
+#EXTVLCOPT:network-caching=1000
+http://181.65.155.51:8000/play/a0fz/index.m3u8
+#EXTINF:-1 group-title="Spain CHANNELS" tvg-logo="",Studio Universal HD
+#EXTVLCOPT:network-caching=1000
+http://181.65.155.51:8000/play/a0m0/index.m3u8
+#EXTINF:-1 group-title="Spain CHANNELS" tvg-logo="",Sun Channel HD
+#EXTVLCOPT:network-caching=1000
+http://181.65.155.51:8000/play/a0ga/index.m3u8
+#EXTINF:-1 group-title="Spain CHANNELS" tvg-logo="",Suyapa TV Star One
+#EXTVLCOPT:network-caching=1000
+http://181.65.155.51:8000/play/a0ne/index.m3u8
+#EXTINF:-1 group-title="Spain CHANNELS" tvg-logo="",TCM
+#EXTVLCOPT:network-caching=1000
+http://181.65.155.51:8000/play/a0h7/index.m3u8
+#EXTINF:-1 group-title="Spain CHANNELS" tvg-logo="",TELEHIT LATINO
+#EXTVLCOPT:network-caching=1000
+http://181.65.155.51:8000/play/a04a/index.m3u8
+#EXTINF:-1 group-title="Spain CHANNELS" tvg-logo="",TELESYSTEM
+#EXTVLCOPT:network-caching=1000
+http://181.65.155.51:8000/play/a03n/index.m3u8
+#EXTINF:-1 group-title="Spain CHANNELS" tvg-logo="",TLC
+#EXTVLCOPT:network-caching=1000
+http://181.65.155.51:8000/play/a0oe/index.m3u8
+#EXTINF:-1 group-title="Spain CHANNELS" tvg-logo="",TLC Amazonas
+#EXTVLCOPT:network-caching=1000
+http://181.65.155.51:8000/play/a0na/index.m3u8
+#EXTINF:-1 group-title="Spain CHANNELS" tvg-logo="",TNT HD
+#EXTVLCOPT:network-caching=1000
+http://181.65.155.51:8000/play/a0fp/index.m3u8
+#EXTINF:-1 group-title="Spain CHANNELS" tvg-logo="",TNT Novelas HD
+#EXTVLCOPT:network-caching=1000
+http://181.65.155.51:8000/play/a0jx/index.m3u8
+#EXTINF:-1 group-title="Spain CHANNELS" tvg-logo="",TNT Series HD
+#EXTVLCOPT:network-caching=1000
+http://181.65.155.51:8000/play/a0mf/index.m3u8
+#EXTINF:-1 group-title="Spain CHANNELS" tvg-logo="",TNT Sports Premiun HD
+#EXTVLCOPT:network-caching=1000
+http://181.65.155.51:8000/play/a0p9/index.m3u8
+#EXTINF:-1 group-title="Spain CHANNELS" tvg-logo="",TURBO MIX TV
+#EXTVLCOPT:network-caching=1000
+http://181.65.155.51:8000/play/a03o/index.m3u8
+#EXTINF:-1 group-title="Spain CHANNELS" tvg-logo="",TVE
+#EXTVLCOPT:network-caching=1000
+http://181.65.155.51:8000/play/a0ox/index.m3u8
+#EXTINF:-1 group-title="Spain CHANNELS" tvg-logo="",TVE Star One
+#EXTVLCOPT:network-caching=1000
+http://181.65.155.51:8000/play/a0n9/index.m3u8
+#EXTINF:-1 group-title="Spain CHANNELS" tvg-logo="",Telemundo
+#EXTVLCOPT:network-caching=1000
+http://181.65.155.51:8000/play/a0oh/index.m3u8
+#EXTINF:-1 group-title="Spain CHANNELS" tvg-logo="",Televicentro
+#EXTVLCOPT:network-caching=1000
+http://181.65.155.51:8000/play/a0o5/index.m3u8
+#EXTINF:-1 group-title="Spain CHANNELS" tvg-logo="",Televida HD Star One
+#EXTVLCOPT:network-caching=1000
+http://181.65.155.51:8000/play/a0nd/index.m3u8
+#EXTINF:-1 group-title="Spain CHANNELS" tvg-logo="",Tlnovelas
+#EXTVLCOPT:network-caching=1000
+http://181.65.155.51:8000/play/a0g1/index.m3u8
+#EXTINF:-1 group-title="Spain CHANNELS" tvg-logo="",Tooncast
+#EXTVLCOPT:network-caching=1000
+http://181.65.155.51:8000/play/a0oi/index.m3u8
+#EXTINF:-1 group-title="Spain CHANNELS" tvg-logo="",Toros TV
+#EXTVLCOPT:network-caching=1000
+http://181.65.155.51:8000/play/a0pi/index.m3u8
+#EXTINF:-1 group-title="Spain CHANNELS" tvg-logo="",Tv Norte
+#EXTVLCOPT:network-caching=1000
+http://181.65.155.51:8000/play/a0mp/index.m3u8
+#EXTINF:-1 group-title="Spain CHANNELS" tvg-logo="",Tv Peru RESP
+#EXTVLCOPT:network-caching=1000
+http://181.65.155.51:8000/play/a0cg/index.m3u8
+#EXTINF:-1 group-title="Spain CHANNELS" tvg-logo="",TyC Sports
+#EXTVLCOPT:network-caching=1000
+http://181.65.155.51:8000/play/a0hf/index.m3u8
+#EXTINF:-1 group-title="Spain CHANNELS" tvg-logo="",UNIVERSAL CHANNEL HD
+#EXTVLCOPT:network-caching=1000
+http://181.65.155.51:8000/play/a0jn/index.m3u8
+#EXTINF:-1 group-title="Spain CHANNELS" tvg-logo="",VIA
+#EXTVLCOPT:network-caching=1000
+http://181.65.155.51:8000/play/a0n5/index.m3u8
+#EXTINF:-1 group-title="Spain CHANNELS" tvg-logo="",VISION TV
+#EXTVLCOPT:network-caching=1000
+http://181.65.155.51:8000/play/a03g/index.m3u8
+#EXTINF:-1 group-title="Spain CHANNELS" tvg-logo="",Via X Esports
+#EXTVLCOPT:network-caching=1000
+http://181.65.155.51:8000/play/a0ic/index.m3u8
+#EXTINF:-1 group-title="Spain CHANNELS" tvg-logo="",WEST  AMAZONAS
+#EXTVLCOPT:network-caching=1000
+http://181.65.155.51:8000/play/a0pe/index.m3u8
+#EXTINF:-1 group-title="Spain CHANNELS" tvg-logo="",WTV
+#EXTVLCOPT:network-caching=1000
+http://181.65.155.51:8000/play/a03p/index.m3u8
+#EXTINF:-1 group-title="Spain CHANNELS" tvg-logo="",Warner TV HD
+#EXTVLCOPT:network-caching=1000
+http://181.65.155.51:8000/play/a0ft/index.m3u8
+#EXTINF:-1 group-title="Spain CHANNELS" tvg-logo="",Willax
+#EXTVLCOPT:network-caching=1000
+http://181.65.155.51:8000/play/a03r/index.m3u8
+#EXTINF:-1 group-title="Spain CHANNELS" tvg-logo="",XTV HD
+#EXTVLCOPT:network-caching=1000
+http://181.65.155.51:8000/play/a03l/index.m3u8
+#EXTINF:-1 group-title="Spain CHANNELS" tvg-logo="",XTV PLUS
+#EXTVLCOPT:network-caching=1000
+http://181.65.155.51:8000/play/a04s/index.m3u8
+#EXTINF:-1 group-title="Spain CHANNELS" tvg-logo="",ZOO MOO Star One
+#EXTVLCOPT:network-caching=1000
+http://181.65.155.51:8000/play/a03v/index.m3u8
+
 ####################### CH #############################
 #EXTINF:-1 group-title="Ch" tvg-id="" tvg-logo="",CCTV4
 https://viamotionhsi.netplus.ch/live/eds/cctv4/browser-dash/cctv4.mpd
@@ -1265,6 +1783,9 @@ https://viamotionhsi.netplus.ch/live/eds/showturk/browser-dash/showturk.mpd
 http://vocotv.pro/live/mmckandes1/P2022ssword/268837.ts
 
 #################################### SPORTS CHANNELS ####################################
+#EXTINF:-1 group-title="SPORTS channel" tvg-logo="",BEIN NEWS AR
+http://stream.cammonitorplus.net/1799/index.m3u8
+
 #EXTINF:-1 group-title="BEIN SPORTS ARABIC" tvg-logo="",BEIN NEWS AR
 https://py.dencreak.com/bn_7_news.m3u8
 #EXTINF:-1 group-title="BEIN SPORTS ARABIC" tvg-logo="",BEIN SPORTS HD 1 AR
