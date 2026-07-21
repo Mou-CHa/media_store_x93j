@@ -462,7 +462,7 @@ https://svs.itworkscdn.net/asharqdocumentarylive/asharqdocumentary.smil/asharqdo
 #EXTINF:-1 group-title="DOCUMENTARY" tvg-logo="",ASHARQ DISCOVERY 
 https://svs.itworkscdn.net/asharqdiscoverylive/asharqd.smil/asharqdiscoverypublish/asharqd_source/chunks.m3u8
 #EXTINF:-1 group-title="DOCUMENTARY" tvg-logo="",jazira docu
-https://live-hls-web-ajd.getaj.net/AJD/index.m3u8
+https://live-hls-web-ajd-ll-bp.thehlive.com/AJD/index.m3u8
 #EXTINF:-1 group-title="DOCUMENTARY" tvg-logo="",Love the Planet
 https://amg01821-lovetvchannels-lovetheplanetfrsamsung-samsungfr-hfam1.amagi.tv/playlist/amg01821-lovetvchannels-lovetheplanetfrsamsung-samsungfr/playlist.m3u8
 #EXTINF:-1 group-title="DOCUMENTARY" tvg-id="" tvg-logo="",national_geo AR
@@ -912,6 +912,7 @@ http://edge.fastpublish.me/live/index.m3u8
 #EXTINF:-1 group-title="ARABIC CHANNELS" tvg-logo="",Fujairah TV
 https://live.kwikmotion.com/fujairahlive/fujairah.smil/playlist.m3u8
 #EXTINF:-1 group-title="ARABIC CHANNELS" tvg-logo="",Thikrayat Sa TV
+https://aloula-redirect.vercel.app/3/playlist.m3u8
 http://tornado-pro.com/live/alhomaidirashid@gmail.com/HOrashid1/35444.ts
 #EXTINF:-1 group-title="ARABIC CHANNELS" tvg-logo="",Thikrayat 2 TV
 https://stm.linkip.org/live/1458_.m3u8
@@ -1078,9 +1079,8 @@ https://fastly.live.brightcove.com/1843594119353354904/eu-west-1/6057955906001/e
 #EXTINF:-1 group-title="ARABIC CHANNELS" tvg-logo="",MBC ONE
 http://154.58.202.18:8080/mbc1/index.m3u8
 
-
-
-
+#EXTINF:-1 group-title="ARABIC CHANNELS" tvg-logo="",arabiya english
+https://live.alarabiya.net/alarabiapublish/english/playlist_dvr.m3u8
 
 
 
