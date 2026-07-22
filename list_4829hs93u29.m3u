@@ -360,9 +360,9 @@ http://line.watchtivo-8k.com:80/play/live.php?mac=00:1A:79:3F:0C:96&stream=2442&
 #EXTINF:-1 group-title="FRENCH CHANNELS" tvg-logo="",carac 3
 https://edge11.vedge.infomaniak.com/livecast/lfmhd/master.m3u8
 #EXTINF:-1 group-title="FRENCH CHANNELS" tvg-logo="",RTBF La Une_LIVE26
-http://193.111.198.85:8589/stream/rtbflaunelive26/master.m3u8?p=967e33767f592e1aaf3d4019f38f380bf784e113b193d89c412d047059d6300d&u=Oleg
+http://193.111.198.85:8589/stream/rtbflaunelive26/stream.m3u8?p=967e33767f592e1aaf3d4019f38f380bf784e113b193d89c412d047059d6300d&u=Oleg
 #EXTINF:-1 group-title="FRENCH CHANNELS" tvg-logo="",RTBF Tipik_LIVE26
-http://193.111.198.85:8589/stream/rtbftipiklive26/master.m3u8?p=967e33767f592e1aaf3d4019f38f380bf784e113b193d89c412d047059d6300d&u=Oleg
+http://193.111.198.85:8589/stream/rtbftipiklive26/stream.m3u8?p=967e33767f592e1aaf3d4019f38f380bf784e113b193d89c412d047059d6300d&u=Oleg
 #EXTINF:-1 group-title="FRENCH CHANNELS" tvg-logo="",RTBF La Trois_LIVE26
 http://193.111.198.85:8589/stream/rtbflatroislive26/stream.m3u8?p=967e33767f592e1aaf3d4019f38f380bf784e113b193d89c412d047059d6300d&u=Oleg
 #EXTINF:-1 group-title="FRENCH CHANNELS" tvg-logo="",TST 1
