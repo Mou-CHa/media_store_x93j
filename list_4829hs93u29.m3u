@@ -365,6 +365,8 @@ http://193.111.198.85:8589/stream/mstv/rtbflaunelive26/master.m3u8?p=967e33767f5
 http://193.111.198.85:8589/stream/mstv/rtbftipiklive26/master.m3u8?p=967e33767f592e1aaf3d4019f38f380bf784e113b193d89c412d047059d6300d&u=Oleg
 #EXTINF:-1 group-title="FRENCH CHANNELS" tvg-logo="",RTBF La Trois_LIVE26
 http://193.111.198.85:8589/stream/mstv/rtbflatroislive26/master.m3u8?p=967e33767f592e1aaf3d4019f38f380bf784e113b193d89c412d047059d6300d&u=Oleg
+#EXTINF:-1 group-title="FRENCH CHANNELS" tvg-logo="",TST 1
+http://193.111.198.85:8589/stream/rtbftipiklive26/stream.m3u8?uid=3818376086&u=Oleg&p=967e33767f592e1aaf3d4019f38f380bf784e113b193d89c412d047059d6300d
 
 
 
@@ -915,7 +917,7 @@ https://live.kwikmotion.com/fujairahlive/fujairah.smil/chunks.m3u8
 #EXTINF:-1 group-title="ARABIC CHANNELS" tvg-logo="",Thikrayat Sa TV
 https://aloula-redirect.vercel.app/3/playlist.m3u8
 #EXTINF:-1 group-title="ARABIC CHANNELS" tvg-logo="",Thikrayat 2 TV
-https://stm.linkip.org/live/1458_.m3u8
+https://shd-gcp-live.edgenextcdn.net/live/bitmovin-thikrayat/8cfa8fe0c96275735745b89c683b27e3/index.m3u8
 #EXTINF:-1 group-title="ARABIC CHANNELS" tvg-id="" tvg-logo="", thakafiya tv
 https://shd-gcp-live.edgenextcdn.net/live/bitmovin-thaqafeyyah/28c0d2a20dbf1dc049ce15d3973f494b/index.m3u8
 #EXTINF:-1 group-title="ARABIC CHANNELS" tvg-logo="",Rayan Old Qa TV
