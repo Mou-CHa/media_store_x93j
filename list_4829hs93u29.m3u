@@ -181,6 +181,8 @@ http://99.27.51.147:8080/Gulli/index.m3u8
 http://99.27.51.147:8080/M6/index.m3u8
 #EXTINF:-1 group-title="FRENCH CHANNELS" tvg-logo="",RMC_Story_FR
 https://d15aro46bnpfm8.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-fqkqiax1078up/RMC_Story_FR.m3u8
+#EXTINF:-1 group-title="FRENCH CHANNELS" tvg-logo="",rts 1 sw
+http://line.watchtivo-8k.com:80/play/live.php?mac=00:1A:79:3F:0C:96&stream=2444&extension=ts&play_token=EIEOa7wmkT
 #EXTINF:-1 group-title="FRENCH CHANNELS" tvg-logo="",rts 2 sw
 http://line.watchtivo-8k.com:80/play/live.php?mac=00:1A:79:3F:0C:96&stream=2442&extension=ts&play_token=EIEOa7wmkT
 #EXTINF:-1 group-title="FRENCH CHANNELS" tvg-logo="",carac 3
@@ -738,11 +740,9 @@ https://halalondon-live.ercdn.net/halalondon/halalondon_1080p.m3u8
 http://edge.fastpublish.me/live/index.m3u8
 #EXTINF:-1 group-title="ARABIC CHANNELS" tvg-logo="",fujairah
 https://fujairah-redirect.vercel.app/1/playlist.m3u8?q=master
-
-
-#EXTINF:-1 group-title="ARABIC CHANNELS" tvg-logo="",Thikrayat Sa TV
-https://aloula-redirect.vercel.app/3/playlist.m3u8
-#EXTINF:-1 group-title="ARABIC CHANNELS" tvg-logo="",Thikrayat 2 TV
+#EXTINF:-1 group-title="ARABIC CHANNELS" tvg-logo="",Thikrayat Sa 1 TV
+https://thikrayat-redirect.vercel.app/playlist.m3u8
+#EXTINF:-1 group-title="ARABIC CHANNELS" tvg-logo="",Thikrayat sa 2 TV
 https://shd-gcp-live.edgenextcdn.net/live/bitmovin-thikrayat/8cfa8fe0c96275735745b89c683b27e3/index.m3u8
 #EXTINF:-1 group-title="ARABIC CHANNELS" tvg-id="" tvg-logo="", thakafiya tv
 https://shd-gcp-live.edgenextcdn.net/live/bitmovin-thaqafeyyah/28c0d2a20dbf1dc049ce15d3973f494b/index.m3u8
