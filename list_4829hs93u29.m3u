@@ -1021,7 +1021,8 @@ http://154.58.202.18:8080/mbc1/index.m3u8
 #EXTINF:-1 group-title="ARABIC CHANNELS" tvg-logo="",arabiya english
 https://live.alarabiya.net/alarabiapublish/english/playlist_dvr.m3u8
 
-
+#EXTINF:-1 group-title="ARABIC CHANNELS" tvg-logo="",quran sharjah
+https://live.kwikmotion.com/sharjahtvquranlive/shqurantv.smil/playlist.m3u8
 
 
 
@@ -1188,12 +1189,18 @@ https://zdf-hls-19.akamaized.net/hls/live/2016502/de/high/master.m3u8
 ####################### ES #############################
 #EXTINF:-1 group-title="Spain CHANNELS" tvg-id="" tvg-logo="",tv 
 http://79.127.238.228:14217/
+#EXTINF:-1 group-title="Spain CHANNELS" tvg-id="" tvg-logo="",ent family
+https://cdn.global.elektamedia.com/live/c7eds/ENT_Family/SA_LIVE_hls_enc/master.m3u8
+
+
 #EXTINF:-1 group-title="Spain CHANNELS" tvg-logo="",13 C
 #EXTVLCOPT:network-caching=1000
-http://181.65.155.51:8000/play/a0oq/index.m3u8
 #EXTINF:-1 group-title="Spain CHANNELS" tvg-logo="",24/7
 #EXTVLCOPT:network-caching=1000
 http://181.65.155.51:8000/play/a0ot/index.m3u8
+
+
+
 #EXTINF:-1 group-title="Spain CHANNELS" tvg-logo="",A&E
 #EXTVLCOPT:network-caching=1000
 http://181.65.155.51:8000/play/a0m4/index.m3u8
@@ -1721,21 +1728,12 @@ http://181.65.155.51:8000/play/a04s/index.m3u8
 #EXTVLCOPT:network-caching=1000
 http://181.65.155.51:8000/play/a03v/index.m3u8
 
-####################### CH #############################
-#EXTINF:-1 group-title="Ch" tvg-id="" tvg-logo="",CCTV4
-https://viamotionhsi.netplus.ch/live/eds/cctv4/browser-dash/cctv4.mpd
-#EXTINF:-1 group-title="Ch" tvg-id="" tvg-logo="",NHK
-https://viamotionhsi.netplus.ch/live/eds/nhk/browser-dash/nhk.mpd
+
 
 ####################### TR #############################
-#EXTINF:-1 group-title="TR" tvg-id="" tvg-logo="",Euro D
-https://viamotionhsi.netplus.ch/live/eds/eurod/browser-dash/eurod.mpd
-#EXTINF:-1 group-title="TR" tvg-id="" tvg-logo="",TRT Turk
-https://viamotionhsi.netplus.ch/live/eds/trtturk/browser-dash/trtturk.mpd
-#EXTINF:-1 group-title="TR" tvg-id="" tvg-logo="",Show Turk
-https://viamotionhsi.netplus.ch/live/eds/showturk/browser-dash/showturk.mpd
-#EXTINF:-1 group-title="US CHANNEL" tvg-logo="", FMC MOVIE
-http://vocotv.pro/live/mmckandes1/P2022ssword/268837.ts
+#EXTINF:-1 group-title="TR" tvg-id="" tvg-logo="",trt
+https://andro.evrenesoglu57.click/checklist/androstreamlivetrt1.m3u8
+
 
 #################################### SPORTS CHANNELS ####################################
 #EXTINF:-1 group-title="SPORTS channel" tvg-logo="",BEIN NEWS AR
@@ -1866,6 +1864,12 @@ http://znty.dyndns.org:5010/hls/eleven5.m3u8
 #EXTINF:-1 group-title="SPORTS CHANNELS" tvg-logo="",sport_2 porto
 http://88.212.15.19/live/test_sport_2/playlist.m3u8
 
+#EXTINF:-1 group-title="SPORTS CHANNELS" tvg-logo="",fifa world tv
+https://d2w9q46ikgrcwx.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-of5cbk3sav3w5/v1/sysdata_s_p_a_fifa_7/samsungheadend_us/latest/main/hls/playlist.m3u8
+#EXTINF:-1 group-title="SPORTS CHANNELS" tvg-logo="",sky sport tv
+http://stream.bottledesk.net/p/BgJNQQUCfWc/tracks-v1a1/mono.m3u8?token=MjRTeGlKNmFydGFiZTV6ZGc2MjNtOGVtMXBxdG1MR0ZzSXpIeHEycnlxL0RxNEduaVp1UnBxU2VlWmF0ZnRlRGxaMm0wNStDbnJOOXJJM0puSytpbkE9PQ==
+#EXTINF:-1 group-title="SPORTS CHANNELS" tvg-logo="",sky sport 2 tv
+http://stream.bottledesk.net/p/AwZGQwwEZA/index.m3u8?token=c1lhdWg1N0lxNldaaE12ZnJ0MkRsY1NtcVoyQnk2eUYzWXVkbUthcHhxekRxNEduaVp1UnBxU2VlWmF0ZnRlRGxaMm0wNStDbnJOOXJJM0puSytpbkE9PQ==
 
 
 #################################### Edu TV ####################################
