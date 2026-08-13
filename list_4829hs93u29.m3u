@@ -195,16 +195,17 @@ http://193.111.198.85:8589/stream/rtbftipiklive26/stream.m3u8?p=967e33767f592e1a
 http://193.111.198.85:8589/stream/rtbflatroislive26/stream.m3u8?p=967e33767f592e1aaf3d4019f38f380bf784e113b193d89c412d047059d6300d&u=Oleg
 #EXTINF:-1 group-title="FRENCH CHANNELS" tvg-logo="",TST 1
 http://193.111.198.85:8589/stream/rtbftipiklive26/stream.m3u8?uid=3818376086&u=Oleg&p=967e33767f592e1aaf3d4019f38f380bf784e113b193d89c412d047059d6300d
-
-
+#EXTINF:-1 group-title="FRENCH CHANNELS" tvg-logo="",rts un vercel
+https://rts1-redirect.vercel.app/playlist.m3u8
+#EXTINF:-1 group-title="FRENCH CHANNELS" tvg-logo="",rts deux vercel
+https://rts2-redirect.vercel.app/playlist.m3u8
 
 
 
 #################################### KIDS CHANNELS ####################################
 #EXTINF:-1 group-title="KIDS CHANNELS" tvg-logo="",TVO Kids
 https://fastly.live.brightcove.com/6369851620112/us-east-1/15364602001/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJob3N0IjoicGZncmlmLmVncmVzcy50N2M3emwiLCJhY2NvdW50X2lkIjoiMTUzNjQ2MDIwMDEiLCJlaG4iOiJmYXN0bHkubGl2ZS5icmlnaHRjb3ZlLmNvbSIsImlzcyI6ImJsaXZlLXBsYXliYWNrLXNvdXJjZS1hcGkiLCJzdWIiOiJwYXRobWFwdG9rZW4iLCJhdWQiOlsiMTUzNjQ2MDIwMDEiXSwianRpIjoiNjM2OTg1MTYyMDExMiJ9.zRE6fD9JwdbNLUIK5zgvlTAvXCQ3HeeE5p0yH0Pd3-Q/chunklist.m3u8
-#EXTINF:-1 group-title="KIDS CHANNELS" tvg-logo="",TVO ME
-http://vocotv.pro/live/mmckandes1/P2022ssword/3625.ts
+
 #EXTINF:-1 group-title="KIDS CHANNELS" tvg-logo="",Zoomoo
 https://zoomoo-samsungau.amagi.tv/playlist1080p.m3u8
 #EXTINF:-1 group-title="KIDS CHANNELS" tvg-logo="",KIDS SU
@@ -320,9 +321,119 @@ https://kwtktvata.cdn.mangomolo.com/ktva/smil:tktva.stream.smil/chunklist.m3u8
 https://amg00793-amg00793c6-xumo-us-2669.playouts.now.amagi.tv/BBCStudios-BBCEarthA-hls/playlist.m3u8
 #EXTINF:-1 group-title="DOCUMENTARY" tvg-logo="",ANIMALPLANET EN
 http://41.205.93.154/ANIMALPLANET/index.m3u8
+#EXTINF:-1 group-title="DOCUMENTARY" tvg-logo="",ushuaia hd vercel
+https://ushuaia-redirect.vercel.app/playlist.m3u8
+
+
 #################################### US CHANNELS ####################################
 #EXTINF:-1 group-title="US CHANNELS" tvg-logo="",abc-news
 https://abc-news-dmd-streams-1.akamaized.net/out/v1/701126012d044971b3fa89406a440133/index_8.m3u8
+#EXTM3U
+
+#EXTINF:-1 group-title="US CHANNELS" tvg-logo="",hallmark
+http://4.30.180.36:8420/hallmark/index.m3u8?token=test
+#EXTINF:-1 group-title="US CHANNELS" tvg-logo="",lifetime
+http://4.30.180.36:8420/lifetime/index.m3u8?token=test
+#EXTINF:-1 group-title="US CHANNELS" tvg-logo="",hbo2
+http://4.30.180.36:8420/hbo2/index.m3u8?token=test
+#EXTINF:-1 group-title="US CHANNELS" tvg-logo="",syfy
+http://4.30.180.36:8420/syfy/index.m3u8?token=test
+#EXTINF:-1 group-title="US CHANNELS" tvg-logo="",history
+http://4.30.180.36:8420/history/index.m3u8?token=test
+#EXTINF:-1 group-title="US CHANNELS" tvg-logo="",freeform
+http://4.30.180.36:8420/freeform/index.m3u8?token=test
+#EXTINF:-1 group-title="US CHANNELS" tvg-logo="",wxtvdt
+http://4.30.180.36:8420/wxtvdt/index.m3u8?token=test
+#EXTINF:-1 group-title="US CHANNELS" tvg-logo="",buzzr
+http://4.30.180.36:8420/buzzr/index.m3u8?token=test
+#EXTINF:-1 group-title="US CHANNELS" tvg-logo="",wnjudt
+http://4.30.180.36:8420/wnjudt/index.m3u8?token=test
+#EXTINF:-1 group-title="US CHANNELS" tvg-logo="",foxnews
+http://4.30.180.36:8420/foxnews/index.m3u8?token=test
+#EXTINF:-1 group-title="US CHANNELS" tvg-logo="",starzcinema
+http://4.30.180.36:8420/starzcinema/index.m3u8?token=test
+#EXTINF:-1 group-title="US CHANNELS" tvg-logo="",metv
+http://4.30.180.36:8420/metv/index.m3u8?token=test
+#EXTINF:-1 group-title="US CHANNELS" tvg-logo="",hln
+http://4.30.180.36:8420/hln/index.m3u8?token=test
+#EXTINF:-1 group-title="US CHANNELS" tvg-logo="",nickjr
+http://4.30.180.36:8420/nickjr/index.m3u8?token=test
+#EXTINF:-1 group-title="US CHANNELS" tvg-logo="",foodnetwork
+http://4.30.180.36:8420/foodnetwork/index.m3u8?token=test
+#EXTINF:-1 group-title="US CHANNELS" tvg-logo="",hsn
+http://4.30.180.36:8420/hsn/index.m3u8?token=test
+#EXTINF:-1 group-title="US CHANNELS" tvg-logo="",espn2
+http://4.30.180.36:8420/espn2/index.m3u8?token=test
+#EXTINF:-1 group-title="US CHANNELS" tvg-logo="",usa
+http://4.30.180.36:8420/usa/index.m3u8?token=test
+#EXTINF:-1 group-title="US CHANNELS" tvg-logo="",cnn
+http://4.30.180.36:8420/cnn/index.m3u8?token=test
+#EXTINF:-1 group-title="US CHANNELS" tvg-logo="",comedycentral
+http://4.30.180.36:8420/comedycentral/index.m3u8?token=test
+#EXTINF:-1 group-title="US CHANNELS" tvg-logo="",movies
+http://4.30.180.36:8420/movies/index.m3u8?token=test
+#EXTINF:-1 group-title="US CHANNELS" tvg-logo="",disneychannel
+http://4.30.180.36:8420/disneychannel/index.m3u8?token=test
+#EXTINF:-1 group-title="US CHANNELS" tvg-logo="",cozitv
+http://4.30.180.36:8420/cozitv/index.m3u8?token=test
+#EXTINF:-1 group-title="US CHANNELS" tvg-logo="",espn
+http://4.30.180.36:8420/espn/index.m3u8?token=test
+#EXTINF:-1 group-title="US CHANNELS" tvg-logo="",paramount
+http://4.30.180.36:8420/paramount/index.m3u8?token=test
+#EXTINF:-1 group-title="US CHANNELS" tvg-logo="",tbs
+http://4.30.180.36:8420/tbs/index.m3u8?token=test
+#EXTINF:-1 group-title="US CHANNELS" tvg-logo="",abc
+http://4.30.180.36:8420/abc/index.m3u8?token=test
+#EXTINF:-1 group-title="US CHANNELS" tvg-logo="",starttv
+http://4.30.180.36:8420/starttv/index.m3u8?token=test
+#EXTINF:-1 group-title="US CHANNELS" tvg-logo="",fx
+http://4.30.180.36:8420/fx/index.m3u8?token=test
+#EXTINF:-1 group-title="US CHANNELS" tvg-logo="",amc
+http://4.30.180.36:8420/amc/index.m3u8?token=test
+#EXTINF:-1 group-title="US CHANNELS" tvg-logo="",ion
+http://4.30.180.36:8420/ion/index.m3u8?token=test
+#EXTINF:-1 group-title="US CHANNELS" tvg-logo="",showtime
+http://4.30.180.36:8420/showtime/index.m3u8?token=test
+#EXTINF:-1 group-title="US CHANNELS" tvg-logo="",bravo
+http://4.30.180.36:8420/bravo/index.m3u8?token=test
+#EXTINF:-1 group-title="US CHANNELS" tvg-logo="",kids
+http://4.30.180.36:8420/kids/index.m3u8?token=test
+#EXTINF:-1 group-title="US CHANNELS" tvg-logo="",starzcomedy
+http://4.30.180.36:8420/starzcomedy/index.m3u8?token=test
+#EXTINF:-1 group-title="US CHANNELS" tvg-logo="",starz
+http://4.30.180.36:8420/starz/index.m3u8?token=test
+#EXTINF:-1 group-title="US CHANNELS" tvg-logo="",showtimeextreme
+http://4.30.180.36:8420/showtimeextreme/index.m3u8?token=test
+#EXTINF:-1 group-title="US CHANNELS" tvg-logo="",showtimefamily
+http://4.30.180.36:8420/showtimefamily/index.m3u8?token=test
+#EXTINF:-1 group-title="US CHANNELS" tvg-logo="",discovery
+http://4.30.180.36:8420/discovery/index.m3u8?token=test
+#EXTINF:-1 group-title="US CHANNELS" tvg-logo="",cartoon
+http://4.30.180.36:8420/cartoon/index.m3u8?token=test
+#EXTINF:-1 group-title="US CHANNELS" tvg-logo="",vh1
+http://4.30.180.36:8420/vh1/index.m3u8?token=test
+#EXTINF:-1 group-title="US CHANNELS" tvg-logo="",mezzo
+http://185.98.209.11:81/mezzo/index.m3u8?token=test
+#EXTINF:-1 group-title="US CHANNELS" tvg-logo="",showtime women
+http://40.160.24.55/SHOWTIME_WOMEN/index.m3u8
+#EXTINF:-1 group-title="US CHANNELS" tvg-logo="",hallmark
+http://40.160.24.53/HALLMARK/index.m3u8
+#EXTINF:-1 group-title="US CHANNELS" tvg-logo="",hallmark movies & mysteries
+http://40.160.24.53/HALLMARK_MOVIES_AND_MYSTERIES/index.m3u8
+#EXTINF:-1 group-title="US CHANNELS" tvg-logo="",insp
+http://40.160.24.53/INSP/index.m3u8
+#EXTINF:-1 group-title="US CHANNELS" tvg-logo="",lifetime
+http://45.190.13.8/Lifetime/index.m3u8
+#EXTINF:-1 group-title="US CHANNELS" tvg-logo="",lifetime
+http://190.121.140.222:8081/LIFETIME/index.m3u8
+#EXTINF:-1 group-title="US CHANNELS" tvg-logo="",lifetime real women
+http://40.160.24.58/LIFETIME_REAL_WOMEN/index.m3u8
+#EXTINF:-1 group-title="US CHANNELS" tvg-logo="",xumo
+https://dbrb49pjoymg4.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod_default_xumo-ams-aws/master.m3u8?ads.xumo_channelId=99991709
+#EXTINF:-1 group-title="US CHANNELS" tvg-logo="",start tv
+https://gpuserver5.tier1streams.com/START_TV/index.m3u8
+
+
 #EXTINF:-1 group-title="US CHANNELS" tvg-logo="",USA NETWORK
 http://143.244.60.30/USA_NETWORK/index.m3u8
 #EXTINF:-1 group-title="US CHANNELS" tvg-logo="",ABC HD
