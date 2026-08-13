@@ -323,7 +323,10 @@ https://amg00793-amg00793c6-xumo-us-2669.playouts.now.amagi.tv/BBCStudios-BBCEar
 http://41.205.93.154/ANIMALPLANET/index.m3u8
 #EXTINF:-1 group-title="DOCUMENTARY" tvg-logo="",ushuaia hd vercel
 https://ushuaia-redirect.vercel.app/playlist.m3u8
-
+#EXTINF:-1 group-title="DOCUMENTARY" tvg-logo="",Smithsonian Channel
+http://40.160.24.55/SMITHSONIAN/index.m3u8
+#EXTINF:-1 group-title="DOCUMENTARY" tvg-logo="",Smithsonian Channel HD
+https://gpuserver5.tier1streams.com/SMITHSONIAN/index.m3u8
 
 #################################### US CHANNELS ####################################
 #EXTINF:-1 group-title="US CHANNELS" tvg-logo="",abc-news
