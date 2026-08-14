@@ -1027,7 +1027,8 @@ https://live.alarabiya.net/alarabiapublish/english/playlist_dvr.m3u8
 #EXTINF:-1 group-title="ARABIC CHANNELS" tvg-logo="",quran sharjah
 https://live.kwikmotion.com/sharjahtvquranlive/shqurantv.smil/playlist.m3u8
 
-
+#EXTINF:-1 group-title="ARABIC CHANNELS" tvg-logo="",entv hd
+https://entv-redirect.vercel.app/playlist.m3u8
 
 
 
@@ -1194,6 +1195,163 @@ https://zdf-hls-19.akamaized.net/hls/live/2016502/de/high/master.m3u8
 http://79.127.238.228:14217/
 #EXTINF:-1 group-title="Spain CHANNELS" tvg-id="" tvg-logo="",ent family
 https://cdn.global.elektamedia.com/live/c7eds/ENT_Family/SA_LIVE_hls_enc/master.m3u8
+#EXTM3U
+#EXTINF:5,24h
+#EXTVLCOPT:network-caching=1000
+http://185.207.34.31:8000/play/a00f/index.m3u8
+#EXTINF:0,AFV Americas Funniest
+#EXTVLCOPT:network-caching=1000
+http://185.207.34.31:8000/play/a01h/index.m3u8
+#EXTINF:0,ARIRANG HD
+#EXTVLCOPT:network-caching=1000
+http://185.207.34.31:8000/play/a01v/index.m3u8
+#EXTINF:0,AWE
+#EXTVLCOPT:network-caching=1000
+http://185.207.34.31:8000/play/a01l/index.m3u8
+#EXTINF:0,Ayozat TV
+#EXTVLCOPT:network-caching=1000
+http://185.207.34.31:8000/play/a01f/index.m3u8
+#EXTINF:0,BBC Arabic HD
+#EXTVLCOPT:network-caching=1000
+http://185.207.34.31:8000/play/a01r/index.m3u8
+#EXTINF:5,BBC NL
+#EXTVLCOPT:network-caching=1000
+http://185.207.34.31:8000/play/21168/index.m3u8
+#EXTINF:0,BBC News Europe
+#EXTVLCOPT:network-caching=1000
+http://185.207.34.31:8000/play/a01t/index.m3u8
+#EXTINF:0,BBC Persian HD
+#EXTVLCOPT:network-caching=1000
+http://185.207.34.31:8000/play/a01s/index.m3u8
+#EXTINF:0,Cricket Gold
+#EXTVLCOPT:network-caching=1000
+http://185.207.34.31:8000/play/a01e/index.m3u8
+#EXTINF:0,DW English HD
+#EXTVLCOPT:network-caching=1000
+http://185.207.34.31:8000/play/a01q/index.m3u8
+#EXTINF:0,Das Erste HD
+#EXTVLCOPT:network-caching=1000
+http://185.207.34.31:8000/play/a00k/index.m3u8
+#EXTINF:0,Eurosport 1 Deutschland
+#EXTVLCOPT:network-caching=1000
+http://185.207.34.31:8000/play/a018/index.m3u8
+#EXTINF:0,France 24 (en Francais)
+#EXTVLCOPT:network-caching=1000
+http://185.207.34.31:8000/play/a00o/index.m3u8
+#EXTINF:0,France 24 (in English)
+#EXTVLCOPT:network-caching=1000
+http://185.207.34.31:8000/play/a00p/index.m3u8
+#EXTINF:0,HSE Extra
+#EXTVLCOPT:network-caching=1000
+http://185.207.34.31:8000/play/a019/index.m3u8
+#EXTINF:0,Ment Pop
+#EXTVLCOPT:network-caching=1000
+http://185.207.34.31:8000/play/20949/index.m3u8
+#EXTINF:0,NGC HD
+#EXTVLCOPT:network-caching=1000
+http://185.207.34.31:8000/play/20965/index.m3u8
+#EXTINF:0,NPO1 HD
+#EXTVLCOPT:network-caching=1000
+http://185.207.34.31:8000/play/21029/index.m3u8
+#EXTINF:0,NPO3 HD
+#EXTVLCOPT:network-caching=1000
+http://185.207.34.31:8000/play/21040/index.m3u8
+#EXTINF:0,One America News
+#EXTVLCOPT:network-caching=1000
+http://185.207.34.31:8000/play/a01g/index.m3u8
+#EXTINF:0,Outdoor Channel
+#EXTVLCOPT:network-caching=1000
+http://185.207.34.31:8000/play/a01d/index.m3u8
+#EXTINF:0,Play
+#EXTVLCOPT:network-caching=1000
+http://185.207.34.31:8000/play/7057/index.m3u8
+#EXTINF:0,Play Actie
+#EXTVLCOPT:network-caching=1000
+http://185.207.34.31:8000/play/7061/index.m3u8
+#EXTINF:0,Play Fictie
+#EXTVLCOPT:network-caching=1000
+http://185.207.34.31:8000/play/21126/index.m3u8
+#EXTINF:0,Play Reality
+#EXTVLCOPT:network-caching=1000
+http://185.207.34.31:8000/play/21127/index.m3u8
+#EXTINF:0,RTL Austria
+#EXTVLCOPT:network-caching=1000
+http://185.207.34.31:8000/play/a00t/index.m3u8
+#EXTINF:0,RTLZWEI Austria
+#EXTVLCOPT:network-caching=1000
+http://185.207.34.31:8000/play/a00v/index.m3u8
+#EXTINF:5,Rai 1 HD
+#EXTVLCOPT:network-caching=1000
+http://185.207.34.31:8000/play/a00g/index.m3u8
+#EXTINF:0,Rai 2 HD
+#EXTVLCOPT:network-caching=1000
+http://185.207.34.31:8000/play/a010/index.m3u8
+#EXTINF:0,Rai 3 HD
+#EXTVLCOPT:network-caching=1000
+http://185.207.34.31:8000/play/a01a/index.m3u8
+#EXTINF:0,SUPER RTL A
+#EXTVLCOPT:network-caching=1000
+http://185.207.34.31:8000/play/a00w/index.m3u8
+#EXTINF:0,SWR BW HD
+#EXTVLCOPT:network-caching=1000
+http://185.207.34.31:8000/play/a00m/index.m3u8
+#EXTINF:0,Sport 10
+#EXTVLCOPT:network-caching=1000
+http://185.207.34.31:8000/play/21229/index.m3u8
+#EXTINF:0,Sports First
+#EXTVLCOPT:network-caching=1000
+http://185.207.34.31:8000/play/a01i/index.m3u8
+#EXTINF:0,TRT World HD
+#EXTVLCOPT:network-caching=1000
+http://185.207.34.31:8000/play/a00r/index.m3u8
+#EXTINF:0,TV5MONDE EUROPE
+#EXTVLCOPT:network-caching=1000
+http://185.207.34.31:8000/play/a01u/index.m3u8
+#EXTINF:0,TV5MONDE EUROPE HD
+#EXTVLCOPT:network-caching=1000
+http://185.207.34.31:8000/play/a00q/index.m3u8
+#EXTINF:0,TVE Internacional
+#EXTVLCOPT:network-caching=1000
+http://185.207.34.31:8000/play/a00e/index.m3u8
+#EXTINF:0,Telesur HD
+#EXTVLCOPT:network-caching=1000
+http://185.207.34.31:8000/play/a00d/index.m3u8
+#EXTINF:0,VOX Austria
+#EXTVLCOPT:network-caching=1000
+http://185.207.34.31:8000/play/a00u/index.m3u8
+#EXTINF:0,VOXup
+#EXTVLCOPT:network-caching=1000
+http://185.207.34.31:8000/play/a00x/index.m3u8
+#EXTINF:0,VRT 1
+#EXTVLCOPT:network-caching=1000
+http://185.207.34.31:8000/play/21025/index.m3u8
+#EXTINF:0,VRT Canvas HD
+#EXTVLCOPT:network-caching=1000
+http://185.207.34.31:8000/play/21030/index.m3u8
+#EXTINF:0,VTM 2 HD
+#EXTVLCOPT:network-caching=1000
+http://185.207.34.31:8000/play/7056/index.m3u8
+#EXTINF:0,VTM 3
+#EXTVLCOPT:network-caching=1000
+http://185.207.34.31:8000/play/21120/index.m3u8
+#EXTINF:0,VTM 4
+#EXTVLCOPT:network-caching=1000
+http://185.207.34.31:8000/play/21122/index.m3u8
+#EXTINF:0,VTM HD
+#EXTVLCOPT:network-caching=1000
+http://185.207.34.31:8000/play/7030/index.m3u8
+#EXTINF:0,WildTV
+#EXTVLCOPT:network-caching=1000
+http://185.207.34.31:8000/play/a01m/index.m3u8
+#EXTINF:0,World Poker Tour
+#EXTVLCOPT:network-caching=1000
+http://185.207.34.31:8000/play/a01c/index.m3u8
+#EXTINF:0,arte HD
+#EXTVLCOPT:network-caching=1000
+http://185.207.34.31:8000/play/a00l/index.m3u8
+#EXTINF:0,wedotv Movies
+#EXTVLCOPT:network-caching=1000
+http://185.207.34.31:8000/play/a01o/index.m3u8
 
 
 #EXTINF:-1 group-title="Spain CHANNELS" tvg-logo="",13 C
@@ -1873,9 +2031,8 @@ https://d2w9q46ikgrcwx.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68
 http://stream.bottledesk.net/p/BgJNQQUCfWc/tracks-v1a1/mono.m3u8?token=MjRTeGlKNmFydGFiZTV6ZGc2MjNtOGVtMXBxdG1MR0ZzSXpIeHEycnlxL0RxNEduaVp1UnBxU2VlWmF0ZnRlRGxaMm0wNStDbnJOOXJJM0puSytpbkE9PQ==
 #EXTINF:-1 group-title="SPORTS CHANNELS" tvg-logo="",sky sport 2 tv
 http://stream.bottledesk.net/p/AwZGQwwEZA/index.m3u8?token=c1lhdWg1N0lxNldaaE12ZnJ0MkRsY1NtcVoyQnk2eUYzWXVkbUthcHhxekRxNEduaVp1UnBxU2VlWmF0ZnRlRGxaMm0wNStDbnJOOXJJM0puSytpbkE9PQ==
-#EXTINF:-1 group-title="SPORTS CHANNELS" tvg-logo="",isman sport tv
-https://str.yodacdn.net/idmantele/index.m3u8?token=eyJpcCI6IjE5Ny4yMDQuNjMuMTc5IiwidWEiOiJNb3ppbGxhLzUuMCAoV2luZG93cyBOVCAxMC4wOyBXaW42NDsgeDY0KSBBcHBsZVdlYktpdC81MzcuMzYgKEtIVE1MLCBsaWtlIEdlY2tvKSBDaHJvbWUvMTUxLjAuMC4wIFNhZmFyaS81MzcuMzYiLCJleHAiOjE3ODY2NTcwNDMsImp0aSI6ImUyOWRhZTE3NjA0M2E5MTEifQ==.+pn0V7xJ0mze1+kqMrsmnWlU97pgzV4Dwq0OZtTPKOY=
-
+#EXTINF:-1 group-title="SPORTS CHANNELS" tvg-logo="",idman sport tv
+https://idman-redirect.vercel.app/playlist.m3u8
 
 #################################### Edu TV ####################################
 #EXTINF:-1 group-title="Edu TV" tvg-logo="",Madrassa
