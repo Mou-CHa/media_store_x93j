@@ -248,7 +248,7 @@ http://xxip9.top:8080/live/gscQ3v/779460/57371.ts
 #EXTVLCOPT:network-caching=1000
 http://45.90.106.7:9790/play/TbZ4097U5@F5L
 #EXTINF:-1 group-title="KIDS CHANNELS" tvg-logo="",JEEM AR HD
-http://tornado-pro.com/live/alhomaidirashid@gmail.com/HOrashid1/12345.m3u8
+https://jeem-redirect.vercel.app/playlist.m3u8
 #EXTINF:-1 group-title="KIDS CHANNELS" tvg-logo="",KNOWNLODGE KIDS 
 https://d1wal6k3d7ssin.cloudfront.net/out/v1/ea91db0906c847a4931b46a9ec36e77b/index.m3u8
 #EXTINF:-1 group-title="KIDS CHANNELS" tvg-logo="",Baraem HD AR
