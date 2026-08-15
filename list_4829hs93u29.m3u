@@ -2032,7 +2032,7 @@ http://stream.bottledesk.net/p/BgJNQQUCfWc/tracks-v1a1/mono.m3u8?token=MjRTeGlKN
 #EXTINF:-1 group-title="SPORTS CHANNELS" tvg-logo="",sky sport 2 tv
 http://stream.bottledesk.net/p/AwZGQwwEZA/index.m3u8?token=c1lhdWg1N0lxNldaaE12ZnJ0MkRsY1NtcVoyQnk2eUYzWXVkbUthcHhxekRxNEduaVp1UnBxU2VlWmF0ZnRlRGxaMm0wNStDbnJOOXJJM0puSytpbkE9PQ==
 #EXTINF:-1 group-title="SPORTS CHANNELS" tvg-logo="",idman sport tv
-https://idman-redirect.vercel.app/playlist.m3u8?q=master
+https://idman-redirect.vercel.app/playlist.m3u8
 
 #################################### Edu TV ####################################
 #EXTINF:-1 group-title="Edu TV" tvg-logo="",Madrassa
@@ -2053,4 +2053,4 @@ https://py.dencreak.com/meta/16939.m3u8?token=taeut5.UGzQrSP_G3oE-XHa&
 https://py.dencreak.com/meta/16962.m3u8?token=taeut5.UGzQrSP_G3oE-XHa&
 #EXTINF:-1 group-title="Edu TV" tvg-logo="",falastiniya tv
 https://py.dencreak.com/meta/17138.m3u8?token=taeut5.UGzQrSP_G3oE-XHa&
-#################################### Movies & Series ####################################
+
