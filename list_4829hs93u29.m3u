@@ -199,7 +199,12 @@ http://193.111.198.85:8589/stream/rtbftipiklive26/stream.m3u8?uid=3818376086&u=O
 https://rts1-redirect.vercel.app/playlist.m3u8
 #EXTINF:-1 group-title="FRENCH CHANNELS" tvg-logo="",rts deux vercel
 https://rts2-redirect.vercel.app/playlist.m3u8
-
+#EXTINF:-1 group-title="FRENCH CHANNELS" tvg-logo="",rts 2 dl
+https://rtsdeux-redirect.vercel.app/playlist.m3u8
+#EXTINF:-1 group-title="FRENCH CHANNELS" tvg-logo="",tf1 fr dl
+https://tf1-redirect.vercel.app/live.m3u8
+#EXTINF:-1 group-title="FRENCH CHANNELS" tvg-logo="",arte fr dl
+https://artefr-redirect.vercel.app/playlist.m3u8
 
 
 #################################### KIDS CHANNELS ####################################
@@ -331,8 +336,17 @@ https://gpuserver5.tier1streams.com/SMITHSONIAN/index.m3u8
 #################################### US CHANNELS ####################################
 #EXTINF:-1 group-title="US CHANNELS" tvg-logo="",abc-news
 https://abc-news-dmd-streams-1.akamaized.net/out/v1/701126012d044971b3fa89406a440133/index_8.m3u8
-#EXTM3U
+#EXTINF:-1 group-title="US CHANNELS" tvg-logo="",smith
+https://smith-redirect.vercel.app/playlist.m3u8
+#EXTINF:-1 group-title="US CHANNELS" tvg-logo="",cmt
+https://cmt-redirect.mooshaa.workers.dev/playlist.m3u8
+#EXTINF:-1 group-title="US CHANNELS" tvg-logo="",cbbc
+https://cbbc-redirect.vercel.app/playlist.m3u8
+#EXTINF:-1 group-title="US CHANNELS" tvg-logo="",bbc1
+https://bbc1-redirect.vercel.app/playlist.m3u8
 
+
+https://bbc1-redirect.vercel.app/playlist.m3u8
 #EXTINF:-1 group-title="US CHANNELS" tvg-logo="",hallmark
 http://4.30.180.36:8420/hallmark/index.m3u8?token=test
 #EXTINF:-1 group-title="US CHANNELS" tvg-logo="",lifetime
@@ -2033,6 +2047,9 @@ http://stream.bottledesk.net/p/BgJNQQUCfWc/tracks-v1a1/mono.m3u8?token=MjRTeGlKN
 http://stream.bottledesk.net/p/AwZGQwwEZA/index.m3u8?token=c1lhdWg1N0lxNldaaE12ZnJ0MkRsY1NtcVoyQnk2eUYzWXVkbUthcHhxekRxNEduaVp1UnBxU2VlWmF0ZnRlRGxaMm0wNStDbnJOOXJJM0puSytpbkE9PQ==
 #EXTINF:-1 group-title="SPORTS CHANNELS" tvg-logo="",idman sport tv
 https://idman-redirect.vercel.app/playlist.m3u8
+#EXTINF:-1 group-title="SPORTS CHANNELS" tvg-logo="",ad1 tv
+https://ad1-redirect.vercel.app/playlist.m3u8
+
 
 #################################### Edu TV ####################################
 #EXTINF:-1 group-title="Edu TV" tvg-logo="",Madrassa
@@ -2054,3 +2071,178 @@ https://py.dencreak.com/meta/16962.m3u8?token=taeut5.UGzQrSP_G3oE-XHa&
 #EXTINF:-1 group-title="Edu TV" tvg-logo="",falastiniya tv
 https://py.dencreak.com/meta/17138.m3u8?token=taeut5.UGzQrSP_G3oE-XHa&
 
+#################################### other TV ####################################
+#EXTINF:-1,Unknown
+https://s6.hopslan.com/ardX/index.m3u8
+#EXTINF:-1,Unknown
+https://kqeddt2.lls.pbs.org/kqeddt2-hls.m3u8
+#EXTINF:-1,Unknown
+https://kviedt2.lls.pbs.org/kviedt2-hls.m3u8
+#EXTINF:-1,Unknown
+https://wetadt5.lls.pbs.org/wetadt5-cmaf-hls.m3u8
+#EXTINF:-1,Unknown
+https://world.lls.pbs.org/index.m3u8
+#EXTINF:-1,Unknown
+https://fnx.lls.pbs.org/index.m3u8
+#EXTINF:-1,Unknown
+https://create.lls.pbs.org/index.m3u8
+#EXTINF:-1,Unknown
+https://azt-cl.otteravision.com/azt/cl/cl_540p.m3u8
+#EXTINF:-1,Unknown
+https://channel01-onlymex.akamaized.net/hls/live/2022749/event01/index.m3u8
+#EXTINF:-1,Unknown
+https://live.mediapro.com.br/hls/bh-globo/index.m3u8
+#EXTINF:-1,Unknown
+https://d368vp0qqzvkid.cloudfront.net/manifest/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod_default_nbc-direct/32d83610-b3ed-4e0c-bc1a-9cf4055cc405/3.m3u8
+#EXTINF:-1,Unknown
+https://d368vp0qqzvkid.cloudfront.net/11603/88889711/hls/master.m3u8?ads.xumo_channelId=88889711a&ads.xumo_ifaType=&ads.xumo_providerId=3822&ads.xumo_providerName=NBCNBA
+#EXTINF:-1,Unknown
+https://dtsszjrztq9ti.cloudfront.net/v1/manifest/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-yshah5p4v45g1/86b9e4f7-d8d6-4cfc-9042-b0bd170d9db8/3.m3u8
+#EXTINF:-1,Unknown
+https://jmp2.uk/plu-5cf96cc422df39f1a338d165.m3u8
+#EXTINF:-1,Unknown
+https://cvtv.cvalley.net/hls/KTVOABC/KTVOABC.m3u8
+#EXTINF:-1,Unknown
+https://playlist.fasttvcdn.com/pl/dlkqw1ftuvuuzkcb4pxdcg/Iqraafasttv1/playlist.m3u8
+#EXTINF:-1,Ch_14057 [HTTP 200]
+http://79.127.238.228:14057/
+#EXTINF:-1,Ch_14093 [HTTP 200]
+http://79.127.238.228:14093/
+#EXTINF:-1,Ch_14157 [HTTP 200]
+http://79.127.238.228:14157/
+#EXTINF:-1,Ch_14173 [HTTP 200]
+http://79.127.238.228:14173/
+#EXTINF:-1,Ch_14175 [HTTP 200]
+http://79.127.238.228:14175/
+#EXTINF:-1,Ch_14217 [HTTP 200]
+http://79.127.238.228:14217/
+#EXTINF:-1,Ch_14402 [HTTP 200]
+http://79.127.238.228:14402/
+#EXTINF:-1,Unknown
+http://5.180.164.197:8080/ZDF/index.m3u8
+#EXTINF:-1,Unknown
+http://41.205.93.154/ZDF/index.m3u8
+#EXTINF:-1,Unknown
+http://78.43.230.75:9981/stream/channelid/1495459970?profile=pass
+#EXTINF:-1,Unknown
+https://cdn-sp2.satlabscloud.com.br/ESPN_HD/720p.m3u8?token=Mw3YKkujzIi9hYQJ6kAQjQvly2VdBNuGPjHOq
+#EXTINF:-1,Unknown
+https://dash2.antik.sk/live/test_rai_uno_tizen/playlist.m3u8
+#EXTINF:-1,Unknown
+https://dash2.antik.sk/live/test_rai_tre_tizen/playlist.m3u8
+#EXTINF:-1,Unknown
+https://dash4.antik.sk/live/test_arte_avc_25p/playlist.m3u8
+#EXTINF:-1,Unknown
+https://kikahls.akamaized.net/hls/live/2022690/livetvkika_ww/master.m3u8
+#EXTINF:-1,Unknown
+https://7nyaler.streamhostingcdn.top/stream/50/index.m3u8&exp=1786832568&sig=abea91405729fce615a7f98324e155af30008549d1e60a754effdfbff015fae8
+#EXTINF:-1,Unknown
+https://daserste-live.ard-mcdn.de/daserste/live/hls/int/master.m3u8
+#EXTINF:-1,Unknown
+https://d3k8wzt41aflvx.cloudfront.net/RAI1/Live.m3u8
+#EXTINF:-1,Unknown
+https://d3k8wzt41aflvx.cloudfront.net/RAI2/Live.m3u8
+#EXTINF:-1,Unknown
+https://d3k8wzt41aflvx.cloudfront.net/RAI3/Live.m3u8
+#EXTINF:-1,Unknown
+https://d2qh3gh0k5vp3v.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-n6pess5lwbghr/2M_ES.m3u8
+#EXTINF:-1,Unknown
+https://cdn.live.easybroadcast.io/abr_corp/73_aloula_w1dqfwm/corp/73_aloula_w1dqfwm_360p/chunks.m3u8?token=oJREKt4n-NLmwaF7k6dajqTXHV6zKvw5WXi5dPifNbY&token_path=/abr_corp/73_aloula_w1dqfwm&expires=1786750434
+#EXTINF:-1,Unknown
+https://shd-gcp-live.edgenextcdn.net/live/bitmovin-mtv-lebanon/b8ebb2a5affb812f1541712adde10e26/manifest/video/576p1200kbps/video.m3u8
+#EXTINF:-1,Unknown
+https://shd-gcp-live.edgenextcdn.net/live/bitmovin-mtv-lebanon/b8ebb2a5affb812f1541712adde10e26/index.m3u8
+#EXTINF:-1,Unknown
+https://n-160-3.cdn.avcom-bezeq.tv/webcache/redge-il/livehls/oil/kancdn-live/live/makan/live.livx/playlist.m3u8
+#EXTINF:-1,Unknown
+https://adpnetworkhd-cmd.github.io/iptv/BBCOne.m3u8
+#EXTINF:-1,Unknown
+http://99.27.51.147:8080/Gulli/tracks-v1a1/mono.m3u8
+#EXTINF:-1,Unknown
+https://dbrb49pjoymg4.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod_default_xumo-ams-aws/master.m3u8?ads.xumo_channelId=99991709
+#EXTINF:-1,Unknown
+https://moviesphereuk-samsunguk.amagi.tv/1080p-vtt/index.m3u8
+#EXTINF:-1,France 2 HD
+http://151.80.18.177:86/France_2_HD/index.m3u8
+#EXTINF:-1,France 3 HD
+http://151.80.18.177:86/France_3_HD/index.m3u8
+#EXTINF:-1,France 4 HD
+http://151.80.18.177:86/France_4_HD/index.m3u8
+#EXTINF:-1,France 5 HD
+http://151.80.18.177:86/France_5_HD/index.m3u8
+#EXTINF:-1,Canal+ HD
+http://151.80.18.177:86/Canal+_HD/index.m3u8
+#EXTINF:-1,Canal+ Cinema HD
+http://151.80.18.177:86/Canal+_cinema_HD/index.m3u8
+#EXTINF:-1,Comedie+ HD
+http://151.80.18.177:86/Comedie+_HD/index.m3u8
+#EXTINF:-1,ARTE HD
+http://151.80.18.177:86/ARTE_HD/index.m3u8
+#EXTINF:-1,Paris Premiere HD
+http://151.80.18.177:86/Paris_Premiere_HD/index.m3u8
+#EXTINF:-1,AB1 HD
+http://151.80.18.177:86/AB1/index.m3u8
+#EXTINF:-1,RTL 9 HD
+http://151.80.18.177:86/RTL9/index.m3u8
+#EXTINF:-1,TF1 HD
+http://151.80.18.177:86/TF1_HD/index.m3u8
+#EXTINF:-1,Teva HD
+http://151.80.18.177:86/Teva_HD/index.m3u8
+#EXTINF:-1,National Geo HD
+http://151.80.18.177:86/National_Geo_HD/index.m3u8
+#EXTINF:-1,Histoire HD
+http://151.80.18.177:86/Histoire/index.m3u8
+#EXTINF:-1,Discovery HD
+http://151.80.18.177:86/Discovery_HD/index.m3u8
+#EXTINF:-1,Unknown
+http://151.80.18.177:86/RMC_Decouverte_HD/index.m3u8
+#EXTINF:-1,M6 HD
+http://151.80.18.177:86/M6_HD/index.m3u8
+#EXTINF:-1,W9 HD
+http://151.80.18.177:86/W9_HD/index.m3u8
+#EXTINF:-1,NRJ_12 HD
+http://151.80.18.177:86/NRJ_12_HD/index.m3u8
+#EXTINF:-1,TRACE URBAN
+http://151.80.18.177:86/Trace_Urban_HD/index.m3u8
+#EXTINF:-1,D17 CSTAR HD
+http://151.80.18.177:86/D17_HD/index.m3u8
+#EXTINF:-1,CANAL+ Sport
+http://151.80.18.177:86/Canal+_sport_HD/index.m3u8
+#EXTINF:-1,GOLF+
+http://151.80.18.177:86/GOLF+_HD/index.m3u8
+#EXTINF:-1,Euro Sport HD
+http://151.80.18.177:86/Eurosport_HD/index.m3u8
+#EXTINF:-1,Euro Sport 2 HD
+http://151.80.18.177:86/Eurosport_2_HD/index.m3u8
+#EXTINF:-1,Disney HD
+http://151.80.18.177:86/Disney_Channel_HD/index.m3u8
+#EXTINF:-1,Tiji HD
+http://151.80.18.177:86/Tiji_HD/index.m3u8
+#EXTINF:-1,LCI HD
+http://151.80.18.177:86/LCI_HD/index.m3u8
+#EXTINF:-1,Canal_J
+http://151.80.18.177:86/Canal_J_HD/index.m3u8
+#EXTINF:-1,Unknown
+http://151.80.18.177:86/Teletoon+_HD/index.m3u8
+#EXTINF:-1,Unknown
+http://151.80.18.177:86/Piwi+_HD/index.m3u8
+#EXTINF:-1,Unknown
+http://151.80.18.177:86/Ushuaia+_HD/index.m3u8
+#EXTINF:-1,Unknown
+http://212.102.60.80:80/Cherie25/playlist.m3u8
+#EXTINF:-1,Unknown
+http://38.242.156.120:3020/doms/iptv/raw/commit/fce1e8f6a941686a69152bac21a80a71befc8249/M3U8/base.m3u8
+#EXTINF:-1,Unknown
+http://38.242.156.120:3020/doms/iptv/src/commit/fce1e8f6a941686a69152bac21a80a71befc8249/M3U8/TV.m3u8
+#EXTINF:-1,Unknown
+https://edge13.vedge.infomaniak.com/livecast/ik:event/manifest.m3u8
+#EXTINF:-1,Unknown
+https://edge11.vedge.infomaniak.com/livecast/ik:onefmhd/manifest.m3u8
+#EXTINF:-1,Unknown
+https://lfmhd.vedge.infomaniak.com/livecast/lfmhd/playlist.m3u8
+#EXTINF:-1,Unknown
+https://live-uae-next.spacetoongo.com/ST_MENA_NEXT/hls/r9p2hjipmw2kl.m3u8
+#EXTINF:-1,Unknown
+https://dash2.antik.sk/live/test_ectv_hd_1200/playlist.m3u8
+#EXTINF:-1,Unknown
+https://edge22.776740.ir.cdn.ir/hls2/tv3.m3u8
